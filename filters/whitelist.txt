@@ -1,0 +1,46 @@
+!
+! Title: Whitelist
+! Description: Filter consisting of a DNS whitelist that allows authorized domain names.
+! Homepage: https://github.com/homelab-alpha/adguard-home
+! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
+! Last modified: 2024-03-12T11:53:04Z
+!
+! Compiled by @homelab-alpha/adguard-home
+!
+!
+! Source name: Whitelist
+! Source: https://raw.githubusercontent.com/homelab-alpha/adguard-home/main/filters/whitelist.txt
+! Version: v0.107.45-Alpha
+! Expires: 14 days (update frequency)
+!
+!
+! local
+@@||local^$client='Apple iPad Air 3rd generation Wi-Fi'
+@@||local^$client='Apple iPad Air 3rd generation'
+@@||local^$client='Apple iPhone 12 mini'
+@@||local^$client='Apple iPhone 7'
+@@||local^$client='Apple TV HD'
+@@||local^$client='Apple Watch SE 2nd generation'
+!
+! Budbee
+@@||tracking.budbee.com^$important
+!
+! Crontab guru
+@@crontab.guru^$important
+!
+! Crunchyroll
+@@||cr-eec.etp-prod.com^$important
+@@||static.etp-prod.com^$important
+!
+! Epic Games
+@@||eulatracking-public-service-prod.ak.epicgames.com^$important
+@@||tracking.epicgames.com^$important
+!
+! Firebase: blocking Firebase crash reporting is quite problematic
+@@||app-measurement.com^$important
+!
+! Mozilla
+@@tracking-protection.cdn.mozilla.net^$important
+!
+! Youtube
+@@||s.youtube.com^$important

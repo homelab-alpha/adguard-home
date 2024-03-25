@@ -1,0 +1,50 @@
+!
+! Title: TLDs
+! Description: Filter consisting of a list that blocks Top Level Domains.
+! Homepage: https://github.com/homelab-alpha/adguard-home
+! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
+! Last modified: 2024-03-12T11:53:10Z
+!
+! Compiled by @homelab-alpha/adguard-home
+!
+!
+! Source name: TLDs
+! Source: https://raw.githubusercontent.com/homelab-alpha/adguard-home/main/filters/tlds.txt
+! Version: v0.107.45-Alpha
+! Expires: 14 days (update frequency)
+!
+!
+! infrastructure Top-Level Domain
+/.ads$/
+/.bet$/
+/.bingo$/
+/.bot$/
+/.by$/
+/.casino$/
+/.cn$/
+/.er$/
+/.hk$/
+/.hkt$/
+/.il$/
+/.in$/
+/.iq$/
+/.ir$/
+/.kp$/
+/.mov$/
+/.prod$/
+/.rs$/
+/.ru$/
+/.sbi$/
+/.search$/
+/.statebank$/
+/.sy$/
+/.taipei$/
+/.tatar$/
+/.top$/
+/.tw$/
+/.ua$/
+/.unicom$/
+/.wang$/
+/.yamaxun$/
+/.youtube$/
+/.zip$/

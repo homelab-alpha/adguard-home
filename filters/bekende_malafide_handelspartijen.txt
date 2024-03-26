@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-03-22T12:59:33Z
+! Last modified: 2024-03-26T12:40:18Z
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1984,6 +1984,7 @@
 ||wowdeals-nl.store^$important
 ||wp-trucks.com^$important
 ||wtgcateringbv.com^$important
+||www.majestic-amsterdam.nl^$important
 ||www.spynaray.com^$important
 ||xbipema.com^$important
 ||xebbo.nl^$important

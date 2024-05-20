@@ -1,0 +1,70 @@
+!
+! Title: TLDs
+! Description: Filter consisting of a list that blocks Top Level Domains.
+! Homepage: https://github.com/homelab-alpha/adguard-home
+! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
+! Last modified: 2024-05-17T17:50:35+02:00
+!
+! Compiled by @homelab-alpha/adguard-home
+!
+!
+! Source name: TLDs
+! Source: https://raw.githubusercontent.com/homelab-alpha/adguard-home/main/filters/tlds.txt
+!         https://data.iana.org/TLD/tlds-alpha-by-domain.txt
+! Version: v0.107.45-Alpha
+! Expires: 30 days (update frequency)
+!
+!
+||ads^$important
+||bet^$important
+||bingo^$important
+||bot^$important
+||by^$important
+||casino^$important
+||cc^$important
+||cfd^$important
+||cn^$important
+||er^$important
+||fyi^$important
+||ga^$important
+||gq^$important
+||hair^$important
+||haus^$important
+||hk^$important
+||hkt^$important
+||il^$important
+||in^$important
+||iq^$important
+||ir^$important
+||kp^$important
+||men^$important
+||ml^$important
+||monster^$important
+||mov^$important
+||name^$important
+||ng^$important
+||prod^$important
+||quest^$important
+||rest^$important
+||rodeo^$important
+||rs^$important
+||ru^$important
+||sbi^$important
+||search^$important
+||statebank^$important
+||su^$important
+||support^$important
+||surf^$important
+||sy^$important
+||taipei^$important
+||tatar^$important
+||tattoo^$important
+||tk^$important
+||top^$important
+||tw^$important
+||ua^$important
+||unicom^$important
+||wang^$important
+||yamaxun^$important
+||youtube^$important
+||zip^$important

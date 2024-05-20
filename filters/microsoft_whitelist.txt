@@ -1,0 +1,21 @@
+!
+! Title: Microsoft Whitelist
+! Description: Filter consisting of specific DNS whitelist for Microsoft that allows authorized domain names.
+! Homepage: https://github.com/homelab-alpha/adguard-home
+! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
+! Last modified: 2024-05-17T17:50:21+02:00
+!
+! Compiled by @homelab-alpha/adguard-home
+!
+!
+! Source name: Microsoft whitelist
+! Source: https://raw.githubusercontent.com/homelab-alpha/adguard-home/main/filters/microsoft_whitelist.txt
+! Version: v0.107.45-Alpha
+! Expires: 30 days (update frequency)
+!
+!
+@@||vlscppe.microsoft.com^$important
+@@||statics-marketingsites-eus-ms-com.akamaized.net^$important
+@@||c.microsoft.com^$important
+@@||c1.microsoft.com^$important
+@@||h-microsoft.online-metrix.net^$important

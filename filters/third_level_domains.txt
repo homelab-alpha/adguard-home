@@ -1,0 +1,16 @@
+!
+! Title: Third Level Domains
+! Description: Filter consisting of a list that blocks Third Level Domains.
+! Homepage: https://github.com/homelab-alpha/adguard-home
+! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
+! Last modified: 2024-05-17T17:50:32+02:00
+!
+! Compiled by @homelab-alpha/adguard-home
+!
+!
+! Source name: Third Level Domains
+! Source: https://raw.githubusercontent.com/homelab-alpha/adguard-home/main/filters/third_level_domains.txt
+! Version: v0.107.45-Alpha
+! Expires: 30 days (update frequency)
+!
+!

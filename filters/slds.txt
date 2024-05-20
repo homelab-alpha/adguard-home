@@ -1,0 +1,27 @@
+!
+! Title: SLDs
+! Description: Filter consisting of a list that blocks Second-level domains.
+! Homepage: https://github.com/homelab-alpha/adguard-home
+! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
+! Last modified: 2024-05-17T17:50:29+02:00
+!
+! Compiled by @homelab-alpha/adguard-home
+!
+!
+! Source name: SLDs
+! Source: https://raw.githubusercontent.com/homelab-alpha/adguard-home/main/filters/slds.txt
+! Version: v0.107.45-Alpha
+! Expires: 30 days (update frequency)
+!
+!
+! Generic second-level domains (NIRA)
+||com.ng^$important
+||edu.ng^$important
+||gov.ng^$important
+||i.ng^$important
+||mil.ng^$important
+||mobi.ng^$important
+||name.ng^$important
+||net.ng^$important
+||org.ng^$important
+||sch.ng^$important

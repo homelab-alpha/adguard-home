@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-05-22T16:05:53+02:00
+! Last modified: 2024-05-24T07:19:12+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -106,6 +106,7 @@
 ||antoniodivella.com^$important
 ||antratek-webshop.eu^$important
 ||anydayonlineshop.com^$important
+||apkplaza.nl^$important
 ||aplnederland.com^$important
 ||apparimo.nl^$important
 ||appledealz.nl^$important
@@ -999,6 +1000,7 @@
 ||koopjouwdeals.nl^$important
 ||kopencocaine.com^$important
 ||kopenly.com^$important
+||kopenmedicijnen.com^$important
 ||kordena-online.nl^$important
 ||korneeloutlet.com^$important
 ||korting-huis.nl^$important
@@ -1641,6 +1643,7 @@
 ||smart-market-online.com^$important
 ||smartselektronik.com^$important
 ||smitkleding.nl^$important
+||smuz.nl^$important
 ||sneaker-exclusives.shop^$important
 ||sneaker-outlet.shop^$important
 ||sneaker-winkel.com^$important

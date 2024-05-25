@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-05-24T07:19:12+02:00
+! Last modified: 2024-05-25T08:56:07+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1074,6 +1074,7 @@
 ||lilian-mode.com^$important
 ||liltelbee.com^$important
 ||limelle.nl^$important
+||lina-deals.shop^$important
 ||lindalinoe.com^$important
 ||lisagshop.com^$important
 ||lissadella-mode.fr^$important
@@ -1236,6 +1237,7 @@
 ||modamuchacha.nl^$important
 ||modasbeau.com^$important
 ||modawear.nl^$important
+||mode-plaza.com^$important
 ||mode-wereld.nl^$important
 ||modeboss.nl^$important
 ||modehaus-ams.nl^$important

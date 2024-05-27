@@ -2,8 +2,10 @@
 
 [![Super-Linter](https://github.com/homelab-alpha/adguard-home/actions/workflows/super-linter.yml/badge.svg)](https://github.com/homelab-alpha/adguard-home/actions/workflows/super-linter.yml)
 
-Welcome to the Homelab-Alpha adguard-home repository. This is the source for
-[Homelab-Alpha - AdGuard Home].
+Welcome to the Homelab-Alpha AdGuard Home Repository!
+
+For all related documentation and more information about this repository, please
+visit [Homelab-Alpha/AdGuard-Home].
 
 ## Provide feedback
 
@@ -53,7 +55,7 @@ No external contributions are currently being accepted for this project.
 &copy; 2024 Homelab-Alpha and its repositories are licensed under the terms of
 the [license] agreement.
 
-[Homelab-Alpha - AdGuard Home]: https://homelab-alpha.nl/adguard-home
+[Homelab-Alpha/AdGuard-Home]: https://homelab-alpha.nl/adguard-home
 [Community]: https://github.com/homelab-alpha/adguard-home/discussions
 [Bug report]:
   https://github.com/homelab-alpha/adguard-home/issues/new?&template=bug_report.md

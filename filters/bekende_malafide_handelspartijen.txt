@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-05-29T06:50:47+02:00
+! Last modified: 2024-05-30T08:43:36+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -40,6 +40,7 @@
 ||actievandeweek.com^$important
 ||actieweken.com^$important
 ||adam-modehuis.nl^$important
+||adolro.nl^$important
 ||adrume.nl^$important
 ||advasaro.com^$important
 ||affordabee.nl^$important
@@ -879,6 +880,7 @@
 ||huurwoningnl.nl^$important
 ||hypescrape.com^$important
 ||hypetrends.nl^$important
+||ibiza-zomermode.nl^$important
 ||iBuyy.nl^$important
 ||icon-model.nl^$important
 ||icon-nl.com^$important
@@ -1214,6 +1216,7 @@
 ||mijnzenwinkel.nl^$important
 ||milano-nl.com^$important
 ||milieusticker-france.nl^$important
+||miljanafashion.com^$important
 ||minavo-shop.com^$important
 ||minddore.nl^$important
 ||minimal-home.nl^$important
@@ -1389,6 +1392,7 @@
 ||onrunningnederland.top^$important
 ||onze-korting.com^$important
 ||oostero.com^$important
+||openhaardhout-nl.shop^$important
 ||opruimdeals.com^$important
 ||opruimtijd.com^$important
 ||oranjedeals.com^$important
@@ -1424,6 +1428,7 @@
 ||perfectsalah.nl^$important
 ||petpendy.nl^$important
 ||petrabois.com^$important
+||phonemarket24.nl^$important
 ||pijnstillersapotheek.nl^$important
 ||pikamarkt.eu^$important
 ||pikashops.be^$important

@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters and specifically simplified to be more compatible with ad blocking at the DNS level.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-05-17T17:50:09+02:00
+! Last modified: 2024-06-05T13:50:57+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -169,7 +169,8 @@ bol.com##.js_sponsored-products_item
 ||kjdsfjisdfjr23.azurewebsites.net^$important
 !
 ! NRC
-||assets.nrc.nl/static/front/css/split/paywall.*.css$important
+||assets.nrc.nl/static/front/css/split/paywall.*.css^$important
+||content2.nrc.nl^$important
 ||nrc.nl/paywall-api/$important
 !
 ! Nu
@@ -207,8 +208,12 @@ bol.com##.js_sponsored-products_item
 ||ad.tweakers.net^$important
 ||tweakers.net/ajax/cookie-consents/$important
 ||tweakers.net/x/build/cookieBar.*.js$important
-||tweakers.net/x/styles/components/cookiebar/cookie_bar.fd6f85fcf49475b8103620f801820c56.css^important
+||tweakers.net/x/styles/components/cookiebar/cookie_bar.fd6f85fcf49475b8103620f801820c56.css^$important
 !
 ! Unsplash
 ||logger.unsplash.com^$important
 ||plus.unsplash.com^$important
+!
+! Testing
+||aa.hwigroup.com^$important
+||ab.hwigroup.com^$important

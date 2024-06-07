@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-06-07T09:30:53+02:00
+! Last modified: 2024-06-07T15:17:07+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1121,6 +1121,7 @@
 ||lovana.nl^$important
 ||lovera-amsterdam.nl^$important
 ||lowaschoenen-outlet.com^$important
+||luca-belloni.com^$important
 ||lulu-nl.com^$important
 ||lumano.nl^$important
 ||luminalamps.nl^$important
@@ -1764,6 +1765,7 @@
 ||succesfietsen.com^$important
 ||sukehiro.com^$important
 ||summumsale.shop^$important
+||sunnah-amsterdam.nl^$important
 ||sunnyitems.nl^$important
 ||sunrons.nl^$important
 ||sunros.nl^$important

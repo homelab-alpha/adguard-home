@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-06-19T09:31:19+02:00
+! Last modified: 2024-06-20T09:30:20+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -14,6 +14,20 @@
 ! Expires: 14 days (update frequency)
 !
 !
+*cheaponlinestore2021.ru^$important
+*clearancesale2021.ru^$important
+*deal-outlet.com^$important
+*everglowing.nl^$important
+*holdius.com^$important
+*majestic-amsterdam.nl^$important
+*onlinefactory2021.ru^$important
+*onlineoutlet2021.ru^$important
+*onlinesale2021.ru^$important
+*outletshop2021.ru^$important
+*shopsoutlet2021.ru^$important
+*spynaray.com^$important
+*vrolijkshoppen.com^$important
+*walako.com^$important
 ||123-stofzuigers.nl^$important
 ||123discounter.nl^$important
 ||123stofzuigers.com^$important
@@ -590,7 +604,6 @@
 ||etadsl.com^$important
 ||etherischeoliediscounter.com^$important
 ||eu-rijbewijs.com^$important
-||eu.vrolijkshoppen.com^$important
 ||eurosmarkts.com^$important
 ||eva-fiets.com^$important
 ||evahome-nl.com^$important
@@ -869,7 +882,6 @@
 ||houtpellett.com^$important
 ||houtverwarmers.com^$important
 ||hqcosmeticabv.com^$important
-||hr.clearancesale2021.ru^$important
 ||hub-online.eu^$important
 ||huestudios.nl^$important
 ||huis-elektronica.com^$important
@@ -1351,9 +1363,6 @@
 ||nl-games.eu^$important
 ||nl-games.net^$important
 ||nl-russellcyclone.com^$important
-||nl.cheaponlinestore2021.ru^$important
-||nl.deal-outlet.com^$important
-||nl.holdius.com^$important
 ||nlgames.eu^$important
 ||nll-orona.com^$important
 ||nlstore.bottles-airup.shop^$important
@@ -1538,8 +1547,6 @@
 ||rivona-amsterdam.nl^$important
 ||rmc-store.com^$important
 ||rnbconsultancy.nl^$important
-||ro.onlinesale2021.ru^$important
-||ro.outletshop2021.ru^$important
 ||rocketcards.nl^$important
 ||roermond-fashionoutlet.com^$important
 ||roermond-fashionoutlet.nl^$important
@@ -1640,9 +1647,6 @@
 ||shoesme-nl.shop^$important
 ||shoex.nl^$important
 ||shop-jd.nl^$important
-||shop.onlineoutlet2021.ru^$important
-||shop2.onlinefactory2021.ru^$important
-||shop7.shopsoutlet2021.ru^$important
 ||shopbeliva.nl^$important
 ||shopboostx.com^$important
 ||shopgereedschap.com^$important
@@ -1926,6 +1930,7 @@
 ||vandebergmode.nl^$important
 ||vandekker.nl^$important
 ||vanderbergmode.nl^$important
+||vanderlindemode.nl^$important
 ||vanderveldestore.nl^$important
 ||vandijkschoenen.nl^$important
 ||vandongenmode.com^$important
@@ -2121,9 +2126,6 @@
 ||wowdealsi.com^$important
 ||wp-trucks.com^$important
 ||wtgcateringbv.com^$important
-||www.everglowing.nl^$important
-||www.majestic-amsterdam.nl^$important
-||www.spynaray.com^$important
 ||xbipema.com^$important
 ||xebbo.nl^$important
 ||xhdgraphics.eu^$important

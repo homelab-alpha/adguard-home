@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-06-26T10:15:35+02:00
+! Last modified: 2024-06-27T10:20:30+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -342,6 +342,7 @@
 ||chloe-amsterdam.nl^$important
 ||chloesboutique.co^$important
 ||chloeshop.nl^$important
+||chopnly.com^$important
 ||cigkoftemhaarlem.nl^$important
 ||citexenergy.nl^$important
 ||cizanofashion.nl^$important
@@ -867,6 +868,9 @@
 ||home-spice.online^$important
 ||home-spice.shop^$important
 ||home-spice.store^$important
+||home-well.nl^$important
+||home-well.shop^$important
+||home-well.store^$important
 ||homedane.com^$important
 ||homie-outlet.nl^$important
 ||hotchillies.shop^$important

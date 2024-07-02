@@ -141,7 +141,6 @@ bol.com##.js_sponsored-products_item
 ||migratie-campagne.krantnl.dpgmedia.cloud^$important
 ||monitor.video.dpgmedia.cloud^$important
 ||myprivacy-static.dpgmedia.net/consent.js^$important
-||myprivacy.dpgmedia.nl^$important
 ||notifications-acceptance.dpgdsp-adv-nonprod.dpgmedia.cloud^$important
 ||plan.distributie.dpgmedia.cloud^$important
 ||profile-public-api.data.dpgmedia.cloud^$important

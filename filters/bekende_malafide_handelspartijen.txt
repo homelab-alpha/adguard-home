@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-07-03T15:28:38+02:00
+! Last modified: 2024-07-04T07:25:37+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -429,6 +429,7 @@
 ||dealzoekers.com^$important
 ||dealzwebsearch.com^$important
 ||debruijnamsterdam.nl^$important
+||debruin-mode.nl^$important
 ||decemberactie.com^$important
 ||decemberactie.store^$important
 ||decemberkoopjes.store^$important
@@ -473,8 +474,10 @@
 ||destofzuigerexpert.nl^$important
 ||destofzuigerwinkel.com^$important
 ||detrading-bv.com^$important
+||devisser-mode.nl^$important
 ||devredigewinter.com^$important
 ||devries-home.nl^$important
+||devries-mode.nl^$important
 ||dewoningzoeker.nu^$important
 ||dexamfetamine-kopen.nl^$important
 ||dezigna.nl^$important
@@ -516,6 +519,7 @@
 ||dreambright-nederland.com^$important
 ||dreamico-shop.com^$important
 ||dresst.nl^$important
+||drevani.nl^$important
 ||dripppy.nl^$important
 ||drones-winkel.nl^$important
 ||droog-haardhout.nl^$important
@@ -644,6 +648,7 @@
 ||fashionsurprisebox.nl^$important
 ||fashique.store^$important
 ||fashnique.nl^$important
+||fatbikeshopmaashorst.nl^$important
 ||faugets.nl^$important
 ||feestdagendeals.nl^$important
 ||felas.nl^$important

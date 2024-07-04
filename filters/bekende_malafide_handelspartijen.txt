@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-07-04T07:25:37+02:00
+! Last modified: 2024-07-04T11:18:48+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -637,6 +637,7 @@
 ||familieschilderijen.nl^$important
 ||fancyle.com^$important
 ||fansports.nl^$important
+||fantelle.nl^$important
 ||fantola.nl^$important
 ||farego.nl^$important
 ||farilon.nl^$important
@@ -1461,6 +1462,7 @@
 ||outlets-nl.com^$important
 ||outleturtieri.co^$important
 ||paaloni.com^$important
+||padelproonlinestore.shop^$important
 ||padelprooutletsales.shop^$important
 ||padelprosales.shop^$important
 ||painlesspath.org^$important
@@ -1631,6 +1633,7 @@
 ||sarah-mode.nl^$important
 ||saturn-markt.net^$important
 ||savally.nl^$important
+||savantmode.com^$important
 ||sazanio.nl^$important
 ||sazona-shop.nl^$important
 ||sazona.nl^$important

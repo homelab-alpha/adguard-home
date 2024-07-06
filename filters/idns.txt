@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list that blocks Internationalized Domain Names.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-07-06T09:37:14+02:00
+! Last modified: 2024-07-06T10:05:23+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -102,36 +102,51 @@
 ||xn--l1acc^$important
 ||xn--lgbbat1ad8j^$important
 ||xn--mgb9awbf^$important
+||xn--mgba3a3ejt^$important
 ||xn--mgba3a4f16a^$important
 ||xn--mgba3a4fra^$important
 ||xn--mgba7c0bbn0a^$important
 ||xn--mgbaakc7dvf^$important
 ||xn--mgbaam7a8h^$important
 ||xn--mgbab2bd^$important
+||xn--mgbah1a3hjkrd^$important
+||xn--mgbai9azgqp6j^$important
 ||xn--mgbayh7gpa^$important
 ||xn--mgbb9fbpob^$important
+||xn--mgbbh1a^$important
 ||xn--mgbbh1a71e^$important
 ||xn--mgbc0a9azcg^$important
+||xn--mgbca7dzdo^$important
+||xn--mgbcpq6gpa1a^$important
 ||xn--mgberp4a5d4ar^$important
 ||xn--mgbgu82a^$important
 ||xn--mgbi4ecexp^$important
 ||xn--mgbpl2fh^$important
 ||xn--mgbt3dhd^$important
 ||xn--mgbtx2b^$important
+||xn--mgbx4cd0ab^$important
+||xn--mix891f^$important
+||xn--mk1bu44c^$important
 ||xn--mxtq1m^$important
 ||xn--ngbc5azd^$important
+||xn--ngbe9e0a^$important
+||xn--ngbrx^$important
 ||xn--node^$important
 ||xn--nqv7f^$important
 ||xn--nqv7fs00ema^$important
 ||xn--nyqy26a^$important
 ||xn--o3cw4h^$important
 ||xn--ogbpf8fl^$important
+||xn--otu796d^$important
 ||xn--p1acf^$important
+||xn--p1ai^$important
 ||xn--pbt977c^$important
 ||xn--pgbs0dh^$important
 ||xn--pssy2u^$important
+||xn--q7ce6a^$important
 ||xn--q9jyb4c^$important
 ||xn--qcka1pmc^$important
+||xn--qxa6a^$important
 ||xn--qxam^$important
 ||xn--rhqv96g^$important
 ||xn--rovu88b^$important
@@ -140,6 +155,7 @@
 ||xn--ses554g^$important
 ||xn--t60b56a^$important
 ||xn--tckwe^$important
+||xn--tiq49xqyj^$important
 ||xn--unup4y^$important
 ||xn--vermgensberater-ctb^$important
 ||xn--vermgensberatung-pwb^$important

@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-07-08T10:59:09+02:00
+! Last modified: 2024-07-08T15:22:21+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -266,6 +266,7 @@
 ||boombrandhout.com^$important
 ||bootsie.nl^$important
 ||bosmartnight.nl^$important
+||boss-mode.nl^$important
 ||boutique-milou.nl^$important
 ||bouverne-studio.nl^$important
 ||bouwinradiatoren.nl^$important
@@ -1084,6 +1085,7 @@
 ||laadpaal-winkel.com^$important
 ||laatstedeals.com^$important
 ||lada-fashion.nl^$important
+||ladymoda.nl^$important
 ||lanzonia.com^$important
 ||lapella.nl^$important
 ||laptop-shop.info^$important
@@ -1342,6 +1344,7 @@
 ||mozara.nl^$important
 ||mrandmrsstork.com^$important
 ||muckbootsnlsale.com^$important
+||mufasano.nl^$important
 ||multituinmeubelen.nl^$important
 ||murela.nl^$important
 ||muskzstang.shop^$important

@@ -50,7 +50,7 @@ bol.com##.js_sponsored_product
 bol.com##.js_sponsored-products_item
 !
 ! De Persgroep
-||*.advalue.persgroep.cloud^$important
+||*advalue.persgroep.cloud^$important
 ||acc.webwinkels.persgroep.nl^$important
 ||adops.persgroep.nl^$important
 ||advertiser.adlocal.persgroep.cloud^$important
@@ -105,10 +105,12 @@ bol.com##.js_sponsored-products_item
 ||winkel.destentor.nl^$important
 !
 ! DPG Media
-||*.advision.dpgmedia.cloud^$important
 ||*advertising.dpgmedia.be^$important
 ||*advertising.dpgmedia.cloud^$important
 ||*advertising.dpgmedia.nl^$important
+||*advision.dpgmedia.cloud^$important
+||aa.hwigroup.com^$important
+||ab.hwigroup.com^$important
 ||acc.magazine.tapp.dpgmedia.cloud^$important
 ||acceptance-be.dpgdsp-adv-nonprod.dpgmedia.cloud^$important
 ||actie.dpgmedia.nl^$important
@@ -165,11 +167,11 @@ bol.com##.js_sponsored-products_item
 ||vergelijker-worker.iculture.nl^$important
 !
 ! KijK
-||*.privacymanager.net^$important
+||*privacymanager.net^$important
 ||privacymanager.net^$important
 !
 ! NPO start
-||*.bitmovin.com^$important
+||*bitmovin.com^$important
 ||bitmovin.com^$important
 ||kjdsfjisdfjr23.azurewebsites.net^$important
 !
@@ -179,7 +181,7 @@ bol.com##.js_sponsored-products_item
 ||nrc.nl/paywall-api/$important
 !
 ! Nu
-||*.tools.nu.nl^$important
+||*tools.nu.nl^$important
 ||actie.nu.nl^$important
 ||adverteren.nu.nl^$important
 ||f1spel.nu.nl^$important
@@ -202,7 +204,7 @@ bol.com##.js_sponsored-products_item
 ||voordeel.nu.nl^$important
 !
 ! observ
-||*.observ.app^$important
+||*observ.app^$important
 ||observ.app^$important
 !
 ! Tweakers
@@ -224,5 +226,3 @@ bol.com##.js_sponsored-products_item
 ||plus.unsplash.com^$important
 !
 ! Testing
-||aa.hwigroup.com^$important
-||ab.hwigroup.com^$important

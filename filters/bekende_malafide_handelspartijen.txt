@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-07-10T07:08:17+02:00
+! Last modified: 2024-07-10T14:12:54+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1186,6 +1186,8 @@
 ||luxedealtjes.com^$important
 ||luxekoopje.nl^$important
 ||luxens-nl.com^$important
+||luxevit.com^$important
+||luxevit.nl^$important
 ||luxiva-brand.com^$important
 ||luxovo.nl^$important
 ||luxunova.nl^$important
@@ -1456,6 +1458,7 @@
 ||opruimdeals.com^$important
 ||opruimtijd.com^$important
 ||oranjedeals.com^$important
+||oranjetrots.nl^$important
 ||original-fashion.nl^$important
 ||origineelmeds.com^$important
 ||oronenl.com^$important

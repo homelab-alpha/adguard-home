@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list that blocks Wildcard DNS records.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-05-17T17:50:48+02:00
+! Last modified: 2024-07-11T10:35:03+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -15,6 +15,16 @@
 !
 !
 *adhese.com^$important
+*advalue.persgroep.cloud^$important
+*advertising.dpgmedia.be^$important
+*advertising.dpgmedia.cloud^$important
+*advertising.dpgmedia.nl^$important
+*advision.dpgmedia.cloud^$important
+*bitmovin.com^$important
 *fwmrm.net^$important
 *hwigroup.com^$important
 *lgsmartad.com^$important
+*observ.app^$important
+*privacymanager.net^$important
+*tools.nu.nl^$important
+*treasurecoastaquariums.com^$important

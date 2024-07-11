@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters and specifically simplified to be more compatible with ad blocking at the DNS level.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-07-10T08:15:52+02:00
+! Last modified: 2024-07-11T10:35:09+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -25,7 +25,7 @@
 ||dev-krant.ad.nl^$important
 ||inapp-krant.ad.nl^$important
 ||mooisteshirt.ad.nl^$important
-||statics.ad.nl/js^$important
+||statics.ad.nl/js$important
 ||story.ad.nl^$important
 ||t.ad.nl^$important
 ||verzekeringen.ad.nl^$important
@@ -36,7 +36,7 @@
 ||winkel.ad.nl^$important
 !
 ! Alternate
-||alternate.nl/spa/public/v4/spa/ads/page^$important
+||alternate.nl/spa/public/v4/spa/ads/page$important
 !
 ! Bol.com
 ||adverteren.bol.com^$important
@@ -50,7 +50,6 @@ bol.com##.js_sponsored_product
 bol.com##.js_sponsored-products_item
 !
 ! De Persgroep
-||*advalue.persgroep.cloud^$important
 ||acc.webwinkels.persgroep.nl^$important
 ||adops.persgroep.nl^$important
 ||advertiser.adlocal.persgroep.cloud^$important
@@ -81,7 +80,7 @@ bol.com##.js_sponsored-products_item
 ||cmp.destentor.nl/unified/wrapperMessagingWithoutDetection.js$important
 ||cmp.destentor.nl^$important
 ||destentor.nl/article/remaining-content$important
-||destentor.nl/privacy-gate*^$important
+||destentor.nl/privacy-gate*$important
 ||dev.nextgen.mijn.destentor.nl^$important
 ||dev.stable.mijn.destentor.nl^$important
 ||m.destentor.nl^$important
@@ -90,12 +89,11 @@ bol.com##.js_sponsored-products_item
 ||pmail.destentor.nl^$important
 ||puzzels.destentor.nl^$important
 ||social.destentor.nl^$important
-||statics.destentor.nl/js^$important
+||statics.destentor.nl/js$important
 ||t.destentor.nl/ads-min.js$important
 ||t.destentor.nl^$important
-||temptation-module-assets.api.dpgmedia.cloud$important
+||temptation-module-assets.api.dpgmedia.cloud^$important
 ||temptation.destentor.nl/temptation.js?v=20220407$important
-||temptation.destentor.nl^$important
 ||test.nextgen.mijn.destentor.nl^$important
 ||test.stable.mijn.destentor.nl^$important
 ||tijdschrift.nl^$important
@@ -105,10 +103,6 @@ bol.com##.js_sponsored-products_item
 ||winkel.destentor.nl^$important
 !
 ! DPG Media
-||*advertising.dpgmedia.be^$important
-||*advertising.dpgmedia.cloud^$important
-||*advertising.dpgmedia.nl^$important
-||*advision.dpgmedia.cloud^$important
 ||aa.hwigroup.com^$important
 ||ab.hwigroup.com^$important
 ||acc.magazine.tapp.dpgmedia.cloud^$important
@@ -142,7 +136,7 @@ bol.com##.js_sponsored-products_item
 ||login.dpgmedia.nl^$important
 ||migratie-campagne.krantnl.dpgmedia.cloud^$important
 ||monitor.video.dpgmedia.cloud^$important
-||myprivacy-static.dpgmedia.net/consent.js^$important
+||myprivacy-static.dpgmedia.net/consent.js$important
 ||notifications-acceptance.dpgdsp-adv-nonprod.dpgmedia.cloud^$important
 ||plan.distributie.dpgmedia.cloud^$important
 ||profile-public-api.data.dpgmedia.cloud^$important
@@ -166,46 +160,34 @@ bol.com##.js_sponsored-products_item
 ||shop.iculture.nl^$important
 ||vergelijker-worker.iculture.nl^$important
 !
-! KijK
-||*privacymanager.net^$important
-||privacymanager.net^$important
-!
 ! NPO start
-||*bitmovin.com^$important
-||bitmovin.com^$important
 ||kjdsfjisdfjr23.azurewebsites.net^$important
 !
 ! NRC
-||assets.nrc.nl/static/front/css/split/paywall.*.css^$important
+||assets.nrc.nl/static/front/css/split/paywall.*.css$important
 ||content2.nrc.nl^$important
 ||nrc.nl/paywall-api/$important
 !
 ! Nu
-||*tools.nu.nl^$important
 ||actie.nu.nl^$important
 ||adverteren.nu.nl^$important
 ||f1spel.nu.nl^$important
 ||meedoen.nu.nl^$important
 ||metrics.nu.nl^$important
 ||mobi.nu.nl^$important
-||nu.nl/advertorial^$important
-||nu.nl/advertorials^$important
-||nu.nl/nufolder-voorpagina^$important
-||nu.nl/nushop^$important
-||nu.nl/nushoptickets^$important
-||nu.nl/static/js^$important
-||nu.nl/static/vendor/filesize/filesize.js^$important
+||nu.nl/advertorial$important
+||nu.nl/advertorials$important
+||nu.nl/nufolder-voorpagina$important
+||nu.nl/nushop$important
+||nu.nl/nushoptickets$important
+||nu.nl/static/js$important
+||nu.nl/static/vendor/filesize/filesize.js$important
 ||old.nu.nl^$important
 ||service.nu.nl^$important
 ||shop.nu.nl^$important
 ||stories.nu.nl^$important
-||temptation.nu.nl/temptation.js^$important
-||tools.nu.nl^$important
+||temptation.nu.nl/temptation.js$important
 ||voordeel.nu.nl^$important
-!
-! observ
-||*observ.app^$important
-||observ.app^$important
 !
 ! Tweakers
 ||aa.tweakers.nl/json$important
@@ -213,13 +195,16 @@ bol.com##.js_sponsored-products_item
 ||ab.tweakers.nl/json$important
 ||ab.tweakers.nl^$important
 ||ad.tweakers.net^$important
-||branded.tweakers.nl
+||branded.tweakers.nl^$important
 ||brandedcontentbe.tweakers.be^$important
 ||landingpage.tweakers.nl^$important
 ||pg.tweakers.net^$important
+||tribuskateboards.com^$important
+||tshirtcreeps.com^$important
 ||tweakers.net/ajax/cookie-consents/$important
 ||tweakers.net/x/build/cookieBar.*.js$important
-||tweakers.net/x/styles/components/cookiebar/cookie_bar.fd6f85fcf49475b8103620f801820c56.css^$important
+||tweakers.net/x/styles/components/cookiebar/cookie_bar.fd6f85fcf49475b8103620f801820c56.css$important
+||tyramoorexxx.com^$important
 !
 ! Unsplash
 ||logger.unsplash.com^$important

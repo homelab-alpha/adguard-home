@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-07-16T07:43:28+02:00
+! Last modified: 2024-07-17T10:12:51+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -118,6 +118,7 @@
 ||angelgrill.nl^$important
 ||angelinaled.com^$important
 ||angeloni.shop^$important
+||annavermeer.com^$important
 ||anne-schoenen.shop^$important
 ||annelot-boutique.com^$important
 ||anthavan-hienen.org^$important
@@ -128,6 +129,7 @@
 ||aplnederland.com^$important
 ||apparimo.nl^$important
 ||appledealz.nl^$important
+||aprazowebworks.com^$important
 ||aranayan.com^$important
 ||ardent.top^$important
 ||arrt-webshop.com^$important
@@ -197,6 +199,7 @@
 ||bennanivastgoed.nl^$important
 ||benoitbois.com^$important
 ||bentora-nl.com^$important
+||berendbud.com^$important
 ||berksteijn.nl^$important
 ||berlin-modehaus.com^$important
 ||berry-bois.com^$important
@@ -343,6 +346,7 @@
 ||centrogadgets.nl^$important
 ||cerip.nl^$important
 ||chantal-modehuis.nl^$important
+||charliewynters.com^$important
 ||checkdoorbell.com^$important
 ||chloe-amsterdam.nl^$important
 ||chloesboutique.co^$important
@@ -514,6 +518,7 @@
 ||dompeel.nl^$important
 ||donatalio.com^$important
 ||doordraaikoop.com^$important
+||dosdealzday.com^$important
 ||dotsneaker.com^$important
 ||dovabel.com^$important
 ||drank-apotheek.com^$important
@@ -596,6 +601,7 @@
 ||emax-brandhout.com^$important
 ||emelie-wied.de^$important
 ||emilie-amsterdam.nl^$important
+||emmajansen.com^$important
 ||emotiva-shop.com^$important
 ||empireinvestmentltd.com^$important
 ||enerci-boisdechauffage.com^$important
@@ -707,7 +713,9 @@
 ||florona-outlet.nl^$important
 ||flovina.nl^$important
 ||flowzi.nl^$important
+||flumbodeals.com^$important
 ||fmcg-excellence.eu^$important
+||fontinose.com^$important
 ||foonwinkelshop.com^$important
 ||footflick.nl^$important
 ||fordelu.nl^$important
@@ -724,6 +732,7 @@
 ||frdealshop.com^$important
 ||fresh-prince.nl^$important
 ||frostyc.com^$important
+||frwebsde.com^$important
 ||fullyclassy.com^$important
 ||furbisher.nl^$important
 ||furnituremall.top^$important
@@ -940,6 +949,7 @@
 ||illuxe.be^$important
 ||ilyamsterdam.com^$important
 ||imperialsteps.nl^$important
+||inerdealshozt.com^$important
 ||injectec.de^$important
 ||injectec.net^$important
 ||injectec.nl^$important
@@ -981,6 +991,7 @@
 ||jolien-nl.com^$important
 ||jolien-paris.nl^$important
 ||jolijnbags.com^$important
+||jopbroekman.com^$important
 ||josmancars.net^$important
 ||josmodels.com^$important
 ||josmodels.nl^$important
@@ -1007,6 +1018,7 @@
 ||kaufenia.com^$important
 ||kavalo-nl.com^$important
 ||keen-nederland.com^$important
+||keesbakkers.com^$important
 ||kerstdeals.com^$important
 ||kerstkoopjes.com^$important
 ||kerstkoopjes.store^$important
@@ -1164,6 +1176,7 @@
 ||loti-winkel.nl^$important
 ||louamsterdam.nl^$important
 ||loub-amsterdam.nl^$important
+||louisthompsons.com^$important
 ||louiza-outlet.nl^$important
 ||louv.shop^$important
 ||louven.nl^$important
@@ -1231,6 +1244,7 @@
 ||maryloo.nl^$important
 ||masker24.nl^$important
 ||mastshowda.com^$important
+||mathijnshop.com^$important
 ||mavlino.store^$important
 ||max-markt.com^$important
 ||maxikleding.nl^$important
@@ -1264,6 +1278,7 @@
 ||merle-modehuis.nl^$important
 ||merle-outlet.nl^$important
 ||merlefashion.nl^$important
+||meubel-outlet.com^$important
 ||mevisboutique.com^$important
 ||mi-makeup.com^$important
 ||mi-mobile.nl^$important
@@ -1376,6 +1391,7 @@
 ||neatic.nl^$important
 ||nederlandaanbieding.com^$important
 ||nedertrends.com^$important
+||nelmaart.com^$important
 ||nembutal.club^$important
 ||neo-electro.com^$important
 ||neomartshop.com^$important
@@ -1617,6 +1633,7 @@
 ||royal-fashion.nl^$important
 ||royal-koopjes.nl^$important
 ||rsa-nl.com^$important
+||rubensmitx.com^$important
 ||rushaoutlet.com^$important
 ||russell-cyclone.nl^$important
 ||russell-nl.com^$important
@@ -1673,6 +1690,7 @@
 ||scotchandsodasale-eu.com^$important
 ||scotcheuwears.com^$important
 ||search-planeet.com^$important
+||searchdealzweb.com^$important
 ||seasonkinderwagen.com^$important
 ||seizoensmode.nl^$important
 ||sekswerkerinformatie.nl^$important
@@ -1703,6 +1721,7 @@
 ||shopsavydeals.com^$important
 ||shopshoesnederland.com^$important
 ||shopventuro.com^$important
+||shopwelsint.com^$important
 ||shunaza.com^$important
 ||sieradensmycken.com^$important
 ||silana-mode.com^$important
@@ -1774,6 +1793,7 @@
 ||solemates.nl^$important
 ||solide-kredi.com^$important
 ||soncloset.com^$important
+||sonnymills.com^$important
 ||sony-ps5.nl^$important
 ||sophia-amsterdam.nl^$important
 ||sophia-thehague.shop^$important
@@ -2061,6 +2081,7 @@
 ||villaoutlet.nl^$important
 ||vilora.nl^$important
 ||vilova.nl^$important
+||vindenly.com^$important
 ||vink-vogue.com^$important
 ||vinterforsyning.com^$important
 ||virola-amsterdam.nl^$important
@@ -2117,7 +2138,9 @@
 ||warmworden.com^$important
 ||Washmachine.nl^$important
 ||weallcare4beauty.com^$important
+||webdealsint.com^$important
 ||webdealzsearch.com^$important
+||webdoelens.com^$important
 ||webkorting.com^$important
 ||webshopchecken.nl^$important
 ||webtique.nl^$important
@@ -2219,6 +2242,7 @@
 ||zirex.nl^$important
 ||zitsak.nl^$important
 ||zittenenslapen.nl^$important
+||zixodealz.com^$important
 ||zodello.nl^$important
 ||zolado.nl^$important
 ||zolana-nl.com^$important

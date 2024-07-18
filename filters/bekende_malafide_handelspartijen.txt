@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-07-18T09:48:22+02:00
+! Last modified: 2024-07-18T15:59:35+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1003,6 +1003,7 @@
 ||joudeal.nl^$important
 ||joudeals.nl^$important
 ||joyes.nl^$important
+||judithsbloemen.nl^$important
 ||juhanzo.store^$important
 ||juisteplaats.com^$important
 ||juisthout.com^$important

@@ -339,6 +339,7 @@
 ||catchdeals.nl^$important
 ||caterpillar-nederland.com^$important
 ||caterpillar-nederland.top^$important
+||cavallarotop.shop^$important
 ||caxada.nl^$important
 ||celestes-amsterdam.nl^$important
 ||celyfe.com^$important
@@ -2086,6 +2087,7 @@
 ||vilora.nl^$important
 ||vilova.nl^$important
 ||vindenly.com^$important
+||vindeny.com^$important
 ||vink-vogue.com^$important
 ||vinterforsyning.com^$important
 ||virola-amsterdam.nl^$important

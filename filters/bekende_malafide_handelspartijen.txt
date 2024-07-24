@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-07-24T11:27:38+02:00
+! Last modified: 2024-07-24T14:06:33+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1666,6 +1666,7 @@
 ||samsova-shop.com^$important
 ||samuelfashion.nl^$important
 ||sanatan-nl.com^$important
+||sandalensv.com^$important
 ||sanuknederland.com^$important
 ||sanuknederland.top^$important
 ||saperde.nl^$important
@@ -2170,6 +2171,7 @@
 ||wihary.nl^$important
 ||wijnrekkenmuur.nl^$important
 ||wildivo.com^$important
+||willashoes.com^$important
 ||willemsenwitgoed.nl^$important
 ||win-brandbaar.store^$important
 ||winaco.nl^$important
@@ -2201,6 +2203,7 @@
 ||wolkyonline.shop^$important
 ||wolkyschoenenverkooppunten.com^$important
 ||wolkywinkelsnederland.com^$important
+||wolkywolky.com^$important
 ||womanbeauty.nl^$important
 ||womani.nl^$important
 ||womtrend.nl^$important

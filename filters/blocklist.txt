@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters and specifically simplified to be more compatible with ad blocking at the DNS level.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-07-11T10:35:09+02:00
+! Last modified: 2024-08-03T12:56:15+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -188,6 +188,9 @@ bol.com##.js_sponsored-products_item
 ||stories.nu.nl^$important
 ||temptation.nu.nl/temptation.js$important
 ||voordeel.nu.nl^$important
+!
+! Rabobank
+||log.rabobank.nl^$important
 !
 ! Tweakers
 ||aa.tweakers.nl/json$important

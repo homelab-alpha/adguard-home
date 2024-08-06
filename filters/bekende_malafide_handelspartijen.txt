@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-08-02T13:50:58+02:00
+! Last modified: 2024-08-06T13:43:11+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -88,6 +88,7 @@
 ||alleshoutpellets.com^$important
 ||allshopnotion.com^$important
 ||alma-brandbaar.com^$important
+||alpha-touch.nl^$important
 ||alphasport.nl^$important
 ||altamsterdam.nl^$important
 ||alteros.nl^$important
@@ -127,6 +128,7 @@
 ||anydayonlineshop.com^$important
 ||apkplaza.nl^$important
 ||aplnederland.com^$important
+||apotheek-24.nl^$important
 ||apparimo.nl^$important
 ||appledealz.nl^$important
 ||aprazowebworks.com^$important
@@ -176,6 +178,7 @@
 ||beauteenfool.nl^$important
 ||beauteenfoolshop.nl^$important
 ||beautessy.nl^$important
+||beautygezondheids.nl^$important
 ||beautypaddy.nl^$important
 ||bedrijf-financial.com^$important
 ||beelini.nl^$important
@@ -1005,6 +1008,7 @@
 ||josmodels.nl^$important
 ||joudeal.nl^$important
 ||joudeals.nl^$important
+||jouwgezondheids.nl^$important
 ||joyes.nl^$important
 ||judithsbloemen.nl^$important
 ||juhanzo.store^$important
@@ -1381,6 +1385,7 @@
 ||muskzstang.shop^$important
 ||my-firewoodstore.com^$important
 ||my-homegoodies.nl^$important
+||myfashionclub.nl^$important
 ||myhomegoodies.nl^$important
 ||myleaflight.com^$important
 ||mymercadoamsterdam.nl^$important

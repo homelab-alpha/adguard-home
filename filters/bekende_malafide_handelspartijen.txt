@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-08-07T15:41:54+02:00
+! Last modified: 2024-08-08T11:17:10+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -656,6 +656,7 @@
 ||f1ticketbox.nl^$important
 ||fabellum.nl^$important
 ||fabelum.nl^$important
+||factoryonlineoffer.shop^$important
 ||familieschilderijen.nl^$important
 ||fancyle.com^$important
 ||fansports.nl^$important
@@ -840,6 +841,7 @@
 ||grouponacties.nl^$important
 ||grouponbenelux.nl^$important
 ||gstarsoutlet.com^$important
+||gvmedicijnen.com^$important
 ||gymkast.nl^$important
 ||gymplaza.net^$important
 ||gymsharkwinkelamsterdam.com^$important

@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-08-08T11:17:10+02:00
+! Last modified: 2024-08-08T15:52:21+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -547,6 +547,7 @@
 ||duitsrijbewijs.com^$important
 ||durosek.nl^$important
 ||dutch-designeroutlet.com^$important
+||dutchsneakers.com^$important
 ||dutchsport.net^$important
 ||dyalifestyle.com^$important
 ||dysondeal.nl^$important
@@ -864,6 +865,7 @@
 ||hausio.nl^$important
 ||hauspelletexpress.com^$important
 ||havary.nl^$important
+||haven-apotheek.com^$important
 ||hayleymode.com^$important
 ||headsetkorting.nl^$important
 ||heemstra-outlet.com^$important
@@ -2254,6 +2256,7 @@
 ||zaans.shop^$important
 ||zabo-electro.com^$important
 ||zadelia.nl^$important
+||zadig-et-voltaire-eu.shop^$important
 ||zahra-fashion.nl^$important
 ||zalazoagency.com^$important
 ||zalvado.nl^$important

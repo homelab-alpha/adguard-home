@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-08-08T15:52:21+02:00
+! Last modified: 2024-08-10T10:04:04+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -135,6 +135,7 @@
 ||appledealz.nl^$important
 ||aprazowebworks.com^$important
 ||aranayan.com^$important
+||ardelle-amsterdam.com^$important
 ||ardent.top^$important
 ||arrt-webshop.com^$important
 ||arthurbc.com^$important
@@ -1676,6 +1677,7 @@
 ||salah-shop.com^$important
 ||salebijenkorf.nl^$important
 ||saleclub.shop^$important
+||saledebijenkorf.nl^$important
 ||saleknallers.com^$important
 ||saleroermond.nl^$important
 ||sales-corner.nl^$important

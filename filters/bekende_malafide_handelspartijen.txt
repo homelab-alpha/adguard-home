@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-08-20T14:23:45+02:00
+! Last modified: 2024-08-20T14:49:28+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1533,6 +1533,8 @@
 ||outlets-nl.com^$important
 ||outleturtieri.co^$important
 ||oxazepamkopen.com^$important
+||ozempic-kopen.nl^$important
+||ozempicapotheek.nl^$important
 ||paaloni.com^$important
 ||padelproonlinestore.shop^$important
 ||padelprooutletsales.shop^$important

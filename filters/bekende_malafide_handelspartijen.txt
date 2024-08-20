@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-08-16T13:42:45+02:00
+! Last modified: 2024-08-20T09:12:05+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -28,6 +28,7 @@
 *spynaray.com^$important
 *vrolijkshoppen.com^$important
 *walako.com^$important
+||100a95-fc.myshopify.com^$important
 ||123-stofzuigers.nl^$important
 ||123discounter.nl^$important
 ||123stofzuigers.com^$important
@@ -1425,6 +1426,7 @@
 ||ne-neoelectronics.com^$important
 ||neatic.nl^$important
 ||nederlandaanbieding.com^$important
+||nederlandsedrugsmarkt.com^$important
 ||nedertrends.com^$important
 ||nelmaart.com^$important
 ||nembutal.club^$important
@@ -1444,6 +1446,7 @@
 ||nieuwjaarskorting.store^$important
 ||nika-deals.shop^$important
 ||nimbussdesignagency.com^$important
+||nina-fashion.shop^$important
 ||nivara.nl^$important
 ||nl-autolift.com^$important
 ||nl-brandstoffen.com^$important
@@ -1482,6 +1485,7 @@
 ||ntaior.com^$important
 ||ntmverkoop.nl^$important
 ||nuevobe.com^$important
+||nulreceptapotheek.com^$important
 ||nuvado.nl^$important
 ||nuvoirr.com^$important
 ||nwelectrowinkel.com^$important
@@ -1930,6 +1934,7 @@
 ||techpuls-vector.com^$important
 ||tecno-x.de^$important
 ||tedbakernederland.co.nl^$important
+||tedbakernederlandwinkel.com^$important
 ||tedbakernloutlet.com^$important
 ||tektit.eu^$important
 ||telecommeester.nl^$important
@@ -2085,6 +2090,7 @@
 ||veevaldo.com^$important
 ||veiova-amsterdam.com^$important
 ||vejaventuri.nl^$important
+||velvetrognik.com^$important
 ||vemisboutiquenl.com^$important
 ||vemorio.com^$important
 ||ventboro.nl^$important

@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-08-22T15:29:56+02:00
+! Last modified: 2024-08-22T16:44:59+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -14,13 +14,13 @@
 ! Expires: 14 days (update frequency)
 !
 !
-*.myecomstore.net^$important
 *cheaponlinestore2021.ru^$important
 *clearancesale2021.ru^$important
 *deal-outlet.com^$important
 *everglowing.nl^$important
 *holdius.com^$important
 *majestic-amsterdam.nl^$important
+*myecomstore.net^$important
 *onlinefactory2021.ru^$important
 *onlineoutlet2021.ru^$important
 *onlinesale2021.ru^$important

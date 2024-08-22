@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-08-22T10:57:24+02:00
+! Last modified: 2024-08-22T15:29:56+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -14,6 +14,7 @@
 ! Expires: 14 days (update frequency)
 !
 !
+*.myecomstore.net^$important
 *cheaponlinestore2021.ru^$important
 *clearancesale2021.ru^$important
 *deal-outlet.com^$important
@@ -272,6 +273,7 @@
 ||bonavieta.store^$important
 ||bonnefemme-shop.nl^$important
 ||bontenta.com^$important
+||bonvina.nl^$important
 ||boofashions.com^$important
 ||boombrandhout.com^$important
 ||bootsie.nl^$important
@@ -609,6 +611,9 @@
 ||elektropellets.com^$important
 ||elektros-store.com^$important
 ||elen-schoenen.shop^$important
+||elevateq-nl.myecomstore.net^$important
+||elevateq.myecomstore.net^$important
+||elevateq19.myecomstore.net^$important
 ||elitecloth.store^$important
 ||elixamsterdam.nl^$important
 ||elkilt.com^$important
@@ -801,6 +806,7 @@
 ||gereedschapcentra.com^$important
 ||gereedschapcentra.nl^$important
 ||gereedschapheelal.nl^$important
+||gereedschaponline.net^$important
 ||gereedschapshop.net^$important
 ||getjeugdcenter.com^$important
 ||geweldigedeals.net^$important
@@ -924,6 +930,7 @@
 ||home-well.store^$important
 ||homedane.com^$important
 ||homie-outlet.nl^$important
+||hornbachnl.com^$important
 ||hotchillies.shop^$important
 ||houseofgarden.nl^$important
 ||houtenpellets-nl.store^$important
@@ -1326,6 +1333,7 @@
 ||miller-mode.nl^$important
 ||minavo-shop.com^$important
 ||minddore.nl^$important
+||mindfulgenix.myecomstore.net^$important
 ||minimal-home.nl^$important
 ||minimal-home.shop^$important
 ||minimal-home.store^$important

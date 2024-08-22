@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-08-22T09:16:29+02:00
+! Last modified: 2024-08-22T10:57:24+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1791,6 +1791,7 @@
 ||skechersschoenenaanbieding.com^$important
 ||skecherswinkelsnederland.com^$important
 ||sky-sense.nl^$important
+||slaappillen.net^$important
 ||sleepsense-online.nl^$important
 ||slieka.com^$important
 ||slimdownshop.shop^$important

@@ -46,7 +46,7 @@ by creating a pull request.
 You can ask general questions and get community support through our [community].
 
 If you have an idea for a new feature or behavior change in a specific aspect of
-Homelab-Alpha - AdGuard Home or have found a bug, file that issue in the
+Homelab-Alpha AdGuard Home or have found a bug, file that issue in the
 project's code repository.
 
 We've made it easy for you to file new issues.

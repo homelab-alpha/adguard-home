@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-08-23T10:02:28+02:00
+! Last modified: 2024-08-24T08:37:00+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -411,6 +411,7 @@
 ||curewebz.com^$important
 ||custombracelet.nl^$important
 ||daalmansmode.com^$important
+||dag-deals.com^$important
 ||dagameszone.com^$important
 ||dalibio.nl^$important
 ||danaro.nl^$important
@@ -1105,7 +1106,9 @@
 ||kopenmedicijnen.com^$important
 ||kordena-online.nl^$important
 ||korneeloutlet.com^$important
+||korting-dagen.com^$important
 ||korting-huis.nl^$important
+||korting-weken.com^$important
 ||korting-zone.nl^$important
 ||kortingenn.nl^$important
 ||kortingklapper.com^$important
@@ -1236,6 +1239,7 @@
 ||luxedealtjes.com^$important
 ||luxekoopje.nl^$important
 ||luxens-nl.com^$important
+||luxepassage.nl^$important
 ||luxevit.com^$important
 ||luxevit.nl^$important
 ||luxiva-brand.com^$important
@@ -1253,12 +1257,14 @@
 ||machinekist.nl^$important
 ||madurro.nl^$important
 ||maesh.nl^$important
+||magazijn-uitverkoop.com^$important
 ||magazijnkorting.com^$important
 ||malego.nl^$important
 ||maluxa.nl^$important
 ||maluxe.nl^$important
 ||mambobaby-float.nl^$important
 ||mammutoutletsnederland.com^$important
+||mamorae.nl^$important
 ||maniamedia.nl^$important
 ||manosamsterdam.com^$important
 ||manosamsterdam.nl^$important
@@ -1299,6 +1305,7 @@
 ||meesterpellets.shop^$important
 ||meestertools.nl^$important
 ||mega-actie.nl^$important
+||mega-acties.com^$important
 ||mega-korting.com^$important
 ||mega-uitverkoop.com^$important
 ||megadeals-nl.com^$important
@@ -1630,6 +1637,7 @@
 ||qewaro.nl^$important
 ||qlimates.nl^$important
 ||qolasam.com^$important
+||qorvez.nl^$important
 ||qwuirksilliio.com^$important
 ||rademakers-mode.com^$important
 ||raexoliwebda.com^$important
@@ -1799,6 +1807,7 @@
 ||skechersschoenenaanbieding.com^$important
 ||skecherswinkelsnederland.com^$important
 ||sky-sense.nl^$important
+||slaappillen-kopen.net^$important
 ||slaappillen.net^$important
 ||sleepsense-online.nl^$important
 ||slieka.com^$important
@@ -1914,6 +1923,7 @@
 ||sunrons.nl^$important
 ||sunros.nl^$important
 ||supachik.com^$important
+||super-aanbieding.com^$important
 ||super-outlet.shop^$important
 ||super-superdeals.nl^$important
 ||super-voordeel.nl^$important

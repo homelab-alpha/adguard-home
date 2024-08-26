@@ -73,7 +73,7 @@ We've made it easy for you to file new issues.
 
 ## Contribute to Homelab-Alpha AdGuard Home repository
 
-### No external contributions are currently being accepted for this project
+No external contributions are currently being accepted for this project.
 
 ## Reporting Vulnerabilities
 

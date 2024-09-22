@@ -1,0 +1,16 @@
+!
+! Title: DNS type
+! Description: Filter consisting of a list that analyzes what type of DNS requests they are and then determines whether they should be locked using a rule in a DNS block list.
+! Homepage: https://github.com/homelab-alpha/adguard-home
+! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
+! Last modified: 2024-09-22T12:07:38+02:00
+!
+! Compiled by @homelab-alpha/adguard-home
+!
+!
+! Source name: DNS type
+! Source: https://raw.githubusercontent.com/homelab-alpha/adguard-home/main/filters/dns_type.txt
+! Version: v0.107.52-Alpha
+! Expires: 90 days (update frequency)
+!
+!

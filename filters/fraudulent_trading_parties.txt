@@ -1,0 +1,24 @@
+!
+! Title: Fraudulent Trading Parties
+! Description: Filter consisting of a list of trading parties (sellers and traders) known to be fraudulent.
+! Homepage: https://github.com/homelab-alpha/adguard-home
+! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
+! Last modified: 2024-09-22T12:07:38+02:00
+!
+! Compiled by @homelab-alpha/adguard-home
+!
+!
+! Source name: Fraudulent Trading Parties
+! Source: https://raw.githubusercontent.com/homelab-alpha/adguard-home/main/filters/fraudulent_trading_parties.txt
+! Version: v0.107.52-Alpha
+! Expires: 90 days (update frequency)
+!
+!
+||2dehandsstudieboek.nl^$important
+||cosmeticessentials.nl^$important
+||gadgetfreakzz.nl^$important
+||goedkoopstesmartphones.nl^$important
+||grwinkel.nl^$important
+||thatsvogue.nl^$important
+||Ti-84shop.nl^$important
+||Ti84shop.nl^$important

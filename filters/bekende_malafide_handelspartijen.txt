@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-09-23T15:43:13+02:00
+! Last modified: 2024-09-24T13:14:36+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1198,6 +1198,7 @@
 ||leora-shop.nl^$important
 ||lerava.nl^$important
 ||letfatburnin.store^$important
+||lexosaa.nl^$important
 ||licane.com^$important
 ||lidlelectricsale.com^$important
 ||lidlmarket.shop^$important
@@ -1769,6 +1770,7 @@
 ||salomomoutletnederland.com^$important
 ||salomooutletnederland.com^$important
 ||saloria.nl^$important
+||salurashop.com^$important
 ||samsova-shop.com^$important
 ||samuelfashion.nl^$important
 ||sanatan-nl.com^$important

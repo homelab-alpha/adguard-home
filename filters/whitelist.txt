@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a DNS whitelist that allows authorized domain names.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-09-22T12:07:38+02:00
+! Last modified: 2024-09-30T14:30:39+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -14,26 +14,28 @@
 ! Expires: 90 days (update frequency)
 !
 !
-@@||*my-lan.nl
-@@||*my-wan.nl
-@@||*openai.com
+@@||*my-lan.nl^$important
+@@||*my-wan.nl^$important
+@@||*openai.com^$important
 @@||app-measurement.com^$important
-@@||app.plex.tv
-@@||bitwarden.com
+@@||app.plex.tv^$important
+@@||autopatchos.starrails.com^$important,client='Desktop PC 2.5Gbps'
+@@||bitwarden.com^$important
 @@||cr-eec.etp-prod.com^$important
 @@||crontab.guru^$important
-@@||duckduckgo.com
 @@||eulatracking-public-service-prod.ak.epicgames.com^$important
-@@||local^$client='Apple iPad Air 3rd generation Wi-Fi'
-@@||local^$client='Apple iPad Air 3rd generation'
-@@||local^$client='Apple iPhone 12 mini'
-@@||local^$client='Apple iPhone 7'
-@@||local^$client='Apple TV HD'
-@@||local^$client='Apple Watch SE 2nd generation'
-@@||localhost
-@@||ovh.nl
+@@||local^$important,client='Apple iPad Air 3rd generation Wi-Fi'
+@@||local^$important,client='Apple iPad Air 3rd generation'
+@@||local^$important,client='Apple iPhone 12 mini'
+@@||local^$important,client='Apple iPhone 7'
+@@||local^$important,client='Apple TV HD'
+@@||local^$important,client='Apple Watch SE 2nd generation'
+@@||localhost^$important
+@@||ovh.nl^$important
 @@||s.youtube.com^$important
+@@||scdn.co^$important
 @@||static.etp-prod.com^$important
 @@||tracking-protection.cdn.mozilla.net^$important
 @@||tracking.budbee.com^$important
 @@||tracking.epicgames.com^$important
+@@||v.vrv.co^$important,client='Chromecast with Google TV Living Room'

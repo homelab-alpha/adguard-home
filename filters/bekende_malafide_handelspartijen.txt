@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-10-01T10:37:01+02:00
+! Last modified: 2024-10-01T14:33:46+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -250,6 +250,7 @@
 ||blaricumboutique.nl^$important
 ||blarivo.com^$important
 ||blautry.com^$important
+||blauw-mode.nl^$important
 ||blauweslak.nl^$important
 ||blazon-fashion.com^$important
 ||bleufashion.nl^$important

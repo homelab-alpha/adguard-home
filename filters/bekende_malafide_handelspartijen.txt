@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-10-07T16:39:28+02:00
+! Last modified: 2024-10-08T17:48:40+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -2227,6 +2227,7 @@
 ||victoryoutlet.nl^$important
 ||videeda.com^$important
 ||videomo-shop.com^$important
+||vido-mode.nl^$important
 ||villadeals.nl^$important
 ||villaoutlet.nl^$important
 ||vilora.nl^$important

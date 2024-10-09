@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-10-08T17:48:40+02:00
+! Last modified: 2024-10-09T12:28:25+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1420,6 +1420,7 @@
 ||mode-boss.nl^$important
 ||mode-plaza.com^$important
 ||mode-wereld.nl^$important
+||modeboss.com^$important
 ||modeboss.nl^$important
 ||modehaus-ams.nl^$important
 ||modehuisbakker.nl^$important
@@ -1614,6 +1615,7 @@
 ||padelprosales.shop^$important
 ||painlesspath.org^$important
 ||paiso.nl^$important
+||pakjedealsnu.nl^$important
 ||panamajack-belgie.com^$important
 ||panamajacknl.com^$important
 ||parelmeer.nl^$important

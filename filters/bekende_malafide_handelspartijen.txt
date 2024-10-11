@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-10-09T17:04:49+02:00
+! Last modified: 2024-10-11T16:44:13+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1445,6 +1445,7 @@
 ||moeshinan.com^$important
 ||mogdo.nl^$important
 ||molihout.com^$important
+||mon-makeup.com^$important
 ||monalor.nl^$important
 ||monaro-moda.com^$important
 ||monaro.nl^$important
@@ -2344,6 +2345,9 @@
 ||winterwinkelen.nl^$important
 ||winthout-store.com^$important
 ||winthout.com^$important
+||wisdomi.myecomstore.net^$important
+||wisdominl.net^$important
+||wisdomtech.online^$important
 ||witgoedhandel-dezwaan.nl^$important
 ||wizholzshops.de^$important
 ||woerdencreditsunion.com^$important

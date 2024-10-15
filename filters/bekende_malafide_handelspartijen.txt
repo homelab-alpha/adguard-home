@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-10-11T16:44:13+02:00
+! Last modified: 2024-10-15T12:45:46+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -26,6 +26,7 @@
 *onlineoutlet2021.ru^$important
 *onlinesale2021.ru^$important
 *outletshop2021.ru^$important
+*sa.com^$important
 *shopsoutlet2021.ru^$important
 *spynaray.com^$important
 *vrolijkshoppen.com^$important
@@ -35,6 +36,7 @@
 ||123discounter.nl^$important
 ||123stofzuigers.com^$important
 ||123woning.com^$important
+||1bc5d1-d2.myshopify.com^$important
 ||247sale.nl^$important
 ||35shop-electro.com^$important
 ||834953-d2.myshopify.com^$important
@@ -677,6 +679,7 @@
 ||evergreen-home.nl^$important
 ||evergreen-home.online^$important
 ||evergreen-home.store^$important
+||evulie.com^$important
 ||exciter.shop^$important
 ||exciter.store^$important
 ||expert-outlets.nl^$important
@@ -745,6 +748,7 @@
 ||fittedme.shop^$important
 ||fjallravennederland.com^$important
 ||flair-amsterdam.nl^$important
+||flairsetter.nl^$important
 ||flashberlin.com^$important
 ||flashberlins.com^$important
 ||flavora-nl.com^$important
@@ -1377,6 +1381,7 @@
 ||mi-nl.eu^$important
 ||mialea.de^$important
 ||microsoft-xbox.eu^$important
+||middoe.com^$important
 ||midformsandalen.net^$important
 ||mijnbrandhout.com^$important
 ||mijnhuistuin.nl^$important
@@ -1547,6 +1552,8 @@
 ||norasia.nl^$important
 ||nord-limited.com^$important
 ||Nordernelectronics.com^$important
+||nordic-design.nl^$important
+||nordicdesigns.nl^$important
 ||nordin-home.nl^$important
 ||nordin-home.shop^$important
 ||norellasverige.com^$important
@@ -1672,6 +1679,7 @@
 ||popgoed.com^$important
 ||pores.nl^$important
 ||poshora.nl^$important
+||postorderapotheek.com^$important
 ||potten-fabriek.nl^$important
 ||prana-nl.com^$important
 ||pre-blackfriday2023.nl^$important
@@ -1847,6 +1855,8 @@
 ||shoe-sale.shop^$important
 ||shoesme-nl.shop^$important
 ||shoesme.sa.com^$important
+||shoesmenl.sa.com^$important
+||shoesmeonline.sa.com^$important
 ||shoex.nl^$important
 ||shop-jd.nl^$important
 ||shopbeliva.nl^$important
@@ -1967,6 +1977,7 @@
 ||starona.nl^$important
 ||steazy-shop.nl^$important
 ||stellastore.nl^$important
+||stijlnes.nl^$important
 ||stijlstrategen.nl^$important
 ||stofzuigerkampioen.com^$important
 ||stofzuigersxl.nl^$important
@@ -2406,6 +2417,7 @@
 ||zenlymat.nl^$important
 ||zerix.nl^$important
 ||zimu.nl^$important
+||zinnou.com^$important
 ||ziny.shop^$important
 ||zirex.nl^$important
 ||zitsak.nl^$important

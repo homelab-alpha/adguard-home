@@ -3,14 +3,14 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-10-17T10:49:06+02:00
+! Last modified: 2024-10-18T13:03:19+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
 !
 ! Source name: Bekende Malafide Handelspartijen
 ! Source: https://raw.githubusercontent.com/homelab-alpha/adguard-home/main/filters/bekende_malafide_handelspartijen.txt
-! Version: v0.107.52-Alpha
+! Version: v0.107.53-Alpha
 ! Expires: 90 days (update frequency)
 !
 !
@@ -1004,6 +1004,7 @@
 ||huntersnederlandoutlet.com^$important
 ||hunu.nl^$important
 ||hurenmethuurtoeslag.nl^$important
+||hurenviafrits.nl^$important
 ||huurwoningnl.nl^$important
 ||hypebeast.nl^$important
 ||hypescrape.com^$important
@@ -1207,6 +1208,7 @@
 ||legranulecomtois.com^$important
 ||lemaros.nl^$important
 ||lems-nederland.top^$important
+||lemsnederland.com^$important
 ||lente-deals.shop^$important
 ||lente-outlet.shop^$important
 ||leora-shop.nl^$important
@@ -1372,6 +1374,7 @@
 ||merle-outlet.nl^$important
 ||merlefashion.nl^$important
 ||meubel-baas.nl^$important
+||meubel-fabriek.com^$important
 ||meubel-outlet.com^$important
 ||meubelbaas-nl.com^$important
 ||meubels-24.com^$important
@@ -2330,6 +2333,7 @@
 ||wettelijkrijbewijs.com^$important
 ||whaleholidays.com^$important
 ||whey-proteine.nl^$important
+||wholesalersfactory.com^$important
 ||wieland-fashion.nl^$important
 ||wihary.nl^$important
 ||wijnrekkenmuur.nl^$important

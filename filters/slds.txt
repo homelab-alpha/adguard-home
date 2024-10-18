@@ -10,7 +10,7 @@
 !
 ! Source name: SLDs
 ! Source: https://raw.githubusercontent.com/homelab-alpha/adguard-home/main/filters/slds.txt
-! Version: v0.107.52-Alpha
+! Version: v0.107.53-Alpha
 ! Expires: 90 days (update frequency)
 !
 !

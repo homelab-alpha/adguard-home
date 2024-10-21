@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-10-19T09:23:50+02:00
+! Last modified: 2024-10-21T13:03:52+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -895,6 +895,7 @@
 ||gymkast.nl^$important
 ||gymplaza.net^$important
 ||gymsharkwinkelamsterdam.com^$important
+||haagseoutlet.nl^$important
 ||haardhoutdeals.nl^$important
 ||haardhoutduiven.com^$important
 ||haileyamsterdam.com^$important

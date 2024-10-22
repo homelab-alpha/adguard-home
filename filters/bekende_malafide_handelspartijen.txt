@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-10-22T10:51:03+02:00
+! Last modified: 2024-10-22T14:28:17+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -886,6 +886,7 @@
 ||grocezo.com^$important
 ||groephout.com^$important
 ||grootpellet.shop^$important
+||groupfrancegff.com^$important
 ||groupon-benelux.nl^$important
 ||Groupon-deals.nl^$important
 ||grouponacties.nl^$important
@@ -919,6 +920,7 @@
 ||hayleymode.com^$important
 ||headsetkorting.nl^$important
 ||heemstra-outlet.com^$important
+||heerlen-merkoutlet.nl^$important
 ||heinzniedecken.com^$important
 ||heizklima.com^$important
 ||heliumeushop.com^$important
@@ -1596,6 +1598,7 @@
 ||oneillsale.shop^$important
 ||online-droomhuis.com^$important
 ||online-medicijn.com^$important
+||online-medicijnen-apotheek.com^$important
 ||online-medicijnen-bestellen.net^$important
 ||online-medicijnen-kopen.nl^$important
 ||onlyfemme.nl^$important
@@ -1716,6 +1719,7 @@
 ||qlimates.nl^$important
 ||qolasam.com^$important
 ||qorvez.nl^$important
+||qsneaker.nl^$important
 ||qwuirksilliio.com^$important
 ||rademakers-mode.com^$important
 ||raexoliwebda.com^$important
@@ -1814,6 +1818,7 @@
 ||sappigedeals.site^$important
 ||sappigegrillwinkel.com^$important
 ||sarah-mode.nl^$important
+||sareli.nl^$important
 ||saturn-markt.net^$important
 ||savally.nl^$important
 ||savantmode.com^$important
@@ -1915,6 +1920,7 @@
 ||sneakeramsterdam.com^$important
 ||sneakerbank.nl^$important
 ||sneakerbit.nl^$important
+||sneakercollectie.nl^$important
 ||sneakerdam.nl^$important
 ||sneakerdon.nl^$important
 ||sneakerhandel.nl^$important

@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-10-21T13:03:52+02:00
+! Last modified: 2024-10-22T10:51:03+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1110,6 +1110,7 @@
 ||kids-mode.nl^$important
 ||kikiso.shop^$important
 ||kindeautje.be^$important
+||kinderbenodigdheden.com^$important
 ||kindercars.be^$important
 ||kinderpalace.nl^$important
 ||kinderwebshop.nl^$important
@@ -1594,6 +1595,7 @@
 ||onehypermarkets.com^$important
 ||oneillsale.shop^$important
 ||online-droomhuis.com^$important
+||online-medicijn.com^$important
 ||online-medicijnen-bestellen.net^$important
 ||online-medicijnen-kopen.nl^$important
 ||onlyfemme.nl^$important

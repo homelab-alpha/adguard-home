@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-10-25T10:17:38+02:00
+! Last modified: 2024-10-28T15:20:46+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1306,6 +1306,7 @@
 ||lydo.be^$important
 ||lynneselectrical.com^$important
 ||maaimachine24.com^$important
+||maartendeboerr.com^$important
 ||mabela-amsterdam.nl^$important
 ||mabslive.com^$important
 ||machinekist.nl^$important

@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-10-29T16:03:57+01:00
+! Last modified: 2024-10-30T09:11:34+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -378,6 +378,7 @@
 ||chopnly.com^$important
 ||chumio.de^$important
 ||cigkoftemhaarlem.nl^$important
+||cimorra.com^$important
 ||citexenergy.nl^$important
 ||cizanofashion.nl^$important
 ||clara-sneakers.shop^$important
@@ -411,6 +412,7 @@
 ||coral-glam.com^$important
 ||cornate.nl^$important
 ||corneril.com^$important
+||corvynna.com^$important
 ||cotopaxigoods.shop^$important
 ||cotopaximarket.shop^$important
 ||couponcabin-nl.com^$important
@@ -2121,6 +2123,7 @@
 ||travemoo.de^$important
 ||treevy.shop^$important
 ||trempa.nl^$important
+||trendalite.com^$important
 ||trendbucht.de^$important
 ||trendingitem.nl^$important
 ||trendiva-amsterdam.nl^$important
@@ -2261,6 +2264,7 @@
 ||vibes-offer.com^$important
 ||vibesneaks.com^$important
 ||vibesoffer.com^$important
+||vibreliya.com^$important
 ||vibroshaper.be^$important
 ||vibroshaper.nl^$important
 ||victoryoutlet.nl^$important

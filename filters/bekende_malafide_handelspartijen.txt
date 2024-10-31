@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-10-30T13:36:01+01:00
+! Last modified: 2024-10-31T12:36:05+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -393,6 +393,7 @@
 ||colda.nl^$important
 ||colio.nl^$important
 ||comane.nl^$important
+||comfort-meubels.com^$important
 ||comfortoutdoor.nl^$important
 ||comfybenelux.nl^$important
 ||comfyhuis-nl.com^$important
@@ -1391,6 +1392,7 @@
 ||meubelbaas-nl.com^$important
 ||meubels-24.com^$important
 ||meubels-24.nl^$important
+||meubelsvoordeel-nl.com^$important
 ||meubelswonen-nl.com^$important
 ||mevisboutique.com^$important
 ||mi-makeup.com^$important

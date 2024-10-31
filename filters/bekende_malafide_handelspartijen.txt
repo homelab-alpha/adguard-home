@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-10-31T12:36:05+01:00
+! Last modified: 2024-10-31T16:44:29+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -212,6 +212,7 @@
 ||belvena.nl^$important
 ||bemorio-nl.com^$important
 ||ben-brennholz.nl^$important
+||bendrio.nl^$important
 ||bennanivastgoed.nl^$important
 ||benoitbois.com^$important
 ||bentora-nl.com^$important
@@ -2005,6 +2006,7 @@
 ||stellastore.nl^$important
 ||stijlnes.nl^$important
 ||stijlstrategen.nl^$important
+||stofzuiger-shop.nl^$important
 ||stofzuigerkampioen.com^$important
 ||stofzuigersxl.nl^$important
 ||store-amorea.nl^$important

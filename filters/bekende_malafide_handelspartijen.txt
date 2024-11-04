@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-11-04T10:02:08+01:00
+! Last modified: 2024-11-04T13:51:48+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -539,6 +539,7 @@
 ||discount.clearanceonline2021.ru^$important
 ||discountdagen.com^$important
 ||discountfix.nl^$important
+||discoverbloemedaal.nl^$important
 ||discretedrogisterij.com^$important
 ||distinqo.nl^$important
 ||distopia-shop.com^$important
@@ -1208,6 +1209,7 @@
 ||latova.nl^$important
 ||lavana-nl.com^$important
 ||lavanaashops.com^$important
+||laveal-mode.de^$important
 ||lavendo-amsterdam.com^$important
 ||lavetti.nl^$important
 ||laviera.nl^$important

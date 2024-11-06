@@ -1671,6 +1671,7 @@
 ||petit-bateaubigsale.shop^$important
 ||petpendy.nl^$important
 ||petrabois.com^$important
+||pharmapunt.nl^$important
 ||phonemarket24.nl^$important
 ||pijnstillersapotheek.nl^$important
 ||pikamarkt.eu^$important

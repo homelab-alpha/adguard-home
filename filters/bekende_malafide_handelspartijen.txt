@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-11-05T17:55:14+01:00
+! Last modified: 2024-11-07T10:05:05+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -32,6 +32,7 @@
 *vrolijkshoppen.com^$important
 *walako.com^$important
 ||100a95-fc.myshopify.com^$important
+||101apotheek.com^$important
 ||123-stofzuigers.nl^$important
 ||123discounter.nl^$important
 ||123stofzuigers.com^$important
@@ -170,6 +171,7 @@
 ||b54e8d.myshopify.com^$important
 ||babescandal.nl^$important
 ||babescandalshop.nl^$important
+||badkamerzakelijk.com^$important
 ||balanessa.com^$important
 ||baller-online.com^$important
 ||balwear.nl^$important

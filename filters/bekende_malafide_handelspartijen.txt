@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-11-07T10:06:20+01:00
+! Last modified: 2024-11-08T12:54:37+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -246,6 +246,7 @@
 ||bigsalest.com^$important
 ||bijenkorfoutlet.nl^$important
 ||bijenkorfsale.com^$important
+||bikesfactory.nl^$important
 ||bikevibez.com^$important
 ||bikevibez.nl^$important
 ||bikewinkel.com^$important
@@ -351,6 +352,7 @@
 ||calzini.de^$important
 ||camille-amsterdam.nl^$important
 ||campernetherlands.com^$important
+||campz-nl.com^$important
 ||canilo.nl^$important
 ||canvanify.com^$important
 ||caranly.com^$important
@@ -986,6 +988,7 @@
 ||home-well.store^$important
 ||homedane.com^$important
 ||homie-outlet.nl^$important
+||hoogstra-amsterdam.com^$important
 ||hornbachnl.com^$important
 ||hotchillies.shop^$important
 ||houseofgarden.nl^$important
@@ -1342,6 +1345,7 @@
 ||mansios.nl^$important
 ||marago-nl.com^$important
 ||marcopirello.com^$important
+||marikoooutletwinkel.com^$important
 ||mariskaoutlet.com^$important
 ||markprijs.com^$important
 ||markt-electro.com^$important
@@ -1747,6 +1751,7 @@
 ||raexoliwebda.com^$important
 ||raleda.nl^$important
 ||ralindo.de^$important
+||ramboo-roosendaal.com^$important
 ||randys-woods.com^$important
 ||ratolo.nl^$important
 ||raysol-pellets.nl^$important

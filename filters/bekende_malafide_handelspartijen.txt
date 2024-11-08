@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-11-08T12:54:37+01:00
+! Last modified: 2024-11-08T16:57:28+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1729,6 +1729,7 @@
 ||prijzencircus.shop^$important
 ||primasale.nl^$important
 ||primawarmte.com^$important
+||pro-leningen.com^$important
 ||productenbox.com^$important
 ||promediamark.com^$important
 ||promotiva-shop.com^$important

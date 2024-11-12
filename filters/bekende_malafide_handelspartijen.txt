@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-11-12T08:31:20+01:00
+! Last modified: 2024-11-12T13:11:57+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1774,6 +1774,7 @@
 ||resolubois.com^$important
 ||retail-merwede.nl^$important
 ||reviewpunt.nl^$important
+||rhode-skin.shop^$important
 ||ricen.shop^$important
 ||rijbewijs-kopen.com^$important
 ||rijbewijskoopen.com^$important
@@ -1892,6 +1893,7 @@
 ||senzia.nl^$important
 ||servercode.nl^$important
 ||sewingmachines-shop.com^$important
+||sexylingerie-store.com^$important
 ||sfeerwonen-nl.com^$important
 ||shamblar.com^$important
 ||shambler.nl^$important
@@ -1906,12 +1908,15 @@
 ||shop-jd.nl^$important
 ||shopbeliva.nl^$important
 ||shopboostx.com^$important
+||shopcorset.com^$important
 ||shopgereedschap.com^$important
 ||shophomely.nl^$important
 ||shoppelux.nl^$important
+||shopprintshirt.com^$important
 ||shopsavydeals.com^$important
 ||shopshoesnederland.com^$important
 ||shopventuro.com^$important
+||shopverfsales.com^$important
 ||shopwelsint.com^$important
 ||shunaza.com^$important
 ||sieradensmycken.com^$important
@@ -1930,6 +1935,7 @@
 ||skechersnederland.org^$important
 ||skechersschoenenaanbieding.com^$important
 ||skecherswinkelsnederland.com^$important
+||skisuitnetherlands.com^$important
 ||sky-sense.nl^$important
 ||slaappillen-kopen.net^$important
 ||slaappillen.net^$important
@@ -1942,6 +1948,7 @@
 ||smart-market-online.com^$important
 ||smartselektronik.com^$important
 ||smartwatchesnl24.com^$important
+||smegnederland.com^$important
 ||smitkleding.nl^$important
 ||smuz.nl^$important
 ||sneaker-exclusives.shop^$important
@@ -2007,6 +2014,7 @@
 ||speelgoed-outlet.com^$important
 ||speelmeer-teck.com^$important
 ||spellnetherlands.com^$important
+||spelspeelgoed.com^$important
 ||sperrynederland.com^$important
 ||sport-sivia.de^$important
 ||sportbeter.shop^$important
@@ -2025,9 +2033,12 @@
 ||stellastore.nl^$important
 ||stijlnes.nl^$important
 ||stijlstrategen.nl^$important
+||stijlvolleschoenen.com^$important
 ||stofzuiger-shop.nl^$important
 ||stofzuigerkampioen.com^$important
+||stofzuigerssale.com^$important
 ||stofzuigersxl.nl^$important
+||stokzaagshop.com^$important
 ||store-amorea.nl^$important
 ||strants-amsterdam.nl^$important
 ||strants-rotterdam.nl^$important
@@ -2064,6 +2075,7 @@
 ||superelektronicasales.nl^$important
 ||superieur-nl.com^$important
 ||superr-aanbod.com^$important
+||superstargearnl.com^$important
 ||supervoordeel-nl.com^$important
 ||superwysprzedaz.com^$important
 ||supponamsterdam.nl^$important
@@ -2092,6 +2104,7 @@
 ||tedbakernederland.co.nl^$important
 ||tedbakernederlandwinkel.com^$important
 ||tedbakernloutlet.com^$important
+||tefalkeuken.com^$important
 ||tektit.eu^$important
 ||telecommeester.nl^$important
 ||telefonie-sales.com^$important
@@ -2120,12 +2133,14 @@
 ||thedesignlamp.nl^$important
 ||thefootshop.nl^$important
 ||thenordicstock.nl^$important
+||thermosflaskshop.com^$important
 ||thesquid-gamemerch.com^$important
 ||thuismart.nl^$important
 ||thuiswereld.nl^$important
 ||thuiswinkel-online.nl^$important
 ||ti-84shop.nl^$important
 ||tielboutique.net^$important
+||toiletrybagssale.com^$important
 ||tommyhilfigernl.pw^$important
 ||tommyhilfigernl.top^$important
 ||tonyskoperss.com^$important
@@ -2253,6 +2268,7 @@
 ||veevaldo.com^$important
 ||veiova-amsterdam.com^$important
 ||vejaventuri.nl^$important
+||veldageschaft.com^$important
 ||velvetrognik.com^$important
 ||vemisboutiquenl.com^$important
 ||vemorio.com^$important
@@ -2276,6 +2292,7 @@
 ||vernica.nl^$important
 ||verova-amsterdam.nl^$important
 ||vervoort-amsterdam.com^$important
+||verzorgingbeste.com^$important
 ||vessinederland.com^$important
 ||vessinederlands.com^$important
 ||vestiqueshop.nl^$important
@@ -2360,6 +2377,7 @@
 ||warmte24.nl^$important
 ||warmworden.com^$important
 ||Washmachine.nl^$important
+||wasmiddelenstore.com^$important
 ||weallcare4beauty.com^$important
 ||webdealsint.com^$important
 ||webdealzsearch.com^$important

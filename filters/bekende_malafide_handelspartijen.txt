@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-11-12T13:11:57+01:00
+! Last modified: 2024-11-12T14:48:46+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -171,7 +171,10 @@
 ||b54e8d.myshopify.com^$important
 ||babescandal.nl^$important
 ||babescandalshop.nl^$important
+||babyverkoop.com^$important
+||badkamermeubelsetsshop.com^$important
 ||badkamerzakelijk.com^$important
+||baits-netherlands.com^$important
 ||balanessa.com^$important
 ||baller-online.com^$important
 ||balwear.nl^$important
@@ -183,6 +186,7 @@
 ||basic-electronics.com^$important
 ||basic-fit.store^$important
 ||basic-fits.nl^$important
+||bathtoys-selling.com^$important
 ||batterijboost.com^$important
 ||batterybikes.nl^$important
 ||bavaly-amsterdam.com^$important
@@ -196,6 +200,7 @@
 ||beautessy.nl^$important
 ||beautygezondheids.nl^$important
 ||beautypaddy.nl^$important
+||beautystorenl.com^$important
 ||bedrijf-financial.com^$important
 ||beelini.nl^$important
 ||bel-boisdechauffage.com^$important
@@ -234,6 +239,7 @@
 ||bestellendrank.nl^$important
 ||besteprijs-markt.com^$important
 ||besteschaalmodellen.nl^$important
+||bestplantly.com^$important
 ||beverlyparenti.com^$important
 ||bevesta.nl^$important
 ||bewegen-online.nl^$important
@@ -269,7 +275,9 @@
 ||bltonlc.nl^$important
 ||bluebol.nl^$important
 ||blundstonenl.com^$important
+||boardgamenl.com^$important
 ||bobatech.nl^$important
+||bodycare-selling.com^$important
 ||boeks-fitness.com^$important
 ||boemba24.online^$important
 ||boemba24.shop^$important
@@ -293,6 +301,8 @@
 ||boofashions.com^$important
 ||boombrandhout.com^$important
 ||bootsie.nl^$important
+||bordspellenverkoop.com^$important
+||bordspelwereld.com^$important
 ||bosmartnight.nl^$important
 ||boss-mode.nl^$important
 ||boutique-anna.nl^$important
@@ -319,6 +329,7 @@
 ||brialdy.com^$important
 ||brick-store.eu^$important
 ||brick-world.nl^$important
+||bridalshoesshop.com^$important
 ||brightboutiquestore.com^$important
 ||brookshardloopschoenensale.com^$important
 ||brunowinkel.nl^$important
@@ -354,6 +365,7 @@
 ||camille-amsterdam.nl^$important
 ||campernetherlands.com^$important
 ||campz-nl.com^$important
+||campznl.com^$important
 ||canilo.nl^$important
 ||canvanify.com^$important
 ||caranly.com^$important
@@ -380,6 +392,7 @@
 ||chantal-modehuis.nl^$important
 ||charliewynters.com^$important
 ||checkdoorbell.com^$important
+||childrensraincoatshop.com^$important
 ||chloe-amsterdam.nl^$important
 ||chloesboutique.co^$important
 ||chloeshop.nl^$important
@@ -394,6 +407,7 @@
 ||classyamsterdam.nl^$important
 ||classyjakka.nl^$important
 ||classypatta.nl^$important
+||cleaningmachineshop.com^$important
 ||clockeanl.com^$important
 ||coco-beauty.nl^$important
 ||cocoschile.com^$important
@@ -408,6 +422,7 @@
 ||comfyhuis.nl^$important
 ||compleet-duurzaam.nl^$important
 ||concerttix.nl^$important
+||condooms-shop.com^$important
 ||confidently.top^$important
 ||congrill.nl^$important
 ||conntevo-tech.com^$important
@@ -422,6 +437,7 @@
 ||cornate.nl^$important
 ||corneril.com^$important
 ||corvynna.com^$important
+||cosmeticgiftset.com^$important
 ||cotopaxigoods.shop^$important
 ||cotopaximarket.shop^$important
 ||couponcabin-nl.com^$important
@@ -476,6 +492,7 @@
 ||dealzoekers.com^$important
 ||dealzwebsearch.com^$important
 ||debijenkorfsale.com^$important
+||deblendverkoop.com^$important
 ||debruijnamsterdam.nl^$important
 ||debruin-mode.nl^$important
 ||decemberactie.com^$important
@@ -568,6 +585,7 @@
 ||doornbikes.shop^$important
 ||dosdealzday.com^$important
 ||dotsneaker.com^$important
+||doucherekjesstore.com^$important
 ||dovabel.com^$important
 ||drank-apotheek.com^$important
 ||dream-camera.com^$important
@@ -591,6 +609,7 @@
 ||dutchsneakervault.nl^$important
 ||dutchsport.net^$important
 ||dyalifestyle.com^$important
+||dylawear.com^$important
 ||dysondeal.nl^$important
 ||e-bikeexpert.nl^$important
 ||e-cybersale.de^$important
@@ -692,6 +711,7 @@
 ||eva-fiets.com^$important
 ||eva-outlet.com^$important
 ||evahome-nl.com^$important
+||evakleding.com^$important
 ||evergreen-home.nl^$important
 ||evergreen-home.online^$important
 ||evergreen-home.store^$important
@@ -802,6 +822,7 @@
 ||frdealshop.com^$important
 ||freestylelibre.shop^$important
 ||fresh-prince.nl^$important
+||fribooonline.com^$important
 ||frostyc.com^$important
 ||frwebsde.com^$important
 ||fullyclassy.com^$important
@@ -902,6 +923,7 @@
 ||grillzillashop.nl^$important
 ||grisellas.com^$important
 ||grocezo.com^$important
+||groenetafel.com^$important
 ||groephout.com^$important
 ||grootpellet.shop^$important
 ||groupfrancegff.com^$important
@@ -921,6 +943,7 @@
 ||hairdryers.nl^$important
 ||hairvies.nl^$important
 ||haistos.nl^$important
+||halloweenspelen.com^$important
 ||handelen-live.nl^$important
 ||handymart.nl^$important
 ||hangstoelennederland.nl^$important
@@ -959,6 +982,8 @@
 ||hieriseenolievoor.nl^$important
 ||highendfashion.nl^$important
 ||higooba.com^$important
+||hiking-pantsshop.com^$important
+||hippieverkoop.com^$important
 ||hmbholdingbv.com^$important
 ||hoeijmakersaardbeienbv.com^$important
 ||hoekmarkt.com^$important
@@ -1122,7 +1147,10 @@
 ||kerstkoopjes.com^$important
 ||kerstkoopjes.store^$important
 ||keukenbaron24.com^$important
+||keukenproductennl.com^$important
 ||khsourcingbv.nl^$important
+||khujos-nl.com^$important
+||khujoverkoop.com^$important
 ||kickgame.nl^$important
 ||kickingoff.nl^$important
 ||kickinoff.nl^$important
@@ -1177,6 +1205,7 @@
 ||korting-huis.nl^$important
 ||korting-weken.com^$important
 ||korting-zone.nl^$important
+||kortingbaby.com^$important
 ||kortingenn.nl^$important
 ||kortingklapper.com^$important
 ||kortingskiosk.nl^$important
@@ -1193,6 +1222,7 @@
 ||krijgjevoorraad.com^$important
 ||krobona.com^$important
 ||krobona.nl^$important
+||krultangensaleshop.com^$important
 ||ks-bauma.de^$important
 ||kwaliteitbrand.nl^$important
 ||kwaliteitmed.com^$important
@@ -1277,6 +1307,7 @@
 ||lomanpellets.com^$important
 ||lomenzo.store^$important
 ||londerstore.com^$important
+||longchampnetherlands.com^$important
 ||lonora.nl^$important
 ||loomzo.com^$important
 ||looshout.com^$important
@@ -1294,6 +1325,7 @@
 ||lovana.nl^$important
 ||lovera-amsterdam.nl^$important
 ||lowaschoenen-outlet.com^$important
+||lowpricefurnit.com^$important
 ||luca-belloni.com^$important
 ||lulu-nl.com^$important
 ||lumano.nl^$important
@@ -1408,6 +1440,7 @@
 ||meubelbaas-nl.com^$important
 ||meubels-24.com^$important
 ||meubels-24.nl^$important
+||meubelshopbe.com^$important
 ||meubelsvoordeel-nl.com^$important
 ||meubelswonen-nl.com^$important
 ||mevisboutique.com^$important
@@ -1491,6 +1524,7 @@
 ||monaro.nl^$important
 ||monesa.nl^$important
 ||monet-home.shop^$important
+||monicanoue.com^$important
 ||moniqueoutlet.com^$important
 ||monosboutique.nl^$important
 ||montela-shop.com^$important
@@ -1528,6 +1562,7 @@
 ||n-game.info^$important
 ||naark.nl^$important
 ||naarkbrand.com^$important
+||nameitnl.com^$important
 ||nared.nl^$important
 ||narodine.nl^$important
 ||nartosa.com^$important
@@ -1567,11 +1602,16 @@
 ||nl-games.com^$important
 ||nl-games.eu^$important
 ||nl-games.net^$important
+||nl-pierone.com^$important
 ||nl-russellcyclone.com^$important
 ||nl.bremona.com^$important
 ||nl.walako.com^$important
+||nlborstvoeding.com^$important
 ||nlgames.eu^$important
+||nlhondenhuis.com^$important
+||nlkampeershop.com^$important
 ||nll-orona.com^$important
+||nlmeubelwinkel.com^$important
 ||nlstore.bottles-airup.shop^$important
 ||nltranspellets.com^$important
 ||nlwem.com^$important
@@ -1665,6 +1705,7 @@
 ||pakjedealsnu.nl^$important
 ||panamajack-belgie.com^$important
 ||panamajacknl.com^$important
+||pannen-shop.com^$important
 ||parelmeer.nl^$important
 ||parfumdiscounters.nl^$important
 ||parluxshop.store^$important
@@ -1676,6 +1717,7 @@
 ||pepperdeals.nl^$important
 ||perem.nl^$important
 ||perfectsalah.nl^$important
+||perfectshoesale.com^$important
 ||petit-bateaubigsale.shop^$important
 ||petpendy.nl^$important
 ||petrabois.com^$important
@@ -1689,6 +1731,7 @@
 ||pikashops.nl^$important
 ||pinksneakers.nl^$important
 ||pirri.blog^$important
+||pkaianselam.com^$important
 ||plantdak-landbouw.com^$important
 ||plantenkoning.nl^$important
 ||plantplezier.com^$important
@@ -1708,12 +1751,14 @@
 ||pme-legend.xyz^$important
 ||pme-legendnl.shop^$important
 ||pmegadgets.nl^$important
+||poioshirtsverkoop.com^$important
 ||polderhoutpellets.nl^$important
 ||polo-winkel.com^$important
 ||poloofficial.nl^$important
 ||poloofficieel.com^$important
 ||poloofficieel.nl^$important
 ||poncert.com^$important
+||popartgoedkoop.com^$important
 ||popdynamics-shop.com^$important
 ||popgoed.com^$important
 ||pores.nl^$important
@@ -1765,6 +1810,7 @@
 ||redjedeals.nl^$important
 ||redwingnetherlands.com^$important
 ||redwingstorenederland.com^$important
+||reefgearnl.com^$important
 ||reemsters.shop^$important
 ||refcobv.nl^$important
 ||refse.net^$important
@@ -1871,6 +1917,7 @@
 ||schoenoutlet.shop^$important
 ||schoenplezier.shop^$important
 ||schoenun.nl^$important
+||schoonproducts.com^$important
 ||schotmanoutlet.com^$important
 ||scieriecie-boisdechauffage.com^$important
 ||scotchandsodasale-eu.com^$important
@@ -2094,6 +2141,7 @@
 ||tamaro-nl.com^$important
 ||tarno.nl^$important
 ||taroli.nl^$important
+||tasnederland.com^$important
 ||taylorgents.nl^$important
 ||tech-mania.nl^$important
 ||techdeluxe.eu^$important
@@ -2169,6 +2217,7 @@
 ||trendiva-amsterdam.nl^$important
 ||trendono.nl^$important
 ||trendoso.nl^$important
+||trendoutlet-dordrecht.nl^$important
 ||trendozo.nl^$important
 ||trendsdelight.com^$important
 ||trendy-amsterdam.com^$important

@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-11-14T15:47:10+01:00
+! Last modified: 2024-11-14T16:04:03+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -498,6 +498,7 @@
 ||decemberactie.com^$important
 ||decemberactie.store^$important
 ||decemberkoopjes.store^$important
+||decoatelier-nl.com^$important
 ||decore-nl.com^$important
 ||deealsy.com^$important
 ||deenmarkt.com^$important
@@ -1674,6 +1675,8 @@
 ||onrunningnederland.com^$important
 ||onrunningnederland.top^$important
 ||onze-korting.com^$important
+||onzelly.com^$important
+||onzely.com^$important
 ||oostero.com^$important
 ||openhaardhout-nl.shop^$important
 ||opruimdeals.com^$important
@@ -1720,6 +1723,7 @@
 ||perem.nl^$important
 ||perfectsalah.nl^$important
 ||perfectshoesale.com^$important
+||personifymade.com^$important
 ||petit-bateaubigsale.shop^$important
 ||petpendy.nl^$important
 ||petrabois.com^$important

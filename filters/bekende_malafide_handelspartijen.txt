@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-11-14T16:04:03+01:00
+! Last modified: 2024-11-16T06:26:31+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1365,6 +1365,7 @@
 ||mabela-amsterdam.nl^$important
 ||mabslive.com^$important
 ||machinekist.nl^$important
+||madalenia.myshopify.com^$important
 ||madurro.nl^$important
 ||maesh.nl^$important
 ||magazijn-uitverkoop.com^$important
@@ -2148,6 +2149,7 @@
 ||tarno.nl^$important
 ||taroli.nl^$important
 ||tasnederland.com^$important
+||tavalio.com^$important
 ||taylorgents.nl^$important
 ||tech-mania.nl^$important
 ||techdeluxe.eu^$important
@@ -2195,6 +2197,7 @@
 ||ti-84shop.nl^$important
 ||tielboutique.net^$important
 ||toiletrybagssale.com^$important
+||tombakkers.com^$important
 ||tommyhilfigernl.pw^$important
 ||tommyhilfigernl.top^$important
 ||tonyskoperss.com^$important

@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-11-18T17:28:56+01:00
+! Last modified: 2024-11-19T14:36:42+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1335,6 +1335,7 @@
 ||lowpricefurnit.com^$important
 ||luca-belloni.com^$important
 ||lucantos.nl^$important
+||lucia-interior.com^$important
 ||lulu-nl.com^$important
 ||lumano.nl^$important
 ||luminalamps.nl^$important
@@ -1537,6 +1538,7 @@
 ||monicanoue.com^$important
 ||moniqueoutlet.com^$important
 ||monosboutique.nl^$important
+||montage-boutique.com^$important
 ||montela-shop.com^$important
 ||montigusto.nl^$important
 ||mooliso.nl^$important
@@ -1558,6 +1560,7 @@
 ||mufasano.nl^$important
 ||multituinmeubelen.nl^$important
 ||murela.nl^$important
+||murielinterior-nl.com^$important
 ||muskzstang.shop^$important
 ||my-firewoodstore.com^$important
 ||my-homegoodies.nl^$important
@@ -1634,6 +1637,7 @@
 ||noir-wonen.com^$important
 ||nonaboutiquex.myshopify.com^$important
 ||noor-care.nl^$important
+||norainterior-nl.com^$important
 ||norasia.nl^$important
 ||nord-limited.com^$important
 ||Nordernelectronics.com^$important
@@ -1862,6 +1866,7 @@
 ||roosendaal-outlet.com^$important
 ||rosa-amsterdam.com^$important
 ||rosa-mode.shop^$important
+||rosainterior-nl.com^$important
 ||rose-delia.com^$important
 ||rosimae.com^$important
 ||rosora.nl^$important

@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-11-19T14:36:42+01:00
+! Last modified: 2024-11-20T13:58:50+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -181,6 +181,7 @@
 ||balwearshop.nl^$important
 ||barca-boutique.nl^$important
 ||bargainnestshop.com^$important
+||baristadeluxe.nl^$important
 ||barolashop.nl^$important
 ||barome.nl^$important
 ||basic-electronics.com^$important
@@ -1615,6 +1616,7 @@
 ||nl-games.com^$important
 ||nl-games.eu^$important
 ||nl-games.net^$important
+||nl-mediamarkt.com^$important
 ||nl-pierone.com^$important
 ||nl-russellcyclone.com^$important
 ||nl.bremona.com^$important
@@ -2316,6 +2318,7 @@
 ||vanoevelenmode.com^$important
 ||vanola.nl^$important
 ||vanrooijenmode.nl^$important
+||vanrosmalen-nijmegen.nl^$important
 ||vansouh.com^$important
 ||vanwesten-mode.nl^$important
 ||vanwillems.com^$important

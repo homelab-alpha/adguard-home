@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-11-22T12:21:15+01:00
+! Last modified: 2024-11-23T09:46:50+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1515,6 +1515,7 @@
 ||modeboss.com^$important
 ||modeboss.nl^$important
 ||modehaus-ams.nl^$important
+||modehuis-jansen.com^$important
 ||modehuisbakker.nl^$important
 ||modehuisvandam.nl^$important
 ||modelabel22.nl^$important

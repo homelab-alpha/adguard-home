@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-11-23T09:46:50+01:00
+! Last modified: 2024-11-26T08:09:34+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1925,6 +1925,7 @@
 ||sappigedeals.site^$important
 ||sappigegrillwinkel.com^$important
 ||sarah-mode.nl^$important
+||saralovehome-nl.com^$important
 ||sareli.nl^$important
 ||saturn-markt.net^$important
 ||savally.nl^$important
@@ -2524,6 +2525,7 @@
 ||womani.nl^$important
 ||womtrend.nl^$important
 ||wonder-beauty.nl^$important
+||wonder-wheels.nl^$important
 ||woningadvertenties.nl^$important
 ||woningmrkt.com^$important
 ||wooder-be.com^$important

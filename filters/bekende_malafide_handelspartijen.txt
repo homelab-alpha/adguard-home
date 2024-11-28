@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-11-28T12:18:13+01:00
+! Last modified: 2024-11-28T13:58:41+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -802,8 +802,6 @@
 ||flonza.nl^$important
 ||floravssa.com^$important
 ||florenta.nl^$important
-||florenta.nl^$important
-||florenti.nl^$important
 ||florenti.nl^$important
 ||florisvanbommelsell.shop^$important
 ||florisvanbommelstore.com^$important
@@ -912,8 +910,6 @@
 ||gold-sneakers.com^$important
 ||gollema.com^$important
 ||gopronederland.nl^$important
-||gorgeous-youth.nl^$important
-||gorgeousyouth.nl^$important
 ||gorgeous-youth.nl^$important
 ||gorgeousyouth.nl^$important
 ||gotivica.com^$important
@@ -1384,6 +1380,7 @@
 ||maesh.nl^$important
 ||magazijnkorting.com^$important
 ||magazijn-uitverkoop.com^$important
+||maison-amstelveen.nl^$important
 ||malego.nl^$important
 ||maluxa.nl^$important
 ||maluxe.nl^$important
@@ -1530,6 +1527,7 @@
 ||modepassage.nl^$important
 ||mode-plaza.com^$important
 ||modernas.nl^$important
+||modesplein-eindhoven.nl^$important
 ||modeux.nl^$important
 ||modevera.nl^$important
 ||modewarenhuis.com^$important
@@ -1936,6 +1934,7 @@
 ||sazona.nl^$important
 ||sazona-shop.nl^$important
 ||scandinavianwools.nl^$important
+||scheepens-groningen.nl^$important
 ||schmerzloserweg.com^$important
 ||schmidtshops.com^$important
 ||schoenenbaas.nl^$important
@@ -2223,6 +2222,7 @@
 ||thuiswinkel-online.nl^$important
 ||ti-84shop.nl^$important
 ||tielboutique.net^$important
+||tieleman-zoetermeer.nl^$important
 ||toiletrybagssale.com^$important
 ||tombakkers.com^$important
 ||tommyhilfigernl.pw^$important
@@ -2292,6 +2292,7 @@
 ||urakios.com^$important
 ||urbanamsterdam.co^$important
 ||urbancloset.nl^$important
+||urbanstyle-zwolle.nl^$important
 ||urtierioutlet.shop^$important
 ||uteka.nl^$important
 ||uwkentekenbewijs.nl^$important

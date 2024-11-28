@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-11-28T12:00:48+01:00
+! Last modified: 2024-11-28T12:18:13+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -802,9 +802,9 @@
 ||flonza.nl^$important
 ||floravssa.com^$important
 ||florenta.nl^$important
-||Florenta.nl^$important
+||florenta.nl^$important
 ||florenti.nl^$important
-||Florenti.nl^$important
+||florenti.nl^$important
 ||florisvanbommelsell.shop^$important
 ||florisvanbommelstore.com^$important
 ||florona-outlet.nl^$important
@@ -853,7 +853,7 @@
 ||gamesplaza.tk^$important
 ||gamessportsgo.com^$important
 ||game-stop.nl^$important
-||Gamesweplayamsterdam.nl^$important
+||gamesweplayamsterdam.nl^$important
 ||gamesweplaynederland.com^$important
 ||gamesweplaynl.myshopify.com^$important
 ||gamesweplayshop.nl^$important
@@ -914,8 +914,8 @@
 ||gopronederland.nl^$important
 ||gorgeous-youth.nl^$important
 ||gorgeousyouth.nl^$important
-||Gorgeous-youth.nl^$important
-||Gorgeousyouth.nl^$important
+||gorgeous-youth.nl^$important
+||gorgeousyouth.nl^$important
 ||gotivica.com^$important
 ||govertona.com^$important
 ||grand20designs.be^$important
@@ -937,7 +937,7 @@
 ||grouponacties.nl^$important
 ||groupon-benelux.nl^$important
 ||grouponbenelux.nl^$important
-||Groupon-deals.nl^$important
+||groupon-deals.nl^$important
 ||gstarsoutlet.com^$important
 ||g-starvip.com^$important
 ||gvmedicijnen.com^$important
@@ -1043,7 +1043,7 @@
 ||hqcosmeticabv.com^$important
 ||hub-online.eu^$important
 ||huestudios.nl^$important
-||Huisdecoratie-nl.com^$important
+||huisdecoratie-nl.com^$important
 ||huis-elektronica.com^$important
 ||huisenso.nl^$important
 ||huishof.nl^$important
@@ -1065,7 +1065,7 @@
 ||hypescrape.com^$important
 ||hypetrends.nl^$important
 ||ibiza-zomermode.nl^$important
-||iBuyy.nl^$important
+||ibuyy.nl^$important
 ||icon-model.nl^$important
 ||icon-nl.com^$important
 ||idealco-nl.com^$important
@@ -1652,7 +1652,7 @@
 ||noor-care.nl^$important
 ||norainterior-nl.com^$important
 ||norasia.nl^$important
-||Nordernelectronics.com^$important
+||nordernelectronics.com^$important
 ||nordic-design.nl^$important
 ||nordicdesigns.nl^$important
 ||nordin-home.nl^$important
@@ -1814,7 +1814,7 @@
 ||pronova-shop.com^$important
 ||propinquity180.shop^$important
 ||protophoriia.com^$important
-||PS5-preorder.nl^$important
+||ps5-preorder.nl^$important
 ||ps5-store.nl^$important
 ||pullit.nl^$important
 ||puntado-shop.nl^$important
@@ -2064,7 +2064,7 @@
 ||soccer-fan.nl^$important
 ||socialdeal-benelux.nl^$important
 ||socialdealbenelux.nl^$important
-||Socialdeals.nl^$important
+||socialdeals.nl^$important
 ||socialsdeal.nl^$important
 ||socials-deals.nl^$important
 ||socialsdeals.nl^$important
@@ -2124,7 +2124,7 @@
 ||strants-amsterdam.nl^$important
 ||strants-rotterdam.nl^$important
 ||stravilius.com^$important
-||Strijkwonder.nl^$important
+||strijkwonder.nl^$important
 ||studio-westwood.nl^$important
 ||stuntdeals.store^$important
 ||stuntweken.com^$important
@@ -2297,7 +2297,7 @@
 ||uwkentekenbewijs.nl^$important
 ||uwkentekencard.nl^$important
 ||vaarbewijskopen.com^$important
-||Vaatmaster.nl^$important
+||vaatmaster.nl^$important
 ||vaccinatieboekje.org^$important
 ||vaiden.nl^$important
 ||valebul-fr.com^$important
@@ -2464,7 +2464,7 @@
 ||warmidam.nl^$important
 ||warmte24.nl^$important
 ||warmworden.com^$important
-||Washmachine.nl^$important
+||washmachine.nl^$important
 ||wasmiddelenstore.com^$important
 ||weallcare4beauty.com^$important
 ||webdealsint.com^$important
@@ -2473,9 +2473,9 @@
 ||webkorting.com^$important
 ||webshopchecken.nl^$important
 ||webtique.nl^$important
-||Wehkampbenelux.nl^$important
+||wehkampbenelux.nl^$important
 ||wehkamp-deals.nl^$important
-||Wehkampdeals.nl^$important
+||wehkampdeals.nl^$important
 ||wehkampoutlet.nl^$important
 ||wehkampsoutlet.nl^$important
 ||wehkampsoutlets.nl^$important

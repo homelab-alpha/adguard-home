@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-11-29T13:41:34+01:00
+! Last modified: 2024-12-02T13:03:29+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -400,6 +400,7 @@
 ||chloe-amsterdam.nl^$important
 ||chloesboutique.co^$important
 ||chloeshop.nl^$important
+||chloev.nl^$important
 ||chopnly.com^$important
 ||chumio.de^$important
 ||cigkoftemhaarlem.nl^$important
@@ -520,6 +521,7 @@
 ||dekbed-paleis.nl^$important
 ||dekeukenland.com^$important
 ||dekinderhoek.nl^$important
+||dekleinmode.nl^$important
 ||delftsegroep.com^$important
 ||deliso.nl^$important
 ||delolme-brandhout.com^$important
@@ -630,6 +632,7 @@
 ||eco-brandhout.com^$important
 ||ecogischhout.nl^$important
 ||ecomagency-media.com^$important
+||eco-motoroutlet.com^$important
 ||ecopelletswinkel.nl^$important
 ||ecovuur.com^$important
 ||e-cybersale.de^$important
@@ -965,6 +968,7 @@
 ||hayleymode.com^$important
 ||headsetkorting.nl^$important
 ||heemstra-outlet.com^$important
+||heerenveen-outlet.nl^$important
 ||heerlen-merkoutlet.nl^$important
 ||heinzniedecken.com^$important
 ||heizklima.com^$important
@@ -2359,6 +2363,7 @@
 ||veiova-amsterdam.com^$important
 ||vejaventuri.nl^$important
 ||veldageschaft.com^$important
+||velur-nl.com^$important
 ||velvetrognik.com^$important
 ||vemisboutiquenl.com^$important
 ||vemorio.com^$important

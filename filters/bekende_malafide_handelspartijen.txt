@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-12-04T15:48:26+01:00
+! Last modified: 2024-12-05T10:00:00+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -890,6 +890,7 @@
 ||gezellighuis.com^$important
 ||gezondheids-beauty.nl^$important
 ||gezondheidsbeauty.nl^$important
+||gfxshop.nl^$important
 ||giantfietsenwinkel.com^$important
 ||gigadeals-nl.com^$important
 ||gigadealtjes.com^$important
@@ -2300,6 +2301,7 @@
 ||urbanamsterdam.co^$important
 ||urbancloset.nl^$important
 ||urbanstyle-zwolle.nl^$important
+||urbanwear-utrecht.nl^$important
 ||urtierioutlet.shop^$important
 ||uteka.nl^$important
 ||uwkentekenbewijs.nl^$important

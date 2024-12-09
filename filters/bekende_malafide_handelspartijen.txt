@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-12-06T12:15:13+01:00
+! Last modified: 2024-12-09T17:44:58+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -177,6 +177,7 @@
 ||baits-netherlands.com^$important
 ||balanessa.com^$important
 ||baller-online.com^$important
+||balulify.nl^$important
 ||balwear.nl^$important
 ||balwearshop.nl^$important
 ||barca-boutique.nl^$important
@@ -545,6 +546,7 @@
 ||desneakerspecialist.com^$important
 ||desneakerspecialist.nl^$important
 ||desnellefiets.eu^$important
+||despeelgoedkoning.com^$important
 ||de-speelgoed-koning.nl^$important
 ||dessznl.com^$important
 ||destofzuigerexpert.com^$important
@@ -1322,6 +1324,7 @@
 ||lomenzo.store^$important
 ||londerstore.com^$important
 ||longchampnetherlands.com^$important
+||longchampsnetherlands.com^$important
 ||lonora.nl^$important
 ||loomzo.com^$important
 ||looshout.com^$important
@@ -2472,6 +2475,7 @@
 ||vurrpellets.com^$important
 ||vuur-brandt.nl^$important
 ||wallasia.nl^$important
+||wamwearshop.com^$important
 ||wantrys.com^$important
 ||warmidam.nl^$important
 ||warmte24.nl^$important

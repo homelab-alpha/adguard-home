@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-12-11T12:16:52+01:00
+! Last modified: 2024-12-12T13:00:01+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1751,6 +1751,7 @@
 ||parluxshop.store^$important
 ||paultjesdumpstore.nl^$important
 ||pcproamsterdam.nl^$important
+||peemoni.com^$important
 ||peeters-amsterdam.nl^$important
 ||peetersamsterdam.nl^$important
 ||pellets-uitstekend.nl^$important
@@ -2141,6 +2142,7 @@
 ||stuntdeals.store^$important
 ||stuntweken.com^$important
 ||stussyhoodienl.com^$important
+||stu-ssynederland.com^$important
 ||stussy-nls.com^$important
 ||stussys-nl.com^$important
 ||stussysnl.com^$important

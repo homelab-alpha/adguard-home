@@ -46,8 +46,8 @@ by creating a pull request.
 You can ask general questions and get community support through our [community].
 
 If you have an idea for a new feature or behavior change in a specific aspect of
-Homelab-Alpha AdGuard Home or have found a bug, file that issue in the
-project's code repository.
+Homelab-Alpha AdGuard Home or have found a bug, file that issue in the project's
+code repository.
 
 We've made it easy for you to file new issues.
 
@@ -166,14 +166,14 @@ the [license] agreement.
 [Homelab-Alpha's GitHub repositories]: https://github.com/homelab-alpha
 [community]: https://github.com/homelab-alpha/adguard-home/discussions
 [bug report]:
-  https://github.com/homelab-alpha/adguard-home/issues/new?&template=bug_report.yml
+  https://github.com/homelab-alpha/adguard-home/issues/new?assignees=homelab-alpha&labels=bug&projects=&template=bug_report.yml
 [security report]:
-      https://github.com/homelab-alpha/adguard-home/issues/new?assignees=homelab-alpha&labels=security&projects=&template=security_report.yml&title=GitHub+Security+Advisory
+  https://github.com/homelab-alpha/adguard-home/issues/new?assignees=homelab-alpha&labels=security&projects=&template=security_report.yml&title=GitHub+Security+Advisory
 [give feedback]:
   https://github.com/homelab-alpha/adguard-home/discussions/categories/feedback
 [ideas]:
   https://github.com/homelab-alpha/adguard-home/discussions/categories/ideas
 [feature request]:
-  https://github.com/homelab-alpha/adguard-home/issues/new?&template=feature_request.yml
+  https://github.com/homelab-alpha/adguard-home/issues/new?assignees=homelab-alpha&labels=feature+request&projects=&template=feature_request.yml
 [Homelab-Alpha's contact]: https://homelab-alpha.nl/contact
 [license]: LICENSE.md

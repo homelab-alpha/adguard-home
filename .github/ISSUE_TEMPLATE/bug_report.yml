@@ -10,7 +10,7 @@ body:
     validations:
       required: true
     attributes:
-      label: "🔍 Have you found any related issues or pull requests?  *"
+      label: "🔍 Have you found any related issues or pull requests?"
       description: "Check if this bug has already been reported. Use [this link](https://github.com/homelab-alpha/adguard-home/issues?q=) to search for related issues, and explain the differences, or indicate if you couldn't find any related issues."
       placeholder: "For example, 'Related to #1, which also affects the ... system. These issues should not be merged because ...'"
   - type: checkboxes
@@ -19,14 +19,14 @@ body:
       label: "🛡️ Security Policy Agreement"
       description: "Please confirm that you have read the [Security Policy](https://github.com/homelab-alpha/adguard-home/security/policy) before reporting security-related bugs."
       options:
-        - label: "I have read and agree to the Security Policy. *"
+        - label: "I have read and agree to the Security Policy."
           required: true
   - type: textarea
     id: bug-description
     validations:
       required: true
     attributes:
-      label: "🐛 Bug Description *"
+      label: "🐛 Bug Description"
       description: "Provide a detailed explanation of the bug. Include steps to reproduce, expected behavior, and actual behavior."
       placeholder: "Describe the bug in detail."
   - type: textarea
@@ -34,7 +34,7 @@ body:
     validations:
       required: true
     attributes:
-      label: "🧩 Steps to Reproduce *"
+      label: "🧩 Steps to Reproduce"
       description: "Provide a step-by-step guide to reproduce the bug. Include specific details to help us replicate the issue."
       placeholder: "1. Step one\n2. Step two\n3. ..."
   - type: textarea
@@ -42,7 +42,7 @@ body:
     validations:
       required: true
     attributes:
-      label: "✔️ Expected Behavior *"
+      label: "✔️ Expected Behavior"
       description: "Describe what you expected to happen."
       placeholder: "What should have happened instead?"
   - type: textarea
@@ -50,7 +50,7 @@ body:
     validations:
       required: true
     attributes:
-      label: "❌ Actual Behavior *"
+      label: "❌ Actual Behavior"
       description: "Describe what actually happened."
       placeholder: "What happened instead?"
   - type: textarea
@@ -74,7 +74,7 @@ body:
     validations:
       required: true
     attributes:
-      label: "📂 Dependencies and Versions *"
+      label: "📂 Dependencies and Versions"
       description: "List all dependencies and their versions used in your setup. This information helps identify compatibility issues."
       placeholder: "e.g., Library X v1.2.3, Library Y v4.5.6"
   - type: input
@@ -82,7 +82,7 @@ body:
     validations:
       required: true
     attributes:
-      label: "📦 Software Version *"
+      label: "📦 Software Version"
       description: "Specify the version of the software you are using. Avoid using vague terms like 'latest' or 'current'."
       placeholder: "e.g., 1.10.0"
   - type: input
@@ -90,7 +90,7 @@ body:
     validations:
       required: true
     attributes:
-      label: "💻 Operating System *"
+      label: "💻 Operating System"
       description: "Provide the details of the operating system and architecture you are using."
       placeholder: "e.g., Ubuntu Server 24.04.1 LTS (GNU/Linux 6.8.0-48-generic x86_64)"
   - type: textarea
@@ -98,7 +98,7 @@ body:
     validations:
       required: true
     attributes:
-      label: "🖥️ Environment Details *"
+      label: "🖥️ Environment Details"
       description: |
         Provide detailed information about your setup to help us understand your environment better:
           - **Hosting Environment**: Are you running this on a local machine, cloud provider (AWS, Azure, etc.), or other platforms?

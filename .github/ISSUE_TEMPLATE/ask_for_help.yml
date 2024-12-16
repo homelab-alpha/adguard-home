@@ -10,7 +10,7 @@ body:
       label: "⚠️ Please verify that this question has NOT been raised before"
       description: "Ensure this question has not already been raised. Use [this link](https://github.com/homelab-alpha/template/issues?q=) to search."
       options:
-        - label: "I confirm that no similar issue exists. *"
+        - label: "I confirm that no similar issue exists."
           required: true
   - type: checkboxes
     id: security-policy-agreement
@@ -18,14 +18,14 @@ body:
       label: "🛡️ Security Policy Agreement"
       description: "Please confirm that you have read the [Security Policy](https://github.com/homelab-alpha/template/security/policy) before reporting security-related issues."
       options:
-        - label: "I have read and agree to the Security Policy. *"
+        - label: "I have read and agree to the Security Policy."
           required: true
   - type: textarea
     id: problem-description
     validations:
       required: true
     attributes:
-      label: "📝 Describe your problem *"
+      label: "📝 Describe your problem"
       description: "Provide a detailed explanation of your issue or question. Include steps to reproduce, screenshots, or any relevant details."
       placeholder: "Describe your question or problem in detail."
   - type: textarea
@@ -33,7 +33,7 @@ body:
     validations:
       required: true
     attributes:
-      label: "🔍 Attempted Solutions *"
+      label: "🔍 Attempted Solutions"
       description: "List the steps you've taken to troubleshoot the issue or answer your question. Include both successful and unsuccessful attempts."
       placeholder: "List all the actions you've tried to address the issue."
   - type: textarea
@@ -56,7 +56,7 @@ body:
     validations:
       required: true
     attributes:
-      label: "📂 Dependencies and Versions *"
+      label: "📂 Dependencies and Versions"
       description: "List all dependencies and their versions used in your setup. This information helps identify compatibility issues."
       placeholder: "e.g., Library X v1.2.3, Library Y v4.5.6"
   - type: input
@@ -64,7 +64,7 @@ body:
     validations:
       required: true
     attributes:
-      label: "📦 Software Version *"
+      label: "📦 Software Version"
       description: "Specify the version of the software you are using. Avoid using vague terms like 'latest' or 'current'."
       placeholder: "e.g., 1.10.0"
   - type: input
@@ -72,7 +72,7 @@ body:
     validations:
       required: true
     attributes:
-      label: "💻 Operating System *"
+      label: "💻 Operating System"
       description: "Provide the details of the operating system and architecture you are using."
       placeholder: "e.g., Ubuntu Server 24.04.1 LTS (GNU/Linux 6.8.0-48-generic x86_64)"
   - type: input
@@ -88,7 +88,7 @@ body:
     validations:
       required: true
     attributes:
-      label: "🖥️ Environment Details *"
+      label: "🖥️ Environment Details"
       description: |
         Provide detailed information about your setup to help us understand your environment better:
           - **Hosting Environment**: Are you running this on a local machine, cloud provider (AWS, Azure, etc.), or other platforms?

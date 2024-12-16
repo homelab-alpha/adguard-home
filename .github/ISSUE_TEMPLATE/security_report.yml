@@ -21,7 +21,7 @@ body:
     validations:
       required: true
     attributes:
-      label: "GitHub Advisory URL *"
+      label: "GitHub Advisory URL"
       placeholder: "After creating your advisory report, include the GitHub Advisory URL here."
 
   - type: "markdown"

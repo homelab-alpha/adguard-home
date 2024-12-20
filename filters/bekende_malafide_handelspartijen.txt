@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-12-20T10:00:00+01:00
+! Last modified: 2024-12-20T11:28:11+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -146,6 +146,7 @@
 ||aprazowebworks.com^$important
 ||arache.store^$important
 ||aranayan.com^$important
+||archiesnederland.co^$important
 ||ardelle-amsterdam.com^$important
 ||ardent.top^$important
 ||arrt-webshop.com^$important
@@ -154,7 +155,9 @@
 ||asbas-computers.nl^$important
 ||ascension-fashion.com^$important
 ||ashley-miller.net^$important
+||asicsoutletnederland.com^$important
 ||as-ono.nl^$important
+||asshoenederlands.com^$important
 ||asuslaptops.info^$important
 ||aubert-boutique.nl^$important
 ||aubertoutlet.nl^$important
@@ -336,6 +339,7 @@
 ||bridalshoesshop.com^$important
 ||brightboutiquestore.com^$important
 ||brookshardloopschoenensale.com^$important
+||brooksnetherland.com^$important
 ||brunowinkel.nl^$important
 ||bubbelbadennederland.nl^$important
 ||buddlebed.com^$important
@@ -415,6 +419,7 @@
 ||classypatta.nl^$important
 ||cleaningmachineshop.com^$important
 ||clockeanl.com^$important
+||coachoutletnetherlands.cc^$important
 ||coco-beauty.nl^$important
 ||cocoschile.com^$important
 ||codamer.nl^$important
@@ -1328,6 +1333,7 @@
 ||lomenzo.store^$important
 ||londerstore.com^$important
 ||longchampnetherlands.com^$important
+||longchampnetherlandsoutlet.com^$important
 ||longchampsnetherlands.com^$important
 ||lonora.nl^$important
 ||loomzo.com^$important
@@ -1734,6 +1740,8 @@
 ||outlet-sneaker.shop^$important
 ||outlets-nl.com^$important
 ||outleturtieri.co^$important
+||owala-nederland.com^$important
+||owalas-nederland.com^$important
 ||oxazepamkopen.com^$important
 ||ozempicapotheek.nl^$important
 ||ozempic-kopen.nl^$important
@@ -1766,6 +1774,7 @@
 ||petpendy.nl^$important
 ||petrabois.com^$important
 ||pharmapunt.nl^$important
+||philipppleinoutletnederland.com^$important
 ||phonemarket24.nl^$important
 ||pijnstillersapotheek.nl^$important
 ||pikamarkt.eu^$important
@@ -1867,6 +1876,7 @@
 ||reviewpunt.nl^$important
 ||rhode-skin.shop^$important
 ||ricen.shop^$important
+||ridestorenederland.com^$important
 ||rijbewijskoopen.com^$important
 ||rijbewijs-kopen.com^$important
 ||rijbewijsonlinekopen.com^$important
@@ -1972,6 +1982,7 @@
 ||searchdealzweb.com^$important
 ||search-planeet.com^$important
 ||seasonkinderwagen.com^$important
+||sebago-nederland.com^$important
 ||seizoensmode.nl^$important
 ||sekswerkerinformatie.nl^$important
 ||selena-nl.com^$important
@@ -2145,6 +2156,7 @@
 ||stuntweken.com^$important
 ||stussyhoodienl.com^$important
 ||stu-ssynederland.com^$important
+||stu-ssynl.com^$important
 ||stussy-nls.com^$important
 ||stussys-nl.com^$important
 ||stussysnl.com^$important
@@ -2257,6 +2269,7 @@
 ||torea.nl^$important
 ||totaal-duurzaam.com^$important
 ||touelpellets.com^$important
+||tousnl.net^$important
 ||tousvosbois.com^$important
 ||tovara-shop.com^$important
 ||tovenarij-nederland.com^$important
@@ -2264,6 +2277,7 @@
 ||tptfreightbv.com^$important
 ||trans-market.net^$important
 ||transpellets.com^$important
+||trapstarnederland-nl.com^$important
 ||travemoo.de^$important
 ||treevy.shop^$important
 ||trempa.nl^$important
@@ -2338,6 +2352,7 @@
 ||vanderlindenmode.nl^$important
 ||vanderveldemode.nl^$important
 ||vanderveldestore.nl^$important
+||vandijkoutlet.com^$important
 ||vandijkschoenen.nl^$important
 ||vandongenmode.com^$important
 ||van-ecobois.com^$important
@@ -2519,6 +2534,7 @@
 ||wihary.nl^$important
 ||wijnrekkenmuur.nl^$important
 ||wildivo.com^$important
+||wildlingshoes-nederland.com^$important
 ||willashoes.com^$important
 ||willemsenwitgoed.nl^$important
 ||winaco.nl^$important

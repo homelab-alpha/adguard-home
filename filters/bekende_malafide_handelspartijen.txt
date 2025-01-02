@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2024-12-31T11:08:21+01:00
+! Last modified: 2025-01-02T13:33:23+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -624,6 +624,7 @@
 ||dummyexport.shop^$important
 ||durosek.nl^$important
 ||dutch-designeroutlet.com^$important
+||dutch-lands.com^$important
 ||dutchsneakers.com^$important
 ||dutchsneakervault.nl^$important
 ||dutchsport.net^$important
@@ -788,6 +789,7 @@
 ||fikay.webshopapp.com^$important
 ||filouflorance.com^$important
 ||financien-krediet.nl^$important
+||finev-services.com^$important
 ||finnexa.nl^$important
 ||finnist.shop^$important
 ||finoluca.com^$important
@@ -932,6 +934,7 @@
 ||grand20designs.be^$important
 ||grandeur20designs.com^$important
 ||grandeur-designs.nl^$important
+||grandeurgala.com^$important
 ||graszadennl.com^$important
 ||greatdealsvibe.com^$important
 ||greeneggoutlet.nl^$important
@@ -1169,6 +1172,7 @@
 ||kavalo-nl.com^$important
 ||keen-nederland.com^$important
 ||keesbakkers.com^$important
+||keitred-services.com^$important
 ||kerstdeals.com^$important
 ||kerstkoopjes.com^$important
 ||kerstkoopjes.store^$important
@@ -1342,6 +1346,7 @@
 ||lonora.nl^$important
 ||loomzo.com^$important
 ||looshout.com^$important
+||lopesgroups.com^$important
 ||losario.nl^$important
 ||loti-winkel.nl^$important
 ||lotteoutlet.nl^$important
@@ -2468,6 +2473,7 @@
 ||vivansy-handcrafted.nl^$important
 ||vivansy.nl^$important
 ||vivaros.nl^$important
+||vivasline.com^$important
 ||vivawonen.com^$important
 ||vivobarefootnederland.top^$important
 ||vlaardingenworld.com^$important

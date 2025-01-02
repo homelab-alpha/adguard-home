@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-01-02T13:33:23+01:00
+! Last modified: 2025-01-02T16:00:02+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -245,6 +245,7 @@
 ||besteprijs-markt.com^$important
 ||besteschaalmodellen.nl^$important
 ||bestplantly.com^$important
+||bestsnelkrediet.nl^$important
 ||beterbedbe.com^$important
 ||beterbednl.com^$important
 ||beverlyparenti.com^$important
@@ -918,6 +919,7 @@
 ||goedbedgoed.nl^$important
 ||goedbrandhout.com^$important
 ||goedeapotheek.com^$important
+||goedgeldlening.com^$important
 ||goedkooprijbewijs.com^$important
 ||goedkooptanken.org^$important
 ||goed-pellet.shop^$important
@@ -2613,6 +2615,7 @@
 ||yaazy.nl^$important
 ||yara-amsterdam.nl^$important
 ||yekicks.nl^$important
+||yesfinanx.com^$important
 ||yita.nl^$important
 ||yodel.nl^$important
 ||yoram-amsterdam.nl^$important

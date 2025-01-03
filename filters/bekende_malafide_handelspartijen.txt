@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-01-02T16:00:02+01:00
+! Last modified: 2025-01-03T12:40:10+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -149,6 +149,8 @@
 ||archiesnederland.co^$important
 ||ardelle-amsterdam.com^$important
 ||ardent.top^$important
+||arominederland.com^$important
+||aromiparfum.com^$important
 ||arrt-webshop.com^$important
 ||arthurbc.com^$important
 ||artoispellets.com^$important
@@ -329,6 +331,7 @@
 ||brandhoutweertvof.nl^$important
 ||brandi-amsterdam.nl^$important
 ||branelys.com^$important
+||braselo.com^$important
 ||brendaza.com^$important
 ||brendoza.com^$important
 ||brennholz-de-aut.com^$important

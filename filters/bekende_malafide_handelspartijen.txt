@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-01-06T12:48:27+01:00
+! Last modified: 2025-01-06T15:38:30+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -816,6 +816,7 @@
 ||flashberlins.com^$important
 ||flavoraa-nl.com^$important
 ||flavora-nl.com^$important
+||flexbikes.nl^$important
 ||flexcaremedicalbv.com^$important
 ||fliski-shop.nl^$important
 ||flogatmotorfiets.nl^$important
@@ -1532,6 +1533,7 @@
 ||misterricos.nl^$important
 ||misterstijlvol.com^$important
 ||mistore.pro^$important
+||miverobrand.com^$important
 ||mixton.nl^$important
 ||mj-shop.nl^$important
 ||mj-store.nl^$important

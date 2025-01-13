@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-01-13T13:00:04+01:00
+! Last modified: 2025-01-13T16:00:03+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1945,6 +1945,7 @@
 ||rotterdam-action.com^$important
 ||rotterdamapotheek.com^$important
 ||rotterdamfashionboutique.com^$important
+||rovenas.com^$important
 ||royal-fashion.nl^$important
 ||royal-koopjes.nl^$important
 ||rsa-nl.com^$important

@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-01-16T16:00:01+01:00
+! Last modified: 2025-01-18T07:12:29+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -547,6 +547,7 @@
 ||deluxesneakers.nl^$important
 ||deniro-nl.com^$important
 ||deraso.nl^$important
+||derksenenco.nl^$important
 ||derksen-outlet.com^$important
 ||derksenoutlet.com^$important
 ||dermproamsterdam.nl^$important

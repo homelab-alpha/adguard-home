@@ -165,6 +165,7 @@ bol.com##.js_sponsored-products_item
 ||images.poms.omroep.nl^$important
 ||kjdsfjisdfjr23.azurewebsites.net^$important
 ||wertuipsertj34.azurewebsites.net^$important
+||x9t7g4m2qk2.azurewebsites.net^$important
 !
 ! NRC
 ||assets.nrc.nl/static/front/css/split/paywall.*.css$important

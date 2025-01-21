@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-01-21T08:10:00+01:00
+! Last modified: 2025-01-21T15:12:34+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -119,7 +119,9 @@
 ||amsterdammodehuis.nl^$important
 ||amsterdam-nl.com^$important
 ||amsterdam-outlet.com^$important
+||amsterdam-outlet.nl^$important
 ||amsterdam-outlets.nl^$important
+||amsterdam-sale.com^$important
 ||amtrade-job.nl^$important
 ||amtrade-werk.nl^$important
 ||amy-amsterdam.com^$important
@@ -1322,6 +1324,7 @@
 ||letfatburnin.store^$important
 ||lexosaa.nl^$important
 ||licane.com^$important
+||lidfitnesseu.shop^$important
 ||lidlelectricsale.com^$important
 ||lidlmarket.shop^$important
 ||lidloffsale.com^$important
@@ -1771,6 +1774,7 @@
 ||outletdebijenkorf.nl^$important
 ||outlet-designer.nl^$important
 ||outletmcarthur.com^$important
+||outletsamsterdam.nl^$important
 ||outlet-schoenen.nl^$important
 ||outlet-sneaker.shop^$important
 ||outlets-nl.com^$important

@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-01-21T15:12:34+01:00
+! Last modified: 2025-01-24T07:49:41+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -122,6 +122,7 @@
 ||amsterdam-outlet.nl^$important
 ||amsterdam-outlets.nl^$important
 ||amsterdam-sale.com^$important
+||amsterdamsneakers.nl^$important
 ||amtrade-job.nl^$important
 ||amtrade-werk.nl^$important
 ||amy-amsterdam.com^$important
@@ -320,6 +321,7 @@
 ||bordspellenverkoop.com^$important
 ||bordspelwereld.com^$important
 ||boricello.com^$important
+||boridashop.de^$important
 ||bosmartnight.nl^$important
 ||boss-mode.nl^$important
 ||boutique-anna.nl^$important
@@ -836,6 +838,7 @@
 ||florisvanbommelsell.shop^$important
 ||florisvanbommelshop.com^$important
 ||florisvanbommelshopping.shop^$important
+||florisvanbommel.store^$important
 ||florisvanbommelstore.com^$important
 ||florisvanbommelstore.shop^$important
 ||florona-outlet.nl^$important
@@ -1369,6 +1372,7 @@
 ||loomzo.com^$important
 ||looshout.com^$important
 ||lopesgroups.com^$important
+||lorenbach-interieur.nl^$important
 ||losario.nl^$important
 ||loti-winkel.nl^$important
 ||lotteoutlet.nl^$important
@@ -1423,6 +1427,7 @@
 ||lynneselectrical.com^$important
 ||maaimachine24.com^$important
 ||maartendeboerr.com^$important
+||maastrichtmoda.com^$important
 ||mabela-amsterdam.nl^$important
 ||mabslive.com^$important
 ||machinekist.nl^$important
@@ -1624,6 +1629,7 @@
 ||mozara.nl^$important
 ||mrandmrsstork.com^$important
 ||muckbootsnlsale.com^$important
+||muckbootsnl.shop^$important
 ||mufasano.nl^$important
 ||multituinmeubelen.nl^$important
 ||murela.nl^$important
@@ -2595,6 +2601,7 @@
 ||wincos.nl^$important
 ||winkel-brandhout.com^$important
 ||winkel-fiets.com^$important
+||winkeljasnederland.cc^$important
 ||winkelklassieker.nl^$important
 ||winkellen.nl^$important
 ||winkelrinkel.com^$important

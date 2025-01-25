@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-01-24T07:49:41+01:00
+! Last modified: 2025-01-25T09:40:29+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -2221,6 +2221,7 @@
 ||stylestheoutlet.nl^$important
 ||styletric.com^$important
 ||stylore.nl^$important
+||styluxe.nl^$important
 ||succesfietsen.com^$important
 ||sukehiro.com^$important
 ||summumsale.shop^$important
@@ -2412,6 +2413,7 @@
 ||vandongenmode.com^$important
 ||van-ecobois.com^$important
 ||vanero.nl^$important
+||vangils-mode.nl^$important
 ||vanheemstramode.com^$important
 ||vanheerlenmode.nl^$important
 ||vanhofman.nl^$important

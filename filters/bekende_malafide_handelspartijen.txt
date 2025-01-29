@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-01-28T16:00:00+01:00
+! Last modified: 2025-01-29T10:02:26+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -21,6 +21,7 @@
 *everglowing.nl^$important
 *holdius.com^$important
 *majestic-amsterdam.nl^$important
+*mvips.shop^$important
 *myecomstore.net^$important
 *onlinefactory2021.ru^$important
 *onlineoutlet2021.ru^$important
@@ -170,6 +171,7 @@
 ||aubert-boutique.nl^$important
 ||aubertoutlet.nl^$important
 ||audio24.nl^$important
+||aurastrips.nl^$important
 ||authentic-dienst.com^$important
 ||autoparksupport.nl^$important
 ||autotheorie.nl^$important
@@ -1826,6 +1828,7 @@
 ||petit-bateaubigsale.shop^$important
 ||petpendy.nl^$important
 ||petrabois.com^$important
+||petsplace.mvips.shop^$important
 ||pharmapunt.nl^$important
 ||philipppleinoutletnederland.com^$important
 ||phonemarket24.nl^$important

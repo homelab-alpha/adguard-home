@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-01-29T13:00:01+01:00
+! Last modified: 2025-01-31T10:00:00+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1814,6 +1814,7 @@
 ||parelmeer.nl^$important
 ||parfumdiscounters.nl^$important
 ||parksidejmstore.com^$important
+||parksideonlinemin.com^$important
 ||parksidestores.com^$important
 ||parluxshop.store^$important
 ||paultjesdumpstore.nl^$important

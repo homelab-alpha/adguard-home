@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-01-31T13:00:00+01:00
+! Last modified: 2025-02-03T14:49:46+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -883,6 +883,7 @@
 ||gadgetsengames.com^$important
 ||galaxyconsolesnl.com^$important
 ||galaxylampen.nl^$important
+||galaxytoys.nl^$important
 ||galeora.nl^$important
 ||gallie.store^$important
 ||game-box.nl^$important
@@ -1478,6 +1479,7 @@
 ||mastshowda.com^$important
 ||mathijnshop.com^$important
 ||mavlino.store^$important
+||mavonda.com^$important
 ||maxikleding.nl^$important
 ||max-markt.com^$important
 ||maxsoft.nl^$important
@@ -2505,6 +2507,7 @@
 ||vialetti.nl^$important
 ||viarra-shop.com^$important
 ||viarro-shop.com^$important
+||vibayaa.nl^$important
 ||vibesneaks.com^$important
 ||vibes-offer.com^$important
 ||vibesoffer.com^$important

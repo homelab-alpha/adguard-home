@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-02-08T10:13:18+01:00
+! Last modified: 2025-02-10T14:06:11+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1234,6 +1234,7 @@
 ||kitchenappliances-shop.com^$important
 ||kitchenart-nl.com^$important
 ||kitoflex.nl^$important
+||klaassenhaardhout.com^$important
 ||kledingly.com^$important
 ||kledingoutlets-lelystad.nl^$important
 ||kledingwinkelen.nl^$important
@@ -2054,6 +2055,7 @@
 ||scieriecie-boisdechauffage.com^$important
 ||scotchandsodasale-eu.com^$important
 ||scotcheuwears.com^$important
+||scufferssnederland.com^$important
 ||searchdealzweb.com^$important
 ||search-planeet.com^$important
 ||seasonkinderwagen.com^$important

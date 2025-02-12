@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-02-11T09:42:27+01:00
+! Last modified: 2025-02-12T09:36:51+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1254,6 +1254,7 @@
 ||koffiekeuzes.nl^$important
 ||koffie-outlet.com^$important
 ||koffiesales.nl^$important
+||koffietools.nl^$important
 ||koffie-uitverkoop.nl^$important
 ||koffiezetapparaat24.nl^$important
 ||komora.nl^$important
@@ -1497,6 +1498,7 @@
 ||mediamarkt-nl.com^$important
 ||mediamarkt-outlets.com^$important
 ||mediamrakt-nl.com^$important
+||mediapaleis.com^$important
 ||mediapoke.nl^$important
 ||medicaeuropebv.com^$important
 ||medicalplanet.net^$important
@@ -1892,6 +1894,7 @@
 ||pre-blackfriday2023.nl^$important
 ||premierepulsede.com^$important
 ||premium-mode.shop^$important
+||premiumsummervillas.com^$important
 ||premiumverwarming.com^$important
 ||prenatal-sane.shop^$important
 ||prestigeplazanl.com^$important

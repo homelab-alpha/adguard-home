@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-02-17T10:00:04+01:00
+! Last modified: 2025-02-18T10:00:00+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1037,6 +1037,7 @@
 ||herfstvoordeel.com^$important
 ||herrenda.nl^$important
 ||hethuisvanhout.com^$important
+||heyatelierluxe.com^$important
 ||hgwijlhuizen.com^$important
 ||hh-shop.nl^$important
 ||hieriseenolievoor.nl^$important
@@ -1538,6 +1539,7 @@
 ||meubel-baas.nl^$important
 ||meubelbaas-nl.com^$important
 ||meubel-fabriek.com^$important
+||meubelgenot.com^$important
 ||meubel-outlet.com^$important
 ||meubels-24.com^$important
 ||meubels-24.nl^$important
@@ -1599,6 +1601,7 @@
 ||modeboss.nl^$important
 ||modehaus-ams.nl^$important
 ||modehuisbakker.nl^$important
+||modehuis-hendriks.nl^$important
 ||modehuis-jansen.com^$important
 ||modehuisvandam.nl^$important
 ||modelabel22.nl^$important
@@ -1847,6 +1850,7 @@
 ||petpendy.nl^$important
 ||petrabois.com^$important
 ||petsplace.mvips.shop^$important
+||pharma-punt.nl^$important
 ||pharmapunt.nl^$important
 ||philipppleinoutletnederland.com^$important
 ||phonemarket24.nl^$important

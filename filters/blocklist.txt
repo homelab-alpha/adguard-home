@@ -222,3 +222,5 @@ bol.com##.js_sponsored-products_item
 ||plus.unsplash.com^$important
 !
 ! Testing
+||unagi-na.amazon.com.my-lan.nl^$important
+||unagi-na.amazon.com^$important

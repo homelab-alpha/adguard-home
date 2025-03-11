@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-03-11T11:49:45+01:00
+! Last modified: 2025-03-11T16:48:38+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -87,6 +87,7 @@
 ||airforcesneaker.nl^$important
 ||airforcesneakers.nl^$important
 ||airfryer-winkel.nl^$important
+||airupnederland.top^$important
 ||alahtuh.com^$important
 ||a-laptops.info^$important
 ||albertinemode.com^$important
@@ -331,6 +332,7 @@
 ||boridashop.de^$important
 ||bosmartnight.nl^$important
 ||boss-mode.nl^$important
+||bouncesale.cc^$important
 ||boutique-anna.nl^$important
 ||boutique-milou.nl^$important
 ||bouverne-studio.nl^$important
@@ -441,6 +443,7 @@
 ||cleaningmachineshop.com^$important
 ||clockeanl.com^$important
 ||clyroclothing.com^$important
+||coachbagsnederland.com^$important
 ||coachoutletnetherlands.cc^$important
 ||coco-beauty.nl^$important
 ||cocoschile.com^$important
@@ -1766,6 +1769,7 @@
 ||nord-limited.com^$important
 ||norellasverige.com^$important
 ||norsfashion.nl^$important
+||noryclothing.com^$important
 ||nosano.nl^$important
 ||nova-berlin.com^$important
 ||novazo-shop.com^$important

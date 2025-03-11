@@ -42,5 +42,5 @@
 /pagead/
 /sponsored/
 /streamgate/
-/unagi-na/
+/unagi/
 /web-advertising/

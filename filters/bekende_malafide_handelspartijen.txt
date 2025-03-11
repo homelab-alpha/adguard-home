@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-03-08T08:02:18+01:00
+! Last modified: 2025-03-11T11:49:45+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -538,6 +538,7 @@
 ||decore-nl.com^$important
 ||deealsy.com^$important
 ||deenmarkt.com^$important
+||defabriek1991.nl^$important
 ||de-fatbike-factory.nl^$important
 ||defeelgoodshop.com^$important
 ||defianna.nl^$important
@@ -1362,6 +1363,7 @@
 ||lidfitnessgym.com^$important
 ||lidfitnesssgym.com^$important
 ||lidfitness.shop^$important
+||lidfitnesssvip.shop^$important
 ||lidlelectricsale.com^$important
 ||lidlmarket.shop^$important
 ||lidloffsale.com^$important

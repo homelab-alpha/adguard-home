@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-03-18T16:00:00+01:00
+! Last modified: 2025-03-20T08:21:59+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -871,6 +871,7 @@
 ||flumbodeals.com^$important
 ||fmcg-excellence.eu^$important
 ||folder-aanbiedingen.com^$important
+||folder-deals.com^$important
 ||fontinose.com^$important
 ||foonwinkelshop.com^$important
 ||footflick.nl^$important
@@ -2020,6 +2021,7 @@
 ||roermond-uitverkoop.com^$important
 ||rolermode.com^$important
 ||romanastudios.com^$important
+||romeomode.com^$important
 ||ronctly.com^$important
 ||rooni.nl^$important
 ||roosendaal-outlet.com^$important

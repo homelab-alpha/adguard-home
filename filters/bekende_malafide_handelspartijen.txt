@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-03-20T08:21:59+01:00
+! Last modified: 2025-03-21T07:33:39+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -437,6 +437,7 @@
 ||cizanofashion.nl^$important
 ||clara-sneakers.shop^$important
 ||clarksschoenen.com^$important
+||classicmode.nl^$important
 ||classyamsterdam.nl^$important
 ||classyjakka.nl^$important
 ||classypatta.nl^$important
@@ -2038,6 +2039,7 @@
 ||rovenas.com^$important
 ||royal-fashion.nl^$important
 ||royal-koopjes.nl^$important
+||royalrotterdam.com^$important
 ||rsa-nl.com^$important
 ||rubensmitx.com^$important
 ||rushaoutlet.com^$important
@@ -2468,6 +2470,7 @@
 ||urbanwear-utrecht.nl^$important
 ||urtierioutlet.shop^$important
 ||uteka.nl^$important
+||utrecht-mode.nl^$important
 ||uwkentekenbewijs.nl^$important
 ||uwkentekencard.nl^$important
 ||vaarbewijskopen.com^$important

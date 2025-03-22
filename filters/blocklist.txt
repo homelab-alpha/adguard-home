@@ -218,7 +218,10 @@ bol.com##.js_sponsored-products_item
 ||tyramoorexxx.com^$important
 !
 ! Unsplash
+/.*/$permissions=join-ad-interest-group=(),document,important
 ||logger.unsplash.com^$important
 ||plus.unsplash.com^$important
+||snowplowanalytics.com^$important
+nslookup.io,unsplash.com##a[rel^="sponsored"]
 !
 ! Testing

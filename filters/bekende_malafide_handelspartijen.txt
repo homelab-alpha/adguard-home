@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-04-03T07:10:50+02:00
+! Last modified: 2025-04-03T12:27:57+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -410,6 +410,7 @@
 ||casabellafashion.nl^$important
 ||casainteriors.nl^$important
 ||casa-nl.com^$important
+||casashop-home.com^$important
 ||casttaria.com^$important
 ||casual-moda.nl^$important
 ||catchdeals.nl^$important
@@ -885,6 +886,7 @@
 ||formula1seats.com^$important
 ||forstbetriebbernhardt-gmbh.com^$important
 ||forusa.nl^$important
+||fouramsterdam.shop^$important
 ||fouramterdam.nl^$important
 ||fozelia.nl^$important
 ||fpa-goedkoop.com^$important

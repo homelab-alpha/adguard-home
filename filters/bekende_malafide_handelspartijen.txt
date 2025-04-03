@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-04-02T05:27:44+02:00
+! Last modified: 2025-04-03T07:10:50+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1281,6 +1281,7 @@
 ||koffiekameraad.nl^$important
 ||koffiekansen.nl^$important
 ||koffiekans.nl^$important
+||koffiekeuken.com^$important
 ||koffiekeuzes.nl^$important
 ||koffie-outlet.com^$important
 ||koffiesales.nl^$important
@@ -2555,9 +2556,12 @@
 ||veldageschaft.com^$important
 ||velours24.nl^$important
 ||velur-nl.com^$important
+||velvetnlparfum.com^$important
+||velvetparfum-nl.com^$important
 ||velvetrognik.com^$important
 ||vemisboutiquenl.com^$important
 ||vemorio.com^$important
+||venema-amsterdam.com^$important
 ||ventboro.nl^$important
 ||ventinoroermond.com^$important
 ||ventle.nl^$important

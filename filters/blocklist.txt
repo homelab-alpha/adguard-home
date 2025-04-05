@@ -216,6 +216,7 @@ bol.com##.js_sponsored-products_item
 ||tweakers.net/x/build/cookieBar.*.js$important
 ||tweakers.net/x/styles/components/cookiebar/cookie_bar.fd6f85fcf49475b8103620f801820c56.css$important
 ||tyramoorexxx.com^$important
+##.sponsored-actions
 !
 ! Unsplash
 /.*/$permissions=join-ad-interest-group=(),document,important

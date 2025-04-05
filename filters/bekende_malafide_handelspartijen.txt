@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-04-04T09:56:09+02:00
+! Last modified: 2025-04-05T09:22:25+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1051,6 +1051,7 @@
 ||heliumeushop.com^$important
 ||heliumspotminer.com^$important
 ||hemanl.shop^$important
+||hendo-media.com^$important
 ||henergiax.com^$important
 ||henna-boutique.nl^$important
 ||hennaboutique.nl^$important
@@ -2687,6 +2688,7 @@
 ||webkorting.com^$important
 ||webshopchecken.nl^$important
 ||webtique.nl^$important
+||weevy.nl^$important
 ||wehkampbenelux.nl^$important
 ||wehkamp-deals.nl^$important
 ||wehkampdeals.nl^$important

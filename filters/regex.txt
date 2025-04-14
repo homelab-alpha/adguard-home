@@ -3,14 +3,14 @@
 ! Description: Filter consisting of a list that blocks ads and ad tracking using regular expression syntax.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-03-08T08:08:47+01:00
+! Last modified: 2025-04-14T15:51:39+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
 !
 ! Source name: Regex
 ! Source: https://raw.githubusercontent.com/homelab-alpha/adguard-home/main/filters/regex.txt
-! Version: v0.107.55-Alpha
+! Version: v0.107.60-Alpha
 ! Expires: 90 days (update frequency)
 !
 !

@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-04-22T16:00:00+02:00
+! Last modified: 2025-04-23T13:00:01+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -708,6 +708,7 @@
 ||elaxo.nl^$important
 ||elec4you.nl^$important
 ||electras.de^$important
+||electriccruisebikes.com^$important
 ||electrofast.nl^$important
 ||electro-home.nl^$important
 ||electronic-first.com^$important
@@ -820,6 +821,7 @@
 ||feestdagendeals.nl^$important
 ||felas.nl^$important
 ||felero.nl^$important
+||femkehome.com^$important
 ||femoda-fashion.nl^$important
 ||femoda.nl^$important
 ||femoda-shop.nl^$important

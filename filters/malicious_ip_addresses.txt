@@ -1,0 +1,16 @@
+!
+! Title: Malicious IP Addresses
+! Description: Filter consisting of a list of known malicious IP addresses. (safeguard your network from potential threats.)
+! Homepage: https://github.com/homelab-alpha/adguard-home
+! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
+! Last modified: 2025-04-27T11:03:05+02:00
+!
+! Compiled by @homelab-alpha/adguard-home
+!
+!
+! Source name: Malicious IP Addresses
+! Source: https://raw.githubusercontent.com/homelab-alpha/adguard-home/main/filters/malicious_ip_addresses.txt
+! Version: v0.107.60-Alpha
+! Expires: 90 days (update frequency)
+!
+!

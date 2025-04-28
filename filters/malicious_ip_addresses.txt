@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of known malicious IP addresses. (safeguard your network from potential threats.)
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-04-28T14:21:06+02:00
+! Last modified: 2025-04-28T15:14:44+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -38,6 +38,7 @@
 103.203.57.23
 103.203.58.1
 103.203.59.16
+103.203.59.6
 103.203.59.8
 103.211.103.171
 103.216.252.162
@@ -283,6 +284,7 @@
 183.60.103.39
 183.61.109.222
 183.93.66.165
+183.94.33.15
 185.116.163.22
 185.162.216.17
 185.186.77.63
@@ -411,6 +413,7 @@
 45.79.120.183
 45.82.76.60
 45.82.76.71
+45.82.76.80
 45.82.76.83
 45.82.76.84
 45.82.76.94
@@ -447,6 +450,7 @@
 58.211.18.68
 58.59.233.179
 58.65.153.246
+59.183.118.150
 59.188.156.244
 59.52.176.208
 59.61.185.15

@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-04-30T10:00:01+02:00
+! Last modified: 2025-04-30T14:54:19+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1530,6 +1530,7 @@
 ||mansios.nl^$important
 ||marago-nl.com^$important
 ||marcopirello.com^$important
+||mariaas-fashion.com^$important
 ||marikoooutletwinkel.com^$important
 ||mariskaoutlet.com^$important
 ||markprijs.com^$important
@@ -2422,6 +2423,7 @@
 ||theathletefoot.nl^$important
 ||theathletsfoot.com^$important
 ||thebbqgrill.nl^$important
+||thebestsneaker.com^$important
 ||thechronoswiss.com^$important
 ||thedesignlamp.nl^$important
 ||thefootshop.nl^$important

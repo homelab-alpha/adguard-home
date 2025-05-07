@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-05-06T16:40:57+02:00
+! Last modified: 2025-05-07T13:00:03+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1832,6 +1832,7 @@
 ||offcut.nl^$important
 ||offerinsins.com^$important
 ||officialfitfeelers.nl^$important
+||officialmirevi.com^$important
 ||official-pangeae.nl^$important
 ||offthecut.nl^$important
 ||ohclothes.nl^$important
@@ -2592,6 +2593,8 @@
 ||veldageschaft.com^$important
 ||velours24.nl^$important
 ||velur-nl.com^$important
+||velvetnederland.com^$important
+||velvetnederlands.com^$important
 ||velvetnlparfum.com^$important
 ||velvetparfum-nl.com^$important
 ||velvetrognik.com^$important
@@ -2709,6 +2712,7 @@
 ||wallasia.nl^$important
 ||wamwearshop.com^$important
 ||wantrys.com^$important
+||warenoutlet.nl^$important
 ||warmidam.nl^$important
 ||warmte24.nl^$important
 ||warmworden.com^$important

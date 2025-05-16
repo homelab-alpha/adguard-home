@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-05-14T16:00:03+02:00
+! Last modified: 2025-05-16T07:50:33+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -684,6 +684,7 @@
 ||dutchsport.net^$important
 ||dyalifestyle.com^$important
 ||dylawear.com^$important
+||dyson-benelux.com^$important
 ||dysondeal.nl^$important
 ||easydeken.com^$important
 ||easy-glamour.com^$important

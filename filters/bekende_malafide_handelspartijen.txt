@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-05-16T07:50:33+02:00
+! Last modified: 2025-05-19T16:27:07+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -214,8 +214,12 @@
 ||batterijboost.com^$important
 ||batterybikes.nl^$important
 ||bavaly-amsterdam.com^$important
+||baxmusic.ru.com^$important
 ||bax-music.sa.com^$important
+||baxmusicsale.za.com^$important
+||bax-music.za.com^$important
 ||baxmusic.za.com^$important
+||bax-shop.sa.com^$important
 ||bayuna.nl^$important
 ||bbqgiganti.nl^$important
 ||bbq-grill-winkel.com^$important

@@ -3,14 +3,14 @@
 ! Description: Filter consisting of a list that blocks ads and ad tracking using cookie filters.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-04-14T15:51:39+02:00
+! Last modified: 2025-05-27T15:08:13+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
 !
 ! Source name: Cookies
 ! Source: https://raw.githubusercontent.com/homelab-alpha/adguard-home/main/filters/cookies.txt
-! Version: v0.107.60-Alpha
+! Version: v0.107.62-Alpha
 ! Expires: 90 days (update frequency)
 !
 !

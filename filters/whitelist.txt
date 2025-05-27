@@ -10,7 +10,7 @@
 !
 ! Source name: Whitelist
 ! Source: https://raw.githubusercontent.com/homelab-alpha/adguard-home/main/filters/whitelist.txt
-! Version: v0.107.60-Alpha
+! Version: v0.107.62-Alpha
 ! Expires: 90 days (update frequency)
 !
 !

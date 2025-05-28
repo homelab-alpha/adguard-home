@@ -3,7 +3,7 @@
 ! Description:  Filter consisting of a list that blocks social media websites.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-05-27T15:08:13+02:00
+! Last modified: 2025-05-28T10:28:03+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -65,11 +65,9 @@
 ||le.com^$important
 ||likee.video^$important
 ||line.me^$important
-||linkedin.com^$important
 ||mafengwo.cn^$important
 ||majiaxia.com^$important
 ||mastodon.social^$important
-||medium.com^$important
 ||meetup.com^$important
 ||meituan.com^$important
 ||mewe.com^$important
@@ -94,7 +92,6 @@
 ||quora.com^$important
 ||qzone.qq.com^$important
 ||raftr.com^$important
-||reddit.com^$important
 ||renren.com^$important
 ||reverbnation.com^$important
 ||rumble.com^$important

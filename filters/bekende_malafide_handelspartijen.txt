@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-06-13T10:00:00+02:00
+! Last modified: 2025-06-16T16:00:00+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1120,6 +1120,7 @@
 ||hollandsekoopjess.com^$important
 ||hollandsekorting.store^$important
 ||hollandsemedici.com^$important
+||hollandsheart.nl^$important
 ||holzbillig.com^$important
 ||holzdestock.com^$important
 ||holzmullerfirewood-shop.com^$important
@@ -2075,6 +2076,7 @@
 ||rivona-amsterdam.nl^$important
 ||rmc-store.com^$important
 ||rnbconsultancy.nl^$important
+||robdebouwer.com^$important
 ||rocketcards.nl^$important
 ||roermonddeal.com^$important
 ||roermond-fashionoutlet.com^$important

@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-06-18T13:00:00+02:00
+! Last modified: 2025-06-19T13:00:03+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1328,6 +1328,7 @@
 ||koffie365.com^$important
 ||koffiecompleet.com^$important
 ||koffiegiganti.nl^$important
+||koffie-huis.com^$important
 ||koffiekameraad.nl^$important
 ||koffiekansen.nl^$important
 ||koffiekans.nl^$important
@@ -1509,6 +1510,7 @@
 ||luvano-amsterdam.nl^$important
 ||luvanoamsterdam.nl^$important
 ||luvello.nl^$important
+||luvienl.com^$important
 ||luvily.nl^$important
 ||luvonnetherlands.com^$important
 ||luvon-nl.com^$important
@@ -1664,6 +1666,7 @@
 ||mi-nl.eu^$important
 ||mintooamsterdam.nl^$important
 ||mirandashop.de^$important
+||mirevinetherlands.com^$important
 ||missgloww.com^$important
 ||mister-fashion.nl^$important
 ||mistermoda.nl^$important

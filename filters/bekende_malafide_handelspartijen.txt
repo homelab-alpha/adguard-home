@@ -3,14 +3,14 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-06-24T15:33:59+02:00
+! Last modified: 2025-06-27T08:42:49+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
 !
 ! Source name: Bekende Malafide Handelspartijen
 ! Source: https://raw.githubusercontent.com/homelab-alpha/adguard-home/main/filters/bekende_malafide_handelspartijen.txt
-! Version: v0.107.62-Alpha
+! Version: v0.107.63-Alpha
 ! Expires: 90 days (update frequency)
 !
 !

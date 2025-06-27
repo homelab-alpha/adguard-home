@@ -3,7 +3,7 @@
 ! Description: Filter consisting 41,962 phishing domains. Domains are associated with LabHost, a phishing-as-a-service (PhaaS) platform identified by the FBI.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-05-02T10:46:44+02:00
+! Last modified: 2025-06-27T08:42:49+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -11,7 +11,7 @@
 ! Source name: LabHost phishing domains
 ! Source: https://raw.githubusercontent.com/homelab-alpha/adguard-home/main/filters/labhost_phishing_domains.txt
 ! Reference: FBI FLASH Alert (FLASH-20250429-001) — https://www.ic3.gov/CSA/2025/250429.pdf
-! Version: v0.107.60-Alpha
+! Version: v0.107.63-Alpha
 ! Expires: 5 Years
 !
 !

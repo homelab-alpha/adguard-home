@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-06-30T15:55:44+02:00
+! Last modified: 2025-07-02T06:50:59+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -181,6 +181,7 @@
 ||audio24.nl^$important
 ||aurastrips.nl^$important
 ||authentic-dienst.com^$important
+||authentiekeparfumerie.com^$important
 ||autoparksupport.nl^$important
 ||autotheorie.nl^$important
 ||ava-groningen.shop^$important
@@ -1591,6 +1592,7 @@
 ||mcarthuroutlet.com^$important
 ||mediaknaller.net^$important
 ||mediakorf.com^$important
+||mediamarkkt.com^$important
 ||mediamarkt-fr.com^$important
 ||mediamarkt-nederland.com^$important
 ||mediamarkt-nl.com^$important
@@ -1950,6 +1952,7 @@
 ||peemoni.com^$important
 ||peeters-amsterdam.nl^$important
 ||peetersamsterdam.nl^$important
+||pelletstotaal.com^$important
 ||pellets-uitstekend.nl^$important
 ||pepperdeals.nl^$important
 ||perem.nl^$important

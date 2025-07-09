@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-07-07T13:00:00+02:00
+! Last modified: 2025-07-09T08:11:47+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -2282,6 +2282,7 @@
 ||smart-market-online.com^$important
 ||smartselektronik.com^$important
 ||smartwatchesnl24.com^$important
+||smcg.shop^$important
 ||smegnederland.com^$important
 ||smitkleding.nl^$important
 ||smuz.nl^$important

@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-07-11T08:20:50+02:00
+! Last modified: 2025-07-11T13:12:14+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -436,6 +436,7 @@
 ||caterpillar-nederland.com^$important
 ||caterpillar-nederland.top^$important
 ||cavallarotop.shop^$important
+||cavalleriatoscana-outlets.shop^$important
 ||caxada.nl^$important
 ||celestes-amsterdam.nl^$important
 ||celyfe.com^$important
@@ -1289,6 +1290,7 @@
 ||kaufenholz.com^$important
 ||kaufenia.com^$important
 ||kavalo-nl.com^$important
+||kayali.sa.com^$important
 ||keen-nederland.com^$important
 ||keesbakkers.com^$important
 ||keitred-services.com^$important
@@ -1982,6 +1984,7 @@
 ||pikashops.de^$important
 ||pikashops.eu^$important
 ||pikashops.nl^$important
+||pikeur-sale.shop^$important
 ||pinksneakers.nl^$important
 ||pirri.blog^$important
 ||pkaianselam.com^$important

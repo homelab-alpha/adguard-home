@@ -1,6 +1,7 @@
 # AdGuard Home
 
 [![Super Linter](https://github.com/homelab-alpha/adguard-home/actions/workflows/super_linter.yml/badge.svg)](https://github.com/homelab-alpha/adguard-home/actions/workflows/super_linter.yml)
+[![Last commit](https://img.shields.io/github/last-commit/homelab-alpha/adguard-home?style=flat&logo=github&logoColor=96a1a9&label=Last%20commit&labelColor=313A41&color=BA935B&cacheSeconds=3600)](https://github.com/homelab-alpha/adguard-home/commits/main/)
 
 Welcome to the Homelab-Alpha AdGuard Home repository!
 

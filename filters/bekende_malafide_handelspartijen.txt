@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-07-23T06:20:39+02:00
+! Last modified: 2025-07-23T10:00:04+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -82,6 +82,7 @@
 ||agide-boutique.com^$important
 ||agonia.nl^$important
 ||ahbeautebv.com^$important
+||ah-voordeel.com^$important
 ||aiglenederland.com^$important
 ||airco-zomerdeal.nl^$important
 ||airforce1officieel.nl^$important
@@ -917,6 +918,7 @@
 ||fmcg-excellence.eu^$important
 ||folder-aanbiedingen.com^$important
 ||folder-deals.com^$important
+||folderdeals.com^$important
 ||fontinose.com^$important
 ||foonwinkelshop.com^$important
 ||footflick.nl^$important

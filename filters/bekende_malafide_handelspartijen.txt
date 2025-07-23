@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-07-22T05:49:32+02:00
+! Last modified: 2025-07-23T06:20:39+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1749,6 +1749,7 @@
 ||moniqueoutlet.com^$important
 ||mon-makeup.com^$important
 ||monosboutique.nl^$important
+||monstercatchers.nl^$important
 ||montage-boutique.com^$important
 ||montela-shop.com^$important
 ||montigusto.nl^$important
@@ -2687,6 +2688,7 @@
 ||veranilo.com^$important
 ||veranssiamsterdam.nl^$important
 ||verfwinkelnl.com^$important
+||verhagenoutlet.com^$important
 ||veriele.nl^$important
 ||verino.nl^$important
 ||verkoop-nl.com^$important

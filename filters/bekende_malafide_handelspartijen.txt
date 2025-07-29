@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-07-26T07:49:16+02:00
+! Last modified: 2025-07-29T08:49:59+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -2280,6 +2280,8 @@
 ||sincol.nl^$important
 ||sincosi.com^$important
 ||sincosi.nl^$important
+||sissyboynl.shop^$important
+||sissyboystore.shop^$important
 ||sitimaoutlet.com^$important
 ||skechersbe.org^$important
 ||skechersnederland.org^$important
@@ -2817,6 +2819,7 @@
 ||wehkampoutlet.nl^$important
 ||wehkampsoutlet.nl^$important
 ||wehkampsoutlets.nl^$important
+||weoutlet.shop^$important
 ||wereldparts.net^$important
 ||westernstandardfin.com^$important
 ||westwoodbv.com^$important

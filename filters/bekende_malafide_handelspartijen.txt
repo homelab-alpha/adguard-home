@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-08-01T13:00:00+02:00
+! Last modified: 2025-08-05T07:30:01+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -454,6 +454,7 @@
 ||chloeshop.nl^$important
 ||chloev.nl^$important
 ||chopnly.com^$important
+||christenkleding.nl^$important
 ||chumio.de^$important
 ||cigkoftemhaarlem.nl^$important
 ||cimorra.com^$important
@@ -2282,6 +2283,7 @@
 ||sincosi.com^$important
 ||sincosi.nl^$important
 ||sissyboynl.shop^$important
+||sissyboyonline.shop^$important
 ||sissyboystore.shop^$important
 ||sitimaoutlet.com^$important
 ||skechersbe.org^$important
@@ -2393,6 +2395,7 @@
 ||sskins.nl^$important
 ||stapbeter.nl^$important
 ||starona.nl^$important
+||startekbv.com^$important
 ||steazy-shop.nl^$important
 ||stellastore.nl^$important
 ||stijlmode.com^$important
@@ -2604,6 +2607,7 @@
 ||urtierioutlet.shop^$important
 ||uteka.nl^$important
 ||utrecht-mode.nl^$important
+||uwinkel.com^$important
 ||uwkentekenbewijs.nl^$important
 ||uwkentekencard.nl^$important
 ||vaarbewijskopen.com^$important
@@ -2885,6 +2889,7 @@
 ||woondaa.nl^$important
 ||woonhart-home.shop^$important
 ||woononlinehuis.com^$important
+||woonvibe.com^$important
 ||wotakoi.com^$important
 ||wowdealsi.com^$important
 ||wowdeals-nl.com^$important

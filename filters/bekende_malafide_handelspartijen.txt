@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-08-05T13:00:04+02:00
+! Last modified: 2025-08-05T16:00:00+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1183,6 +1183,7 @@
 ||huisdierstore.com^$important
 ||huis-elektronica.com^$important
 ||huisenso.nl^$important
+||huisentuin-afrekenen.com^$important
 ||huishof.nl^$important
 ||huishout-markt.nl^$important
 ||huismeubilair.com^$important
@@ -2028,6 +2029,8 @@
 ||poloofficieel.nl^$important
 ||polo-winkel.com^$important
 ||poncert.com^$important
+||pootenco-meubels.com^$important
+||pootencoo.com^$important
 ||popartgoedkoop.com^$important
 ||popdynamics-shop.com^$important
 ||popgoed.com^$important
@@ -2155,6 +2158,7 @@
 ||russell-nl.com^$important
 ||rxapotheek.com^$important
 ||rxapotheekvoorjou.com^$important
+||saddlebrown-dugong-708605.hostingersite.com^$important
 ||safetyelro.com^$important
 ||saint-blanc.nl^$important
 ||saintparis.nl^$important
@@ -2519,6 +2523,7 @@
 ||thenordicstock.nl^$important
 ||thermosflaskshop.com^$important
 ||thesquid-gamemerch.com^$important
+||thuisentuin.com^$important
 ||thuismart.nl^$important
 ||thuiswereld.nl^$important
 ||thuiswinkel-online.nl^$important

@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-08-05T16:00:00+02:00
+! Last modified: 2025-08-06T10:00:18+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -295,6 +295,7 @@
 ||bigsalest.com^$important
 ||bijenkorfoutlet.nl^$important
 ||bijenkorfsale.com^$important
+||bikboknederland.com^$important
 ||bikeaqua.nl^$important
 ||bikes-discounter.nl^$important
 ||bikesfactory.nl^$important
@@ -1885,6 +1886,7 @@
 ||nubil.nl^$important
 ||nuevobe.com^$important
 ||nulreceptapotheek.com^$important
+||nusselein-boetiek.nl^$important
 ||nuvado.nl^$important
 ||nuvoirr.com^$important
 ||nwelectrowinkel.com^$important

@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-08-06T14:57:24+02:00
+! Last modified: 2025-08-07T16:00:00+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -2089,6 +2089,7 @@
 ||realprojectpro.store^$important
 ||recovlex.nl^$important
 ||redash.nl^$important
+||redema-buiten.nl^$important
 ||redjedeals.nl^$important
 ||redwingnetherlands.com^$important
 ||redwingstorenederland.com^$important
@@ -2180,6 +2181,8 @@
 ||salomomoutletnederland.com^$important
 ||salomooutletnederland.com^$important
 ||saloria.nl^$important
+||saltevio.com^$important
+||saltokorting.com^$important
 ||salto-meubelen.nl^$important
 ||salurashop.com^$important
 ||samsova-shop.com^$important

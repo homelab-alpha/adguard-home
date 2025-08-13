@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-08-13T07:59:48+02:00
+! Last modified: 2025-08-13T12:03:51+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -811,6 +811,7 @@
 ||etadsl.com^$important
 ||etherischeoliediscounter.com^$important
 ||eu-rijbewijs.com^$important
+||europe-malls.com^$important
 ||eurosmarkts.com^$important
 ||euthanasiagroup.com^$important
 ||eva-fiets.com^$important
@@ -1075,6 +1076,7 @@
 ||hairvies.nl^$important
 ||haistos.nl^$important
 ||halloweenspelen.com^$important
+||handball-euro.store^$important
 ||handelen-live.nl^$important
 ||handschoenennleverlasta.net^$important
 ||handymart.nl^$important
@@ -1458,13 +1460,19 @@
 ||lidfitnesssgym-eu.com^$important
 ||lidfitness.shop^$important
 ||lidfitnesssvip.shop^$important
+||lidl.bike^$important
+||lidl-de.app^$important
 ||lidlelectricsale.com^$important
+||lidl-fr.shop^$important
 ||lidlmarket.shop^$important
 ||lidloffsale.com^$important
 ||lidlopusnet.com^$important
+||lidl-pt.com^$important
 ||lidlshopchampions.com^$important
 ||lidlshopgeniusx.com^$important
 ||lidlshoppioneerspro.com^$important
+||lidl-store-de.com^$important
+||lidl-uk.it.com^$important
 ||lidl-voordeelshop.com^$important
 ||lidlwhisperer.com^$important
 ||lidlworldsale.com^$important
@@ -1480,6 +1488,11 @@
 ||lindalinoe.com^$important
 ||lisagshop.com^$important
 ||lissadella-mode.fr^$important
+||little-dutch.deals^$important
+||little-dutch.deals.nl^$important
+||little-dutch-euro.app^$important
+||little-dutch.store^$important
+||little-dutch.toys^$important
 ||littlenestbaby.com^$important
 ||livaro-amsterdam.com^$important
 ||livaro-amsterdam.nl^$important
@@ -2458,6 +2471,7 @@
 ||superelektronicadeals.nl^$important
 ||superelektronicasales.nl^$important
 ||superieur-nl.com^$important
+||superofferte.sale^$important
 ||super-outlet.shop^$important
 ||superr-aanbod.com^$important
 ||superstargearnl.com^$important

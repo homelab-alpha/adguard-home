@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-08-13T12:03:51+02:00
+! Last modified: 2025-08-15T13:28:02+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1490,7 +1490,9 @@
 ||lissadella-mode.fr^$important
 ||little-dutch.deals^$important
 ||little-dutch.deals.nl^$important
+||little-dutch-eu.com^$important
 ||little-dutch-euro.app^$important
+||little-dutch.it.com^$important
 ||little-dutch.store^$important
 ||little-dutch.toys^$important
 ||littlenestbaby.com^$important
@@ -1591,6 +1593,7 @@
 ||maisons-amstelveen.nl^$important
 ||maison-vallon.com^$important
 ||malego.nl^$important
+||mall-discounts.com^$important
 ||maluxa.nl^$important
 ||maluxe.nl^$important
 ||mambobaby-float.nl^$important

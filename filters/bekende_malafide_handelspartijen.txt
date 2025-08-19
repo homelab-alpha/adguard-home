@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-08-15T13:28:02+02:00
+! Last modified: 2025-08-18T13:00:00+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -804,6 +804,7 @@
 ||essentials-amsterdam.nl^$important
 ||essentialslabel.com^$important
 ||essentialswear.nl^$important
+||essentiel-antwerpsell.com^$important
 ||essoverra.com^$important
 ||estellamoda.nl^$important
 ||estelle-amsterdam.nl^$important

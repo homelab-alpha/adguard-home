@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-08-21T13:00:00+02:00
+! Last modified: 2025-08-22T06:50:09+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1091,6 +1091,7 @@
 ||harmanli-eu.shop^$important
 ||harmanligmbh.online^$important
 ||harper-amsterdam.nl^$important
+||hats-shop.com^$important
 ||hausio.nl^$important
 ||hauspelletexpress.com^$important
 ||havapotheeks.com^$important
@@ -1682,6 +1683,7 @@
 ||meubel-outlet.com^$important
 ||meubels-24.com^$important
 ||meubels-24.nl^$important
+||meubels-discounter.com^$important
 ||meubelshopbe.com^$important
 ||meubelsvoordeel-nl.com^$important
 ||meubelswonen-nl.com^$important
@@ -2559,6 +2561,7 @@
 ||ti-84shop.nl^$important
 ||tielboutique.net^$important
 ||tieleman-zoetermeer.nl^$important
+||tiletrendsnow.com^$important
 ||toiletrybagssale.com^$important
 ||tombakkers.com^$important
 ||tommyhilfigernl.pw^$important
@@ -2610,6 +2613,7 @@
 ||trophaxbrand.com^$important
 ||trophaxbrande.com^$important
 ||trustiys.com^$important
+||tuinen-kamp.com^$important
 ||tuinen-kamp.nl^$important
 ||tuin-plaats.nl^$important
 ||tuinpluim.nl^$important
@@ -2643,6 +2647,7 @@
 ||urtierioutlet.shop^$important
 ||uteka.nl^$important
 ||utrecht-mode.nl^$important
+||uupetstore.com^$important
 ||uwinkel.com^$important
 ||uwkentekenbewijs.nl^$important
 ||uwkentekencard.nl^$important
@@ -2734,6 +2739,8 @@
 ||ventle.nl^$important
 ||ventwinkel.nl^$important
 ||venumeu.shop^$important
+||venumsale-eu.com^$important
+||venumsaleeu.com^$important
 ||venziy.com^$important
 ||veranilo.com^$important
 ||veranssiamsterdam.nl^$important
@@ -2855,6 +2862,7 @@
 ||webshopchecken.nl^$important
 ||webtique.nl^$important
 ||weevy.nl^$important
+||wefashionsales.shop^$important
 ||wehkampbenelux.nl^$important
 ||wehkamp-deals.nl^$important
 ||wehkampdeals.nl^$important

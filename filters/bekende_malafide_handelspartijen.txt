@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-08-22T06:50:09+02:00
+! Last modified: 2025-08-26T13:00:00+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -179,6 +179,7 @@
 ||as-ono.nl^$important
 ||asshoenederlands.com^$important
 ||asuslaptops.info^$important
+||attpstore.shop^$important
 ||aubert-boutique.nl^$important
 ||aubertoutlet.nl^$important
 ||audio24.nl^$important
@@ -362,6 +363,7 @@
 ||bouwinradiatoren.nl^$important
 ||bouwkraam.nl^$important
 ||bouwmarkt-korting.com^$important
+||brandfactorystore.shop^$important
 ||brandhout32.com^$important
 ||brandhoutenpellets.nl^$important
 ||brandhouthuis.com^$important
@@ -696,6 +698,7 @@
 ||droog-haardhout.nl^$important
 ||drronrea.com^$important
 ||drsneakers.nl^$important
+||drulwinkel.nl^$important
 ||dubbele-controleur.myshopify.com^$important
 ||duitsrijbewijs.com^$important
 ||dummyexport.shop^$important
@@ -1669,6 +1672,7 @@
 ||melana-amsterdam.com^$important
 ||mellero.nl^$important
 ||meloshope.com^$important
+||memefi.nl^$important
 ||meramarkt.com^$important
 ||merkoutlet-arnhem.nl^$important
 ||merle-fashion.nl^$important
@@ -2050,6 +2054,7 @@
 ||poioshirtsverkoop.com^$important
 ||pokemon-world.nl^$important
 ||poketrainers.nl^$important
+||polarstoreco.shop^$important
 ||polderhoutpellets.nl^$important
 ||poloofficial.nl^$important
 ||poloofficieel.com^$important
@@ -2493,6 +2498,7 @@
 ||suprnederland.com^$important
 ||surround-sound.nl^$important
 ||svvwebshop.nl^$important
+||swastorecs.shop^$important
 ||sweethuis.com^$important
 ||swiso.nl^$important
 ||sydiinno.com^$important

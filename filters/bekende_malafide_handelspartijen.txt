@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-08-26T13:00:00+02:00
+! Last modified: 2025-08-28T07:43:58+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -864,6 +864,7 @@
 ||feestdagendeals.nl^$important
 ||felas.nl^$important
 ||felero.nl^$important
+||felix-boutique.com^$important
 ||femkehome.com^$important
 ||femoda-fashion.nl^$important
 ||femoda.nl^$important
@@ -1633,6 +1634,7 @@
 ||maxikleding.nl^$important
 ||max-markt.com^$important
 ||maxsoft.nl^$important
+||mazuuka.com^$important
 ||mcarthuroutlet.com^$important
 ||mediaknaller.net^$important
 ||mediakorf.com^$important

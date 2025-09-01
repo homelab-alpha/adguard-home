@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-08-29T10:00:00+02:00
+! Last modified: 2025-09-01T12:22:57+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -871,6 +871,7 @@
 ||femoda-shop.nl^$important
 ||ferella.nl^$important
 ||fidal-nl.com^$important
+||fietsengarant.nl^$important
 ||fietsenland.com^$important
 ||fietsen-markt.com^$important
 ||fietsenplatje.com^$important

@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-09-03T08:15:06+02:00
+! Last modified: 2025-09-03T16:00:00+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -827,6 +827,7 @@
 ||evergreen-home.nl^$important
 ||evergreen-home.online^$important
 ||evergreen-home.store^$important
+||evolu-cards.com^$important
 ||evulie.com^$important
 ||exciter.shop^$important
 ||exciter.store^$important
@@ -1835,6 +1836,8 @@
 ||nartosa.com^$important
 ||nattelle.com^$important
 ||naturaoutlet.com^$important
+||navadofashion.nl^$important
+||navadooutlet.nl^$important
 ||navila.nl^$important
 ||navis-mode.com^$important
 ||navonturen.nl^$important
@@ -2708,6 +2711,7 @@
 ||vanmalenshop.nl^$important
 ||vanoevelenmode.com^$important
 ||vanola.nl^$important
+||vanrhijnswaard.nl^$important
 ||vanrooijenmode.nl^$important
 ||vanrosmalen-nijmegen.nl^$important
 ||vansouh.com^$important

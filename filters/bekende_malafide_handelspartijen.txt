@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-09-01T12:22:57+02:00
+! Last modified: 2025-09-03T08:15:06+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -644,6 +644,7 @@
 ||dgpmediatools.com^$important
 ||diabetessensoren.nl^$important
 ||diabetessensor.nl^$important
+||diabetessensors.com^$important
 ||didugo.nl^$important
 ||digitalaanbieding.com^$important
 ||digitalm.shop^$important
@@ -1097,6 +1098,7 @@
 ||harmanligmbh.online^$important
 ||harper-amsterdam.nl^$important
 ||hats-shop.com^$important
+||hausheimmobel.haus^$important
 ||hausio.nl^$important
 ||hauspelletexpress.com^$important
 ||havapotheeks.com^$important
@@ -1301,6 +1303,7 @@
 ||juni-bbqdeal.nl^$important
 ||justdance-events.nl^$important
 ||justelektronics.nl^$important
+||jysk-voordeel.com^$important
 ||kalender-huis.nl^$important
 ||kamado-outlet.nl^$important
 ||kamadox.nl^$important
@@ -1470,6 +1473,7 @@
 ||lidfitness.shop^$important
 ||lidfitnesssvip.shop^$important
 ||lidl.bike^$important
+||lidl-deals.com^$important
 ||lidl-de.app^$important
 ||lidlelectricsale.com^$important
 ||lidl-fr.shop^$important
@@ -2677,6 +2681,7 @@
 ||vandam-studio.nl^$important
 ||vandebergmode.nl^$important
 ||vandekker.nl^$important
+||vandenhofwarenhuis.com^$important
 ||vanderbergmode.nl^$important
 ||vanderlindemode.nl^$important
 ||vanderlindenmode.nl^$important
@@ -2756,6 +2761,7 @@
 ||veranssiamsterdam.nl^$important
 ||verfwinkelnl.com^$important
 ||verhagenoutlet.com^$important
+||verhoeven-meubelhuis.com^$important
 ||veriele.nl^$important
 ||verino.nl^$important
 ||verkoop-nl.com^$important

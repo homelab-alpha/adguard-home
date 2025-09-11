@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-09-10T06:04:18+02:00
+! Last modified: 2025-09-11T07:40:55+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1855,6 +1855,7 @@
 ||neomartshop.com^$important
 ||neptuneselectronics.com^$important
 ||netdiscountmarket.com^$important
+||nethelia.nl^$important
 ||netherlands-template.shop^$important
 ||netminer.nl^$important
 ||netrachout.com^$important

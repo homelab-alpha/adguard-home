@@ -10,7 +10,7 @@
 !
 ! Source name: Cookies
 ! Source: https://raw.githubusercontent.com/homelab-alpha/adguard-home/main/filters/cookies.txt
-! Version: v0.107.63-Alpha
+! Version: v0.107.66-Alpha
 ! Expires: 90 days (update frequency)
 !
 !

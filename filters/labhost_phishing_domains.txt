@@ -11,7 +11,7 @@
 ! Source name: LabHost phishing domains
 ! Source: https://raw.githubusercontent.com/homelab-alpha/adguard-home/main/filters/labhost_phishing_domains.txt
 ! Reference: FBI FLASH Alert (FLASH-20250429-001) — https://www.ic3.gov/CSA/2025/250429.pdf
-! Version: v0.107.63-Alpha
+! Version: v0.107.66-Alpha
 ! Expires: 5 Years
 !
 !

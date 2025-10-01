@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-09-29T13:00:00+02:00
+! Last modified: 2025-09-30T12:36:58+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -440,6 +440,7 @@
 ||casainteriors.nl^$important
 ||casa-nl.com^$important
 ||casashop-home.com^$important
+||casashopsshop.com^$important
 ||casttaria.com^$important
 ||casual-moda.nl^$important
 ||catchdeals.nl^$important
@@ -681,6 +682,7 @@
 ||domimo-online.com^$important
 ||dompeel.nl^$important
 ||donatalio.com^$important
+||donsje-nl.com^$important
 ||doordraaikoop.com^$important
 ||doornbikes.shop^$important
 ||dope-snownl.com^$important
@@ -822,6 +824,7 @@
 ||estivero.com^$important
 ||etadsl.com^$important
 ||etherischeoliediscounter.com^$important
+||eugymsharksale.com^$important
 ||eu-rijbewijs.com^$important
 ||europe-malls.com^$important
 ||eurosmarkts.com^$important
@@ -1361,6 +1364,7 @@
 ||kledingoutlets-lelystad.nl^$important
 ||kledingwinkelen.nl^$important
 ||kledingworldamsterdam.com^$important
+||kleertjeskids-nl.shop^$important
 ||kleertjesnl-deal.shop^$important
 ||kleertjesnl-sale.shop^$important
 ||kleineprijs.com^$important

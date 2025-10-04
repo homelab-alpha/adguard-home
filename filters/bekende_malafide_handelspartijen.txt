@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-10-02T10:00:00+02:00
+! Last modified: 2025-10-04T07:52:39+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -18,6 +18,7 @@
 *cheaponlinestore2021.ru^$important
 *clearancesale2021.ru^$important
 *deal-outlet.com^$important
+*dealsse.shop^$important
 *everglowing.nl^$important
 *holdius.com^$important
 *majestic-amsterdam.nl^$important
@@ -1367,6 +1368,7 @@
 ||kledingworldamsterdam.com^$important
 ||kleertjeskids-nl.shop^$important
 ||kleertjesnl-deal.shop^$important
+||kleertjesnl-off.shop^$important
 ||kleertjesnl-sale.shop^$important
 ||kleineprijs.com^$important
 ||klickenkop.com^$important
@@ -1428,6 +1430,7 @@
 ||krijgjevoorraad.com^$important
 ||krobona.com^$important
 ||krobona.nl^$important
+||kruidvat.dealsse.shop^$important
 ||krultangensaleshop.com^$important
 ||ks-bauma.de^$important
 ||kuiper-amsterdam.com^$important
@@ -2106,6 +2109,7 @@
 ||premium-mode.shop^$important
 ||premiumsummervillas.com^$important
 ||premiumverwarming.com^$important
+||prenatal-aanbieding.shop^$important
 ||prenatal-sane.shop^$important
 ||prestigeplazanl.com^$important
 ||prijsjagers.com^$important
@@ -2847,6 +2851,7 @@
 ||vivasline.com^$important
 ||vivawonen.com^$important
 ||vivobarefootnederland.top^$important
+||vivobarefootnl.com^$important
 ||vlaardingenworld.com^$important
 ||vlaarman-amsterdam.com^$important
 ||vlira.nl^$important

@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-10-08T05:50:06+02:00
+! Last modified: 2025-10-10T06:36:14+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -55,6 +55,7 @@
 ||abbrandhout.nl^$important
 ||accentstudios.nl^$important
 ||accessoires-mercedes.nl^$important
+||account-ticketswap.nl^$important
 ||accpetad.com^$important
 ||acorntennis.com^$important
 ||actiedays.nl^$important
@@ -870,6 +871,7 @@
 ||fashnique.nl^$important
 ||fatbike-factory.nl^$important
 ||fatbikefanaat.online^$important
+||fatbikefreak.nl^$important
 ||fatbike-magazijn.com^$important
 ||fatbikeoutlet.nl^$important
 ||fatbikeshopmaashorst.nl^$important

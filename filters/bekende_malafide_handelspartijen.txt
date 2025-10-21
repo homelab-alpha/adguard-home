@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-10-16T13:00:00+02:00
+! Last modified: 2025-10-21T16:35:42+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1142,6 +1142,7 @@
 ||herfstdeals.com^$important
 ||herfstdeals-nl.com^$important
 ||herfstvoordeel.com^$important
+||hermanshaardhout.com^$important
 ||herrenda.nl^$important
 ||hethuisvanhout.com^$important
 ||heyatelierluxe.com^$important
@@ -1975,6 +1976,7 @@
 ||olivi-amsterdam.nl^$important
 ||olivia-utrecht.shop^$important
 ||omassay.com^$important
+||ombi.eu^$important
 ||onderweg-shop.com^$important
 ||onehypermarkets.com^$important
 ||oneillsale.shop^$important
@@ -2088,7 +2090,9 @@
 ||pluskredi.com^$important
 ||pmegadgets.nl^$important
 ||pme-legend-deal.shop^$important
+||pme-legende.shop^$important
 ||pme-legendnl.shop^$important
+||pme-legendo.shop^$important
 ||pme-legend.xyz^$important
 ||poioshirtsverkoop.com^$important
 ||pokemon-world.nl^$important

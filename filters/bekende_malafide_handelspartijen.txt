@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-10-24T10:00:01+02:00
+! Last modified: 2025-10-24T14:36:06+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -14,6 +14,7 @@
 ! Expires: 90 days (update frequency)
 !
 !
+*be-sale.top^$important
 *bremona.com^$important
 *cheaponlinestore2021.ru^$important
 *clearancesale2021.ru^$important
@@ -23,6 +24,7 @@
 *holdius.com^$important
 *jewellerysale.sbs^$important
 *majestic-amsterdam.nl^$important
+*molo-sale.shop^$important
 *mvips.shop^$important
 *myecomstore.net^$important
 *onlinefactory2021.ru^$important
@@ -32,6 +34,7 @@
 *sa.com^$important
 *shopsoutlet2021.ru^$important
 *spynaray.com^$important
+*vipssoutlet.shop^$important
 *vrolijkshoppen.com^$important
 *walako.com^$important
 *za.com^$important
@@ -834,6 +837,7 @@
 ||europe-malls.com^$important
 ||eurosmarkts.com^$important
 ||euthanasiagroup.com^$important
+||eu.vipssoutlet.shop^$important
 ||eva-fiets.com^$important
 ||evahome-nl.com^$important
 ||evakleding.com^$important
@@ -1376,6 +1380,7 @@
 ||kledingworldamsterdam.com^$important
 ||kleertjeskids-nl.shop^$important
 ||kleertjesnl-deal.shop^$important
+||kleertjesnl.molo-sale.shop^$important
 ||kleertjesnl-off.shop^$important
 ||kleertjesnl-sale.shop^$important
 ||kleineprijs.com^$important
@@ -1445,6 +1450,7 @@
 ||kwaliteitbrand.nl^$important
 ||kwaliteitmed.com^$important
 ||kwaliteitpelletsonline.nl^$important
+||kwantum.be-sale.top^$important
 ||kyana-amsterdam.nl^$important
 ||kyatah.com^$important
 ||laadpaal-winkel.com^$important

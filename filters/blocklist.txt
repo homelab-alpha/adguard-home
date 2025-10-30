@@ -166,6 +166,8 @@ bol.com##.js_sponsored-products_item
 !
 ! NPO start
 ||cookies.npo.nl^$important
+||cdn-ster-nl.akamaized.net^$important
+||h3v9p8x2q1r7-agckaeh6g2ehcaes.westeurope-01.azurewebsites.net^$important
 ||images.poms.omroep.nl^$important
 ||kjdsfjisdfjr23.azurewebsites.net^$important
 ||wertuipsertj34.azurewebsites.net^$important

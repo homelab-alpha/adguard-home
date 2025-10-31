@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list that blocks Top Level Domains.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-10-24T08:29:25+02:00
+! Last modified: 2025-10-31T08:47:06+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -11,7 +11,7 @@
 ! Source name: TLDs
 ! Source: https://raw.githubusercontent.com/homelab-alpha/adguard-home/main/filters/tlds.txt
 !         https://data.iana.org/TLD/tlds-alpha-by-domain.txt
-! Version: v0.107.68-Alpha
+! Version: v0.107.69-Alpha
 ! Expires: 90 days (update frequency)
 !
 !

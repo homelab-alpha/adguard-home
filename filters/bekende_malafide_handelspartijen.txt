@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-11-11T14:21:39+01:00
+! Last modified: 2025-11-13T04:55:37+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -98,6 +98,7 @@
 ||airforcesneakers.nl^$important
 ||airfryer-winkel.nl^$important
 ||airupnederland.top^$important
+||akibaloot.com^$important
 ||alahtuh.com^$important
 ||a-laptops.info^$important
 ||albertinemode.com^$important
@@ -1215,6 +1216,7 @@
 ||houtpellett.com^$important
 ||houtpellet-winkel.com^$important
 ||houtverwarmers.com^$important
+||hout-warm.com^$important
 ||hqcosmeticabv.com^$important
 ||hub-online.eu^$important
 ||hudsonbays-outlet.nl^$important
@@ -1569,6 +1571,7 @@
 ||loomia-outlet.com^$important
 ||loomzo.com^$important
 ||looshout.com^$important
+||lootmon.com^$important
 ||lopesgroups.com^$important
 ||lorenbach-interieur.nl^$important
 ||losario.nl^$important
@@ -1975,6 +1978,7 @@
 ||obeynet.shop^$important
 ||obozschoenen.com^$important
 ||ocean-bliss.shop^$important
+||ochabloom.shop^$important
 ||offcut.nl^$important
 ||offerinsins.com^$important
 ||officialfitfeelers.nl^$important
@@ -2111,6 +2115,7 @@
 ||poioshirtsverkoop.com^$important
 ||pokemon-world.nl^$important
 ||poketrainers.nl^$important
+||pokezonetcg.com^$important
 ||polarstoreco.shop^$important
 ||polderhoutpellets.nl^$important
 ||poloofficial.nl^$important
@@ -2142,6 +2147,7 @@
 ||primasale.nl^$important
 ||primawarmte.com^$important
 ||prior-trade.com^$important
+||prismcards.shop^$important
 ||productenbox.com^$important
 ||prohometools.nl^$important
 ||pro-leningen.com^$important
@@ -2164,6 +2170,7 @@
 ||quantumquark.ltd^$important
 ||qwuirksilliio.com^$important
 ||rademakers-mode.com^$important
+||radiantretrostore.com^$important
 ||raexoliwebda.com^$important
 ||raleda.nl^$important
 ||ralindo.de^$important
@@ -2579,6 +2586,8 @@
 ||tavalio.com^$important
 ||taylorgents.nl^$important
 ||tcgdepot.nl^$important
+||tcgmarket24.com^$important
+||tcgmastershop.com^$important
 ||tcgtrainers.nl^$important
 ||team-visma.za.com^$important
 ||techdeluxe.eu^$important
@@ -2923,6 +2932,7 @@
 ||voreza.nl^$important
 ||vosvista.com^$important
 ||vougevenue.nl^$important
+||vrijopwielen.com^$important
 ||vrolijkshoppen.com^$important
 ||vubby.store^$important
 ||vuenza.store^$important

@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-11-13T04:55:37+01:00
+! Last modified: 2025-11-18T10:00:00+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -699,6 +699,9 @@
 ||dosdealzday.com^$important
 ||dotsneaker.com^$important
 ||doucherekjesstore.com^$important
+||douglas.eu-onsale.shop^$important
+||douglas.eur-online.shop^$important
+||douglas.siiizeer-de.lat^$important
 ||dovabel.com^$important
 ||draaijer-outlet.com^$important
 ||drank-apotheek.com^$important

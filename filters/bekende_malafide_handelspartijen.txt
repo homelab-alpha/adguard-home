@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-11-18T10:00:00+01:00
+! Last modified: 2025-11-19T09:35:28+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -281,6 +281,7 @@
 ||berlin-modehaus.com^$important
 ||berry-bois.com^$important
 ||bertinamoda.com^$important
+||bestcitylife.com^$important
 ||bestdrezzed.com^$important
 ||besteapotheek.com^$important
 ||bestehoupellets.com^$important
@@ -923,6 +924,7 @@
 ||firewood-appliances.com^$important
 ||firewood-market.com^$important
 ||firewood-store.com^$important
+||firstlyrics.com^$important
 ||fit-2-sport.com^$important
 ||fit-2-sport.store^$important
 ||fitflop-winkel.com^$important
@@ -1123,6 +1125,7 @@
 ||hanna-mode.com^$important
 ||hansmanamsterdam.nl^$important
 ||hanwagschoenenaanbieding.com^$important
+||happyfeetz.com^$important
 ||happyfloors.nl^$important
 ||harmanli-eu.shop^$important
 ||harmanligmbh.online^$important
@@ -1464,6 +1467,7 @@
 ||laadpaal-winkel.com^$important
 ||laatstedeals.com^$important
 ||lada-fashion.nl^$important
+||ladyaura.net^$important
 ||ladymoda.nl^$important
 ||la-lune-boutique.com^$important
 ||laneige-shop.com^$important
@@ -2461,6 +2465,7 @@
 ||socialdeal-benelux.nl^$important
 ||socialdealbenelux.nl^$important
 ||socialdeals.nl^$important
+||socialrites.com^$important
 ||socialsdeal.nl^$important
 ||socials-deals.nl^$important
 ||socialsdeals.nl^$important
@@ -2495,6 +2500,7 @@
 ||spellnetherlands.com^$important
 ||spelspeelgoed.com^$important
 ||sperrynederland.com^$important
+||splicelife.com^$important
 ||sportbeter.shop^$important
 ||sportish.nl^$important
 ||sportoutlet-roermond.nl^$important
@@ -2890,6 +2896,7 @@
 ||virozea.com^$important
 ||virtuelabs.nl^$important
 ||vitafeetnl.com^$important
+||vitalseat.com^$important
 ||viva-amsterdam.com^$important
 ||vivanaya.com^$important
 ||vivansa.nl^$important

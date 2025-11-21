@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-11-21T10:28:32+01:00
+! Last modified: 2025-11-21T13:00:00+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -399,6 +399,7 @@
 ||brick-world.nl^$important
 ||bridalshoesshop.com^$important
 ||brightboutiquestore.com^$important
+||brisbywinkel.com^$important
 ||brookshardloopschoenensale.com^$important
 ||brooksnetherland.com^$important
 ||brugmancomputers.nl^$important

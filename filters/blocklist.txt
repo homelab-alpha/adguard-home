@@ -38,6 +38,10 @@
 ! Alternate
 ||alternate.nl/spa/public/v4/spa/ads/page$important
 !
+! Bluetti
+||socialshopwave.com^$important
+||klaviyo.com^$important
+!
 ! Bol.com
 ||adverteren.bol.com^$important
 ||assets.s-bol.com/nl/static/assets/js/wsp-analytics-loader.9f5d1dbc85b96e773bc5.bundle.js$important

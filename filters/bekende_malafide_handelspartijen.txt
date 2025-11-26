@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-11-25T10:00:00+01:00
+! Last modified: 2025-11-26T06:21:01+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -2461,6 +2461,7 @@
 ||sneakwearlab.com^$important
 ||snel-deals.nl^$important
 ||snel-krediet.com^$important
+||snelkredietnl.com^$important
 ||snelledeals.com^$important
 ||snelle-markt.com^$important
 ||snellestap.nl^$important

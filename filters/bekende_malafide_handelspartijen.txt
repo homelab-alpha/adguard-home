@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-11-26T06:21:01+01:00
+! Last modified: 2025-11-28T13:59:29+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -274,6 +274,7 @@
 ||bendrio.nl^$important
 ||bennanivastgoed.nl^$important
 ||benoitbois.com^$important
+||bentetour.com^$important
 ||bentora-nl.com^$important
 ||benuapotheekonline.com^$important
 ||berendbud.com^$important
@@ -1160,6 +1161,8 @@
 ||herfstdeals-nl.com^$important
 ||herfstvoordeel.com^$important
 ||hermanshaardhout.com^$important
+||hermosafloors.nl^$important
+||hermosaliving.nl^$important
 ||herrenda.nl^$important
 ||hethuisvanhout.com^$important
 ||heyatelierluxe.com^$important
@@ -1217,6 +1220,7 @@
 ||houtpellets-markt.com^$important
 ||houtpelletsnl.store^$important
 ||houtpelletsprod.com^$important
+||houtpellets-shop.com^$important
 ||houtpellets-specialist.com^$important
 ||houtpelletsspecialist.com^$important
 ||houtpellet-store.com^$important
@@ -1270,6 +1274,7 @@
 ||illuxe.be^$important
 ||ilyamsterdam.com^$important
 ||imperialsteps.nl^$important
+||incotecc.nl^$important
 ||inerdealshozt.com^$important
 ||injectec.de^$important
 ||injectec.net^$important
@@ -2714,6 +2719,7 @@
 ||trophaxbrand.com^$important
 ||trophaxbrande.com^$important
 ||trustiys.com^$important
+||tt-gynmastics.nl^$important
 ||tuinen-kamp.com^$important
 ||tuinen-kamp.nl^$important
 ||tuinio.nl^$important

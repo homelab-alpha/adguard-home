@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-12-02T10:40:40+01:00
+! Last modified: 2025-12-02T13:00:00+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -935,6 +935,7 @@
 ||fitt4you.com^$important
 ||fittedme.shop^$important
 ||fjallravennederland.com^$important
+||fjallraven-se.sbs^$important
 ||flair-amsterdam.nl^$important
 ||flairsetter.nl^$important
 ||flashberlin.com^$important
@@ -2225,6 +2226,7 @@
 ||ritalinkopen.online^$important
 ||ritfeld-home.nl^$important
 ||ritfeld-home.store^$important
+||rituals.eusale-online.com^$important
 ||ritualsoutlet.shop^$important
 ||rivanoricci.com^$important
 ||rivona-amsterdam.nl^$important
@@ -3080,6 +3082,7 @@
 ||zadelia.nl^$important
 ||zadig-et-voltaire-eu.shop^$important
 ||zahra-fashion.nl^$important
+||zalandodeal.com^$important
 ||zalazoagency.com^$important
 ||zalvado.nl^$important
 ||zandbergen-amsterdam.com^$important

@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters and specifically simplified to be more compatible with ad blocking at the DNS level.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-12-04T10:02:11+01:00
+! Last modified: 2025-12-07T08:35:44+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -52,6 +52,9 @@
 ||sponsoredproducts.bol.com^$important
 bol.com##.js_sponsored_product
 bol.com##.js_sponsored-products_item
+!
+! ChatGPT
+||ab.chatgpt.com^$important
 !
 ! De Persgroep
 ||acc.webwinkels.persgroep.nl^$important
@@ -158,9 +161,6 @@ bol.com##.js_sponsored-products_item
 ! Duck Duck Go
 ||improving.duckduckgo.com^$important
 !
-! ChatGPT
-||ab.chatgpt.com^$important
-!
 ! iCulture
 ||0318media.nl^$important
 ||affiliate.iculture.nl^$important
@@ -232,5 +232,28 @@ bol.com##.js_sponsored-products_item
 ||plus.unsplash.com^$important
 ||snowplowanalytics.com^$important
 nslookup.io,unsplash.com##a[rel^="sponsored"]
+!
+! YouTube
+||youtube-nocookie.com/api/stats/atr?^$important
+||youtube-nocookie.com/api/stats/delayplay?^$important
+||youtube-nocookie.com/api/stats/qoe?^$important
+||youtube-nocookie.com/ptracking?^$important
+||youtube-nocookie.com/robots.txt?^$important
+||youtube-nocookie.com/youtubei/v1/log_event?^$important
+||youtube.com/api/stats/ads?^$important
+||youtube.com/api/stats/atr^$important
+||youtube.com/api/stats/delayplay?^$important
+||youtube.com/api/stats/qoe?^$important
+||youtube.com/api/stats/watchtime^$important
+||youtube.com/get_video?^$important
+||youtube.com/pcs/activeview?^$important
+||youtube.com/ptracking?^$important
+||youtube.com/set_awesome?^$important
+||youtube.com/youtubei/v1/log_event?^$important
+||youtube.googleapis.com/youtubei/v1/log_event?^$important
+||youtubekids.com/api/stats/ads?^$important
+||youtubekids.com/api/stats/qoe?^$important
+||youtubekids.com/ptracking?^$important
+||youtubekids.com/youtubei/v1/log_event?^$important
 !
 ! Testing

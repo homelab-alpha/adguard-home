@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-12-06T07:44:38+01:00
+! Last modified: 2025-12-09T17:07:05+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -20,6 +20,7 @@
 *clearancesale2021.ru^$important
 *deal-outlet.com^$important
 *dealsse.shop^$important
+*eu-onsales.shop^$important
 *everglowing.nl^$important
 *holdius.com^$important
 *jewellerysale.sbs^$important
@@ -1002,6 +1003,7 @@
 ||futuretabs.com^$important
 ||fynes.nl^$important
 ||fyzzas.nl^$important
+||gabor.eu-onsales.shop^$important
 ||gadgetsengames.com^$important
 ||galaxyconsolesnl.com^$important
 ||galaxylampen.nl^$important
@@ -1563,6 +1565,7 @@
 ||little-dutch-eu.com^$important
 ||little-dutch-euro.app^$important
 ||little-dutch.it.com^$important
+||little-dutch-it.uk^$important
 ||little-dutch.store^$important
 ||little-dutch.toys^$important
 ||littlenestbaby.com^$important
@@ -2236,6 +2239,7 @@
 ||rmc-store.com^$important
 ||rnbconsultancy.nl^$important
 ||robdebouwer.com^$important
+||roccis.nl^$important
 ||rocketcards.nl^$important
 ||roermonddeal.com^$important
 ||roermond-fashionoutlet.com^$important

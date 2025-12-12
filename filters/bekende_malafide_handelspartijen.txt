@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-12-11T10:00:01+01:00
+! Last modified: 2025-12-12T06:58:06+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -142,6 +142,7 @@
 ||amsterdam-outlets.nl^$important
 ||amsterdam-sale.com^$important
 ||amsterdamsneakers.nl^$important
+||amto.eu^$important
 ||amtrade-job.nl^$important
 ||amtrade-werk.nl^$important
 ||amy-amsterdam.com^$important
@@ -979,6 +980,7 @@
 ||formula1seats.com^$important
 ||forstbetriebbernhardt-gmbh.com^$important
 ||forusa.nl^$important
+||foso.eu^$important
 ||four-amsterdam.com^$important
 ||fouramsterdam-nl.com^$important
 ||fouramsterdam.shop^$important
@@ -1274,6 +1276,7 @@
 ||idealmatten.nl^$important
 ||ifachauffage.com^$important
 ||ifirim.com^$important
+||igida.eu^$important
 ||ijzerhandel-magazijn.nl^$important
 ||ikodi.com^$important
 ||ikwilopkamers.nl^$important
@@ -1384,6 +1387,7 @@
 ||kickingoff.nl^$important
 ||kickinoff.nl^$important
 ||kicksgame.nl^$important
+||kidok.eu^$important
 ||kids-deals.nl^$important
 ||kids-mode.nl^$important
 ||kikiso.shop^$important

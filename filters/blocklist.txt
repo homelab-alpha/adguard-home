@@ -161,6 +161,9 @@ bol.com##.js_sponsored-products_item
 ! Duck Duck Go
 ||improving.duckduckgo.com^$important
 !
+! Family Picker
+||familypicker.com^$important
+!
 ! iCulture
 ||0318media.nl^$important
 ||affiliate.iculture.nl^$important

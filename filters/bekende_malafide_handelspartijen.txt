@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-12-12T06:58:06+01:00
+! Last modified: 2025-12-13T07:37:05+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -70,6 +70,7 @@
 ||actievandeweek.com^$important
 ||actie-weken.com^$important
 ||actieweken.com^$important
+||action-kortingen.com^$important
 ||adam-modehuis.nl^$important
 ||adamsboetiek.nl^$important
 ||adolro.nl^$important
@@ -2075,6 +2076,7 @@
 ||painlesspath.org^$important
 ||paiso.nl^$important
 ||pakjedealsnu.nl^$important
+||palioxl.com^$important
 ||panamajack-belgie.com^$important
 ||panamajacknl.com^$important
 ||pannen-shop.com^$important
@@ -2978,6 +2980,7 @@
 ||vurado.nl^$important
 ||vurrpellets.com^$important
 ||vuur-brandt.nl^$important
+||vuurwerkduitsland.eu^$important
 ||wallasia.nl^$important
 ||wamwearshop.com^$important
 ||wantrys.com^$important

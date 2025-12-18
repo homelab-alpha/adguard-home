@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-12-17T13:36:59+01:00
+! Last modified: 2025-12-18T14:45:24+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -35,6 +35,7 @@
 *sa.com^$important
 *shopsoutlet2021.ru^$important
 *spynaray.com^$important
+*vcwhoutgranulaat.com^$important
 *vipssoutlet.shop^$important
 *vrolijkshoppen.com^$important
 *walako.com^$important
@@ -3083,6 +3084,7 @@
 ||wp-trucks.com^$important
 ||wtgcateringbv.com^$important
 ||www.majestic-amsterdam.nl^$important
+||www.vcwhoutgranulaat.com^$important
 ||xaramusthaves.nl^$important
 ||xbipema.com^$important
 ||xebbo.nl^$important

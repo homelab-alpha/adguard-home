@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-12-29T10:23:20+01:00
+! Last modified: 2025-12-31T09:38:15+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -624,6 +624,8 @@
 ||delftsegroep.com^$important
 ||deliso.nl^$important
 ||delolme-brandhout.com^$important
+||deloods5.com^$important
+||deloods5-service.nl^$important
 ||delorio.nl^$important
 ||deluxautos.nl^$important
 ||deluxe-nl.com^$important
@@ -1051,8 +1053,11 @@
 ||genoptage.com^$important
 ||genteau-amsterdam.nl^$important
 ||geraxbois.com^$important
+||gereedschapcenter.com^$important
 ||gereedschapcentra.com^$important
 ||gereedschapcentra.nl^$important
+||gereedschapexpert.com^$important
+||gereedschapexpert-service.nl^$important
 ||gereedschapheelal.nl^$important
 ||gereedschaponline.net^$important
 ||gereedschapshop.net^$important
@@ -2212,6 +2217,7 @@
 ||randys-woods.com^$important
 ||ratolo.nl^$important
 ||raysol-pellets.nl^$important
+||rbwqccuo.shop^$important
 ||rdwcode.nl^$important
 ||rdwservice.nl^$important
 ||realprojectpro.store^$important
@@ -3082,6 +3088,7 @@
 ||woonhart-home.shop^$important
 ||woononlinehuis.com^$important
 ||woonvibe.com^$important
+||woonwinkel-nl.com^$important
 ||wotakoi.com^$important
 ||wowdealsi.com^$important
 ||wowdeals-nl.com^$important

@@ -165,17 +165,12 @@ Thanks for contemplating contributing to Homelab-Alpha. Together, we can elevate
 and refine our project for the entire community to benefit from. We eagerly
 anticipate your contributions!
 
-[all issues]:
-  https://github.com/homelab-alpha/adguard-home/issues?q=sort%3Acreated-desc
-[Code of Conduct]:
-  https://github.com/homelab-alpha/adguard-home/blob/main/CODE_OF_CONDUCT.md
-[Code Style + Standards Guides]:
-  https://github.com/homelab-alpha/adguard-home/blob/main/CODE_STYLE_AND_STANDARDS_GUIDES.md
+[all issues]: https://github.com/homelab-alpha/adguard-home/issues?q=sort%3Acreated-desc
+[Code of Conduct]: https://github.com/homelab-alpha/adguard-home/blob/main/CODE_OF_CONDUCT.md
+[Code Style + Standards Guides]: https://github.com/homelab-alpha/adguard-home/blob/main/CODE_STYLE_AND_STANDARDS_GUIDES.md
 [Discussions]: https://github.com/homelab-alpha/adguard-home/discussions
 [GitHub flow]: https://guides.github.com/introduction/flow
-[feature request]:
-  https://github.com/homelab-alpha/adguard-home/discussions/categories/feature-request
+[feature request]: https://github.com/homelab-alpha/adguard-home/discussions/categories/feature-request
 [LICENSE]: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-[open pull requests]:
-  https://github.com/homelab-alpha/adguard-home/pulls?q=is%3Apr%20is%3Aopen%20sort%3Acreated-desc
+[open pull requests]: https://github.com/homelab-alpha/adguard-home/pulls?q=is%3Apr%20is%3Aopen%20sort%3Acreated-desc
 [pull request]: https://github.com/homelab-alpha/adguard-home/pulls

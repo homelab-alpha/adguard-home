@@ -168,12 +168,8 @@ See the [LICENSE] file for more details.
 [Homelab-Alpha's website]: https://homelab-alpha.nl
 [Homelab-Alpha's GitHub repositories]: https://github.com/homelab-alpha
 [community]: https://github.com/homelab-alpha/adguard-home/discussions
-[bug report]:
-  https://github.com/homelab-alpha/adguard-home/issues/new?assignees=homelab-alpha&labels=bug&projects=&template=bug_report.yml
-[security report]:
-  https://github.com/homelab-alpha/adguard-home/issues/new?assignees=homelab-alpha&labels=security&projects=&template=security_report.yml
-[give feedback]:
-  https://github.com/homelab-alpha/adguard-home/discussions/categories/feedback
-[feature request]:
-  https://github.com/homelab-alpha/adguard-home/discussions/categories/feature-request
+[bug report]: https://github.com/homelab-alpha/adguard-home/issues/new?assignees=homelab-alpha&labels=bug&projects=&template=bug_report.yml
+[security report]: https://github.com/homelab-alpha/adguard-home/issues/new?assignees=homelab-alpha&labels=security&projects=&template=security_report.yml
+[give feedback]: https://github.com/homelab-alpha/adguard-home/discussions/categories/feedback
+[feature request]: https://github.com/homelab-alpha/adguard-home/discussions/categories/feature-request
 [LICENSE]: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md

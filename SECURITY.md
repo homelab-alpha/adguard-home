@@ -74,6 +74,5 @@ Attribution–NonCommercial–ShareAlike 4.0 (CC BY-NC-SA 4.0)** license. See th
 
 Thank you for helping to keep this project secure!
 
-[https://github.com/homelab-alpha/adguard-home/security/advisories/new]:
-  https://github.com/homelab-alpha/adguard-home/security/advisories/new
+[https://github.com/homelab-alpha/adguard-home/security/advisories/new]: https://github.com/homelab-alpha/adguard-home/security/advisories/new
 [LICENSE]: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md

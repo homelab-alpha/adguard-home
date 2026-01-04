@@ -217,7 +217,7 @@ REQUIRED: Select all options that apply by marking them with an "[x]".
 - [ ] 🌍 I have verified that any internationalization ( i18n ) changes are correct.
 - [ ] 🧰 Dependency updates are listed and explained.
 - [ ] 📚 I have read and understood the [Pull Request Guidelines](https://github.com/homelab-alpha/adguard-home/blob/main/CONTRIBUTING.md#pull-requests).
-- [ ] ✍️ I have completed the [Author Self-Review Process](https://github.com/homelab-alpha/adguard-home/blob/main/.github/review_process_adguard-home.md).
+- [ ] ✍️ I have completed the [Author Self-Review Process](https://github.com/homelab-alpha/adguard-home/blob/main/.github/review_process_template.md).
 
 ## 📰 Release Notes
 

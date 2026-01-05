@@ -294,11 +294,7 @@ application to join the Homelab-Alpha team, we firmly believe that all
 contributions enrich our community. We encourage you to keep contributing and
 engaging with us, as every effort helps our project grow and thrive.
 
-[MAINTAINERS]:
-  https://github.com/homelab-alpha/adguard-home/blob/main/MAINTAINERS.md#current-maintainers
-[code of conduct]:
-  https://github.com/homelab-alpha/adguard-home/blob/main/CODE_OF_CONDUCT.md
-[CODEOWNERS]:
-  https://github.com/homelab-alpha/adguard-home/blob/main/.github/CODEOWNERS
-[Security Policy]:
-  https://github.com/homelab-alpha/adguard-home/blob/main/SECURITY.md
+[MAINTAINERS]: https://github.com/homelab-alpha/adguard-home/blob/main/MAINTAINERS.md#current-maintainers
+[code of conduct]: https://github.com/homelab-alpha/adguard-home/blob/main/CODE_OF_CONDUCT.md
+[CODEOWNERS]: https://github.com/homelab-alpha/adguard-home/blob/main/.github/CODEOWNERS
+[Security Policy]: https://github.com/homelab-alpha/adguard-home/blob/main/SECURITY.md

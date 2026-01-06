@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-01-05T13:55:49+01:00
+! Last modified: 2026-01-06T05:43:18+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1561,6 +1561,8 @@
 ||lidlshopchampions.com^$important
 ||lidlshopgeniusx.com^$important
 ||lidlshoppioneerspro.com^$important
+||lidlsi.shop^$important
+||lidlsl.shop^$important
 ||lidl-store-de.com^$important
 ||lidl-uk.it.com^$important
 ||lidl-voordeelshop.com^$important

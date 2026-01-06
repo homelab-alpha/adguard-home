@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-01-06T05:43:18+01:00
+! Last modified: 2026-01-06T13:00:01+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -403,6 +403,8 @@
 ||bressydeals.com^$important
 ||breugem.de^$important
 ||brialdy.com^$important
+||bricks-next.com^$important
+||bricksnext.com^$important
 ||brick-store.eu^$important
 ||brick-world.nl^$important
 ||bridalshoesshop.com^$important
@@ -1944,6 +1946,7 @@
 ||netrachout.com^$important
 ||netwerkplanet.com^$important
 ||netwerkplanet.nl^$important
+||next-bricks.com^$important
 ||n-game.eu^$important
 ||n-game.info^$important
 ||nicado.nl^$important

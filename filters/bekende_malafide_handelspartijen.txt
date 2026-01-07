@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-01-06T13:00:01+01:00
+! Last modified: 2026-01-07T08:57:19+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -24,6 +24,7 @@
 *everglowing.nl^$important
 *holdius.com^$important
 *jewellerysale.sbs^$important
+*kruidvat-discount.shop^$important
 *majestic-amsterdam.nl^$important
 *molo-sale.shop^$important
 *mvips.shop^$important
@@ -1844,6 +1845,7 @@
 ||modehuisbakker.nl^$important
 ||modehuis-hendriks.nl^$important
 ||modehuis-jansen.com^$important
+||modehuiskramer.nl^$important
 ||modehuisvandam.nl^$important
 ||modelabel22.nl^$important
 ||modelle.nl^$important
@@ -2736,6 +2738,7 @@
 ||trapstarnederland-nl.com^$important
 ||travemoo.de^$important
 ||treevy.shop^$important
+||trekpleister.kruidvat-discount.shop^$important
 ||trempa.nl^$important
 ||trendalite.com^$important
 ||trendbucht.de^$important

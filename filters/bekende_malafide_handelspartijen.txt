@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-01-07T08:57:19+01:00
+! Last modified: 2026-01-08T07:33:44+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1068,6 +1068,7 @@
 ||gereedschapshop.net^$important
 ||gereedschap-winkel.com^$important
 ||getjeugdcenter.com^$important
+||geuneshout.store^$important
 ||geweldigedeals.net^$important
 ||gewichtmeting.net^$important
 ||gezellighuis.com^$important
@@ -1376,6 +1377,7 @@
 ||kamado-outlet.nl^$important
 ||kamadox.nl^$important
 ||kamagrabestellenshop.to^$important
+||kamagrajellyshop.com^$important
 ||kamaro-nl.com^$important
 ||kampeerwereld-nl.com^$important
 ||karnia.nl^$important
@@ -2246,6 +2248,7 @@
 ||reinholdrasenmaher.com^$important
 ||remono.nl^$important
 ||researchchemicalskopen.net^$important
+||resellr-warehouse.com^$important
 ||resolubois.com^$important
 ||retail-merwede.nl^$important
 ||retro-jurken.nl^$important

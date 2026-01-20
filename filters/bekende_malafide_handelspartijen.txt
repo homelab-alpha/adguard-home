@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-01-19T16:00:01+01:00
+! Last modified: 2026-01-20T14:24:22+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1126,6 +1126,7 @@
 ||grouponbenelux.nl^$important
 ||groupon-deals.nl^$important
 ||growtes.com^$important
+||gstarsales.shop^$important
 ||gstarsoutlet.com^$important
 ||g-starvip.com^$important
 ||gvmedicijnen.com^$important

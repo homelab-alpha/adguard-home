@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a DNS whitelist that allows authorized domain names.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-12-16T09:42:40+01:00
+! Last modified: 2026-01-21T10:02:51+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -17,8 +17,6 @@
 @@*amazon.com^$important,client='Amazon Kindle Paperwhite 12th Gen'
 @@*my-lan.nl^$important
 @@*my-wan.nl^$important
-@@*openai.com^$important
-@@*xethub.hf.co^$important
 @@||app-measurement.com^$important
 @@||app.plex.tv^$important
 @@||autopatchos.starrails.com^$important,client='Desktop PC 2.5Gbps'
@@ -37,9 +35,8 @@
 @@||localhost^$important
 @@||mariadb.com^$important
 @@||mariadb.org^$important
+@@||nabucasa.com^$important
 @@||ovh.nl^$important
-@@||s.youtube.com^$important
-@@||scdn.co^$important
 @@||static.etp-prod.com^$important
 @@||tracking-protection.cdn.mozilla.net^$important
 @@||tracking.budbee.com^$important

@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list that blocks Wildcard DNS records.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-12-16T09:42:40+01:00
+! Last modified: 2026-01-21T10:01:48+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -26,5 +26,6 @@
 *lgsmartad.com^$important
 *observ.app^$important
 *privacymanager.net^$important
+*spotify.dev$important
 *tools.nu.nl^$important
 *treasurecoastaquariums.com^$important

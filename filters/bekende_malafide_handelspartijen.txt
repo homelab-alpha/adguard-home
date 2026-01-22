@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-01-21T09:41:30+01:00
+! Last modified: 2026-01-21T15:29:11+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -808,6 +808,7 @@
 ||elektrolio.com^$important
 ||elektromobelmarkt.com^$important
 ||elektronicahouse.nl^$important
+||elektronica-markt.com^$important
 ||elektronica-promo.com^$important
 ||elektropellets.com^$important
 ||elektros-store.com^$important
@@ -1243,6 +1244,7 @@
 ||houtenpellets-nl.store^$important
 ||houtenpellets.store^$important
 ||houtmarkten.com^$important
+||houtpallet.com^$important
 ||houtpelletsbrandhout.nl^$important
 ||houtpelletsenergie.com^$important
 ||houtpellets-markt.com^$important
@@ -1252,6 +1254,7 @@
 ||houtpellets-specialist.com^$important
 ||houtpelletsspecialist.com^$important
 ||houtpellet-store.com^$important
+||houtpellets-wood.com^$important
 ||houtpellett.com^$important
 ||houtpellet-winkel.com^$important
 ||houtverwarmers.com^$important
@@ -2117,6 +2120,7 @@
 ||peemoni.com^$important
 ||peeters-amsterdam.nl^$important
 ||peetersamsterdam.nl^$important
+||pellets-skog.com^$important
 ||pelletstotaal.com^$important
 ||pellets-uitstekend.nl^$important
 ||pepperdeals.nl^$important

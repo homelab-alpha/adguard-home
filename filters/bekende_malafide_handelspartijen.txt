@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-02-03T04:39:50+01:00
+! Last modified: 2026-02-05T07:54:17+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -29,6 +29,7 @@
 *molo-sale.shop^$important
 *mvips.shop^$important
 *myecomstore.net^$important
+*onlinece.shop^$important
 *onlinefactory2021.ru^$important
 *onlineoutlet2021.ru^$important
 *onlinesale2021.ru^$important
@@ -76,6 +77,7 @@
 ||action-kortingen.com^$important
 ||adam-modehuis.nl^$important
 ||adamsboetiek.nl^$important
+||adema-mode.nl^$important
 ||adolro.nl^$important
 ||adrume.nl^$important
 ||advasaro.com^$important
@@ -722,6 +724,7 @@
 ||douglas.eu-onsale.shop^$important
 ||douglas.eur-online.shop^$important
 ||douglas.eusale-online.com^$important
+||douglas.onlinece.shop^$important
 ||douglas.siiizeer-de.lat^$important
 ||dovabel.com^$important
 ||draaijer-outlet.com^$important
@@ -1030,6 +1033,7 @@
 ||galaxytoys.nl^$important
 ||galeora.nl^$important
 ||gallie.store^$important
+||gallsale.top^$important
 ||game-box.nl^$important
 ||game-box.shop^$important
 ||gamemall.nl^$important
@@ -1753,6 +1757,7 @@
 ||mediapoke.nl^$important
 ||medicaeuropebv.com^$important
 ||medicalplanet.net^$important
+||medicatie-kopen.online^$important
 ||medicatiezonderrecept.nl^$important
 ||medicijnapotheek.nl^$important
 ||medicijnenapotheek.nl^$important
@@ -1856,8 +1861,10 @@
 ||modehaus-ams.nl^$important
 ||modehuisbakker.nl^$important
 ||modehuis-hendriks.nl^$important
+||modehuishendriks.nl^$important
 ||modehuis-jansen.com^$important
 ||modehuiskramer.nl^$important
+||modehuis-laarhoven.nl^$important
 ||modehuisvandam.nl^$important
 ||modelabel22.nl^$important
 ||modelle.nl^$important

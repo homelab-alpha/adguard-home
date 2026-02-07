@@ -263,3 +263,5 @@ nslookup.io,unsplash.com##a[rel^="sponsored"]
 ||youtubekids.com/youtubei/v1/log_event?^$important
 !
 ! Testing
+||didomi.io^$important
+/didomi/

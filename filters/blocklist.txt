@@ -264,4 +264,6 @@ nslookup.io,unsplash.com##a[rel^="sponsored"]
 !
 ! Testing
 ||didomi.io^$important
+||cookiebot.com^$important
 /didomi/
+/cookiebot/

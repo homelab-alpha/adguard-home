@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list that blocks ads and ad tracking using regular expression syntax.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-01-28T07:25:49+01:00
+! Last modified: 2026-02-09T16:05:49+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -25,6 +25,7 @@
 /adnxs/
 /adplacements/
 /adPlacements/
+/adsbygoogle/
 /AdsDebugInfo/
 /adsdk/
 /adserver/
@@ -38,9 +39,12 @@
 /advertisement/
 /Advertisement/
 /advertisementBanner/
+/advertising-cdn/
 /advertising/
+/advertorial/
 /advideo/
 /adwords/
+/affiliate/
 /ApiAdsDebugInfo/
 /ApiAdTarget/
 /ApiAdTargetType/
@@ -54,19 +58,38 @@
 /beacons/
 /campaign/
 /campaigns/
+/consent/api/events/
+/consent/sdk/
+/cookiebot/
+/cookieconsent/
 /copilot-telemetry/
+/didomi/
 /displayAd/
+/dpg-component-at/
 /EncodedAdData/
 /feedback/
 /Gesponsord/
 /googleads/
 /iad/
+/jwtTokenCookieNames/
 /log-upload/
 /measurementData/
+/myprivacy-static/
+/nocookie/
+/optoutadvertising/
 /pagead/
+/paywall-api/
+/privacy-gate/
+/ptracking/
+/recaptcha/
+/scdn/
 /SearchAd/
 /SearchAdsCarousel/
+/sponsored-actions/
 /sponsored/
+/sponsoredproducts/
 /streamgate/
+/temptationTrackingId/
+/trackingIdCookieName/
 /videoAd/
 /web-advertising/

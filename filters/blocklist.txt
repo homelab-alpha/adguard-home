@@ -14,9 +14,8 @@
 ! Expires: 90 days (update frequency)
 !
 !
-||*.*/consent/$important
-||*.*.*/consent/$important
-||*.*.*.*/consent/$important
+||*/consent*$important
+||*/consents*$important
 ||0318media.nl^$important
 ||2mdn.net^$important
 ||aa.hwigroup.com^$important

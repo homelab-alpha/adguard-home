@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters and specifically simplified to be more compatible with ad blocking at the DNS level.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-02-09T16:01:57+01:00
+! Last modified: 2026-02-10T10:58:37+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -14,6 +14,9 @@
 ! Expires: 90 days (update frequency)
 !
 !
+||*.*/consent/$important
+||*.*.*/consent/$important
+||*.*.*.*/consent/$important
 ||0318media.nl^$important
 ||2mdn.net^$important
 ||aa.hwigroup.com^$important
@@ -126,7 +129,6 @@
 ||mobi.nu.nl^$important
 ||monitor.video.dpgmedia.cloud^$important
 ||mooisteshirt.ad.nl^$important
-||myprivacy-static.dpgmedia.net/consent.js$important
 ||notifications-acceptance.dpgdsp-adv-nonprod.dpgmedia.cloud^$important
 ||nrc.nl/paywall-api/$important
 ||nu.nl/advertorial$important

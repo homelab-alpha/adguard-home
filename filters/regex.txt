@@ -85,7 +85,6 @@
 /privacy-gate/
 /ptracking/
 /recaptcha/
-/scdn/
 /SearchAd/
 /SearchAdsCarousel/
 /sponsored-actions/

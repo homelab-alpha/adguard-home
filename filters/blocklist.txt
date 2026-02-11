@@ -153,7 +153,6 @@
 ||quiz.campus.dpgmedia.net^$important
 ||reporting-acceptance.dpgdsp-adv-nonprod.dpgmedia.cloud^$important
 ||retail.dpgmedia.net^$important
-||scdn.co^$important
 ||scorecardresearch.com^$important
 ||selfservice-adv-prod.dpgmedia.cloud^$important
 ||service.nu.nl^$important

@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters and specifically simplified to be more compatible with ad blocking at the DNS level.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-02-10T10:58:37+01:00
+! Last modified: 2026-02-11T14:40:20+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -16,6 +16,7 @@
 !
 ||*/consent*$important
 ||*/consents*$important
+||*/recaptcha*$important
 ||0318media.nl^$important
 ||2mdn.net^$important
 ||aa.hwigroup.com^$important
@@ -84,6 +85,7 @@
 ||cmp.destentor.nl/unified/wrapperMessagingWithoutDetection.js$important
 ||cmp.destentor.nl^$important
 ||cmp.dpgmedia.nl^$important
+||consent.google.com^$important
 ||content2.nrc.nl^$important
 ||cookiebot.com^$important
 ||cookies.npo.nl^$important
@@ -104,6 +106,8 @@
 ||familypicker.com^$important
 ||fnlcontent.nl^$important
 ||freewheel-acceptance.dpgdsp-adv-nonprod.dpgmedia.cloud^$important
+||google.*/complete/search?*$important
+||google.*/sorry/index?continue=*$important
 ||gui.aesop-advertiser-staging.adlocal.persgroep.cloud^$important
 ||gui.aesop-advertiser.adlocal.persgroep.cloud^$important
 ||h3v9p8x2q1r7-agckaeh6g2ehcaes.westeurope-01.azurewebsites.net^$important
@@ -128,6 +132,7 @@
 ||mobi.nu.nl^$important
 ||monitor.video.dpgmedia.cloud^$important
 ||mooisteshirt.ad.nl^$important
+||myprivacy.dpgmedia.nl/consent?*$important
 ||notifications-acceptance.dpgdsp-adv-nonprod.dpgmedia.cloud^$important
 ||nrc.nl/paywall-api/$important
 ||nu.nl/advertorial$important

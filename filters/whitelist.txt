@@ -14,25 +14,25 @@
 ! Expires: 90 days (update frequency)
 !
 !
-@@||amazon.com^$important,client='Amazon Kindle Paperwhite 12th Gen'
-@@||bitwarden.com^$important
-@@||crontab.guru^$important
-@@||local^$important,client='Apple iPad Air 3rd generation Wi-Fi'
-@@||local^$important,client='Apple iPad Air 3rd generation'
-@@||local^$important,client='Apple iPhone 12 mini'
-@@||local^$important,client='Apple iPhone 7'
-@@||local^$important,client='Apple TV HD'
-@@||local^$important,client='Apple Watch SE 2nd generation'
-@@||localhost^$important
-@@||mariadb.com^$important
-@@||mariadb.org^$important
-@@||nabucasa.com^$important
-@@||ovh.nl^$important
-@@||scdn.co^$important
-@@||v.vrv.co^$important,client='Apple iPad Air 3rd generation Wi-Fi'
-@@||v.vrv.co^$important,client='Apple iPad Air 3rd generation'
-@@||v.vrv.co^$important,client='Apple iPhone 12 mini'
-@@||v.vrv.co^$important,client='Apple TV HD'
-@@||v.vrv.co^$important,client='Chromecast with Google TV'
-@@||v.vrv.co^$important,client='Google TV Streamer'
-@@||v.vrv.co^$important,client='Hisense 55U7NQ'
+@@||amazon.com$client='Amazon Kindle Paperwhite 12th Gen'
+@@||bitwarden.com
+@@||crontab.guru
+@@||local$client='Apple iPad Air 3rd generation Wi-Fi'
+@@||local$client='Apple iPad Air 3rd generation'
+@@||local$client='Apple iPhone 12 mini'
+@@||local$client='Apple iPhone 7'
+@@||local$client='Apple TV HD'
+@@||local$client='Apple Watch SE 2nd generation'
+@@||localhost
+@@||mariadb.com
+@@||mariadb.org
+@@||nabucasa.com
+@@||ovh.nl
+@@||scdn.co
+@@||v.vrv.co$client='Apple iPad Air 3rd generation Wi-Fi'
+@@||v.vrv.co$client='Apple iPad Air 3rd generation'
+@@||v.vrv.co$client='Apple iPhone 12 mini'
+@@||v.vrv.co$client='Apple TV HD'
+@@||v.vrv.co$client='Chromecast with Google TV'
+@@||v.vrv.co$client='Google TV Streamer'
+@@||v.vrv.co$client='Hisense 55U7NQ'

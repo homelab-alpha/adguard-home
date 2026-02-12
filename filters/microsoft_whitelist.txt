@@ -14,8 +14,8 @@
 ! Expires: 90 days (update frequency)
 !
 !
-@@||vlscppe.microsoft.com^$important
-@@||statics-marketingsites-eus-ms-com.akamaized.net^$important
-@@||c.microsoft.com^$important
-@@||c1.microsoft.com^$important
-@@||h-microsoft.online-metrix.net^$important
+@@||vlscppe.microsoft.com
+@@||statics-marketingsites-eus-ms-com.akamaized.net
+@@||c.microsoft.com
+@@||c1.microsoft.com
+@@||h-microsoft.online-metrix.net

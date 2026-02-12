@@ -19,6 +19,7 @@
 /(?i)ad[_-]?choices/
 /(?i)ads/
 /(?i)advert(is(e|ing|ement(al)?|orial)|ising-cdn|ising)/
+/(?i)advertising/
 /(?i)affiliate/
 /(?i)analytics/
 /(?i)api(search)?ads?(carousel)?/
@@ -44,7 +45,6 @@
 /(?i)measurementdata/
 /(?i)myprivacy-static)?/
 /(?i)nocookie/
-/(?i)optoutadvertising/
 /(?i)p?tracking(idcookiename|id)?/
 /(?i)pagead/
 /(?i)paywall/
@@ -57,4 +57,3 @@
 /(?i)telemetry/
 /(?i)temptationtrackingid/
 /(?i)videoadd?/
-/(?i)web-advertising/

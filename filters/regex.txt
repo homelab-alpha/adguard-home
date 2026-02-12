@@ -42,7 +42,7 @@
 /(?i)jwt(tokencookienames)?/
 /(?i)log-upload/
 /(?i)measurementdata/
-/(?i)myprivacy-static/
+/(?i)myprivacy(-static)?/
 /(?i)nocookie/
 /(?i)optoutadvertising/
 /(?i)p?tracking(idcookiename|id)?/

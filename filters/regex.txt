@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list that blocks ads and ad tracking using regular expression syntax.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-02-12T07:24:11+01:00
+! Last modified: 2026-02-12T09:08:35+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -14,46 +14,55 @@
 ! Expires: 90 days (update frequency)
 !
 !
+/(?i)ad-refresh/
 /(?i)ad(api|s(container|dk|identity|bygoogle)?|services?)/
 /(?i)ad[_-]?(banner|event|interest|placement|server|service|studio|system|target(type)?|video)/
 /(?i)ad[_-]?choices/
+/(?i)adlocal/
 /(?i)ads/
-/(?i)advert(is(e|ing|ement(al)?|orial)|ising-cdn|ising)/
+/(?i)advalue/
+/(?i)adverteren/
+/(?i)advertiser/
 /(?i)advertising/
+/(?i)advertorial/
 /(?i)affiliate/
 /(?i)analytics/
-/(?i)api(search)?ads?(carousel)?/
-/(?i)app-analytics/
 /(?i)audioads/
 /(?i)bazaarcontentwrapper/
-/(?i)beacons?/
-/(?i)campaigns?/
-/(?i)consent/(api/events|sdk)/
-/(?i)consents/
-/(?i)cookie(-consents?|bot|consent)/
+/(?i)beacons/
+/(?i)branded/
+/(?i)campagne/
+/(?i)consent/
+/(?i)cookie-consents/
+/(?i)cookiebar/
+/(?i)cookiebot/
+/(?i)cookiename/
+/(?i)cookies/
 /(?i)copilot-telemetry/
+/(?i)crashlyticsreports/
 /(?i)debuginfo/
 /(?i)didomi/
 /(?i)displayad/
-/(?i)encodedaddata/
 /(?i)feedback/
 /(?i)gesponsord/
 /(?i)googleads/
 /(?i)iad/
-/(?i)jwt(tokencookienames)?/
 /(?i)log-upload/
+/(?i)logger/
 /(?i)measurementdata/
-/(?i)myprivacy-static)?/
+/(?i)metrics/
+/(?i)myprivacy-static/
 /(?i)nocookie/
-/(?i)p?tracking(idcookiename|id)?/
 /(?i)pagead/
 /(?i)paywall/
 /(?i)privacy-gate/
 /(?i)recaptcha/
-/(?i)searchads?(carousel)?/
+/(?i)searchads/
 /(?i)sentry/
-/(?i)sponsored(-actions|products)?/
+/(?i)sponsored/
+/(?i)sponsoredproducts/
 /(?i)streamgate/
 /(?i)telemetry/
+/(?i)temptation/
 /(?i)temptationtrackingid/
-/(?i)videoadd?/
+/(?i)videoadd/

@@ -17,7 +17,7 @@
 /(?i)ad(api|s(container|dk|identity|bygoogle)?|services?)/
 /(?i)ad[_-]?(banner|event|interest|placement|server|service|studio|system|target(type)?|video)/
 /(?i)ad[_-]?choices/
-/(?i)ads?(debuginfo|dk|ystem|container|identity)?/
+/(?i)ads/
 /(?i)advert(is(e|ing|ement(al)?|orial)|ising-cdn|ising)/
 /(?i)affiliate/
 /(?i)analytics/
@@ -31,6 +31,7 @@
 /(?i)consents/
 /(?i)cookie(-consents?|bot|consent)/
 /(?i)copilot-telemetry/
+/(?i)debuginfo/
 /(?i)didomi/
 /(?i)displayad/
 /(?i)encodedaddata/
@@ -46,7 +47,7 @@
 /(?i)optoutadvertising/
 /(?i)p?tracking(idcookiename|id)?/
 /(?i)pagead/
-/(?i)paywall-api/
+/(?i)paywall/
 /(?i)privacy-gate/
 /(?i)recaptcha/
 /(?i)searchads?(carousel)?/

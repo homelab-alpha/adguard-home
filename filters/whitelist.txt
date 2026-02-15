@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a DNS whitelist that allows authorized domain names.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-02-15T08:58:01+01:00
+! Last modified: 2026-02-15T11:07:22+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -31,7 +31,6 @@
 @@||mariadb.org
 @@||nabucasa.com
 @@||ovh.nl
-@@||scdn.co
 @@||v.vrv.co$client='Apple iPad Air 3rd generation Wi-Fi'
 @@||v.vrv.co$client='Apple iPad Air 3rd generation'
 @@||v.vrv.co$client='Apple iPhone 12 mini'

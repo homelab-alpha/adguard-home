@@ -21,7 +21,6 @@
 /(?i)adhese/
 /(?i)adlocal/
 /(?i)ads-services/
-/(?i)ads/
 /(?i)adstudio/
 /(?i)advalue/
 /(?i)adverteren/

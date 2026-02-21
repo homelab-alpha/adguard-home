@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-02-20T07:06:32+01:00
+! Last modified: 2026-02-21T07:01:38+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -2579,6 +2579,7 @@
 ||spellnetherlands.com^$important
 ||spelspeelgoed.com^$important
 ||sperrynederland.com^$important
+||splend-meubelen.com^$important
 ||splicelife.com^$important
 ||sportbeter.shop^$important
 ||sportish.nl^$important

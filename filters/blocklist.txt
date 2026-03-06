@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters and specifically simplified to be more compatible with ad blocking at the DNS level.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-02-12T09:08:30+01:00
+! Last modified: 2026-03-06T09:08:10+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -14,5 +14,5 @@
 ! Expires: 90 days (update frequency)
 !
 !
-||2mdn.net^$important
-||scorecardresearch.com^$important
+||2mdn.net^
+||scorecardresearch.com^

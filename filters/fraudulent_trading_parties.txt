@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2025-12-16T09:42:40+01:00
+! Last modified: 2026-03-06T09:08:16+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -14,11 +14,11 @@
 ! Expires: 90 days (update frequency)
 !
 !
-||2dehandsstudieboek.nl^$important
-||cosmeticessentials.nl^$important
-||gadgetfreakzz.nl^$important
-||goedkoopstesmartphones.nl^$important
-||grwinkel.nl^$important
-||thatsvogue.nl^$important
-||Ti-84shop.nl^$important
-||Ti84shop.nl^$important
+||2dehandsstudieboek.nl^
+||cosmeticessentials.nl^
+||gadgetfreakzz.nl^
+||goedkoopstesmartphones.nl^
+||grwinkel.nl^
+||thatsvogue.nl^
+||Ti-84shop.nl^
+||Ti84shop.nl^

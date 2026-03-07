@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-03-06T14:32:42+01:00
+! Last modified: 2026-03-07T08:54:40+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1451,6 +1451,7 @@
 ||klinische-apot.com^
 ||klooo.nl^
 ||kmcheck.de^
+||knitwear-sales.com^
 ||kodaser.com^
 ||koffie365.com^
 ||koffiecompleet.com^
@@ -2268,6 +2269,7 @@
 ||refurbishedbikes4u.nl^
 ||regio-apotheek.nl^
 ||reimsthelabel.nl^
+||reindershaardhout.com^
 ||reinholdrasenmaher.com^
 ||remono.nl^
 ||researchchemicalskopen.net^

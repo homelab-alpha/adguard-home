@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-03-07T08:54:40+01:00
+! Last modified: 2026-03-10T07:08:58+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -520,6 +520,7 @@
 ||comfybenelux.nl^
 ||comfyhuis.nl^
 ||comfyhuis-nl.com^
+||comme-des-garcons.nl^
 ||competameubels.com^
 ||compleet-duurzaam.nl^
 ||concerttix.nl^
@@ -807,6 +808,7 @@
 ||elektradeals.com^
 ||elektraenaccu.nl^
 ||elektra-markt.nl^
+||elektricienbakker.nl^
 ||elektrobedrijf-jacobs.nl^
 ||elektroheiz.com^
 ||elektrokaufenmarkt.com^

@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-03-20T07:52:02+01:00
+! Last modified: 2026-03-21T09:20:50+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -38,6 +38,7 @@
 *shopsoutlet2021.ru^
 *spynaray.com^
 *vcwhoutgranulaat.com^
+*vip-outlet.com^
 *vipssoutlet.shop^
 *vrolijkshoppen.com^
 *walako.com^
@@ -1454,6 +1455,7 @@
 ||kleertjesnl-off.shop^
 ||kleertjesnl-sale.shop^
 ||kleertjes-sale.com^
+||kleertjes.vip-outlet.com^
 ||kleineprijs.com^
 ||klickenkop.com^
 ||kliniekmooy.com^
@@ -1571,6 +1573,7 @@
 ||leora-shop.nl^
 ||lerava.nl^
 ||letfatburnin.store^
+||levilles.com^
 ||lexosaa.nl^
 ||licane.com^
 ||licentiedeals.com^

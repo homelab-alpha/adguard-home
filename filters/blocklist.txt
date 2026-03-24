@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters and specifically simplified to be more compatible with ad blocking at the DNS level.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-03-11T11:30:49+01:00
+! Last modified: 2026-03-24T13:08:23+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -16,7 +16,9 @@
 !
 ||2mdn.net^
 ||acsbapp.com^
+||gstatic.com/eureka/$important
 ||klaviyo.com^
 ||modules4u.biz^
 ||scorecardresearch.com^
 ||spotify.dev^
+||youtube.com/generate_204$important

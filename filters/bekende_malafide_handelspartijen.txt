@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-03-31T11:45:03+02:00
+! Last modified: 2026-04-01T10:00:02+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -747,6 +747,7 @@
 ||dresst.nl^
 ||drevani.nl^
 ||driessen-mode.nl^
+||drionpil.com^
 ||dripppy.nl^
 ||drippyfashion.nl^
 ||dronespotz.nl^
@@ -1087,6 +1088,7 @@
 ||gereedschapheelal.nl^
 ||gereedschaponline.net^
 ||gereedschapshop.net^
+||gereedschapte.ch^
 ||gereedschap-winkel.com^
 ||getjeugdcenter.com^
 ||geuneshout.store^
@@ -1639,6 +1641,7 @@
 ||lockhurst-winkel.com^
 ||lodioutletnederland.com^
 ||loesenlies.nl^
+||logisticsolutions.eu^
 ||logistshop.com^
 ||loisamsterdam.com^
 ||lokalehoutpellets.com^

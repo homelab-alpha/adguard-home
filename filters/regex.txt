@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list that blocks ads and ad tracking using regular expression syntax.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-03-19T07:55:08+01:00
+! Last modified: 2026-04-03T14:10:57+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -25,6 +25,7 @@
 /(?i)advalue/
 /(?i)adverteren/
 /(?i)advertiser/
+/(?i)advertising-module/
 /(?i)advertising/
 /(?i)advertorial/
 /(?i)advision/
@@ -54,6 +55,7 @@
 /(?i)iad/
 /(?i)log-upload/
 /(?i)logger/
+/(?i)logging/
 /(?i)measurementdata/
 /(?i)metrics/
 /(?i)myprivacy-static/
@@ -71,4 +73,5 @@
 /(?i)telemetry/
 /(?i)temptation/
 /(?i)temptationtrackingid/
+/(?i)tracking-module/
 /(?i)videoadd/

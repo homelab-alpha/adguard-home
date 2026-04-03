@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of known malicious IP addresses. (safeguard your network from potential threats.)
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-03-11T11:30:49+01:00
+! Last modified: 2026-04-03T13:47:21+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -14,3 +14,5 @@
 ! Expires: 90 days (update frequency)
 !
 !
+! Axios npm Supply Chain Attack C2 Communication IPs
+142.11.206.73

@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters and specifically simplified to be more compatible with ad blocking at the DNS level.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-04-09T10:07:32+02:00
+! Last modified: 2026-04-10T12:02:27+0200+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -15,19 +15,27 @@
 !
 !
 ||2mdn.net^
+||ab.chatgpt.com^
 ||acsbapp.com^
 ||api-burying-point.ecoflow.com^
+||atc.spotify.map.fastly.net^
+||audio4-ak.spotifycdn.com^
 ||cdn.consentmanager.net/delivery/autoblocking^
 ||cxense.com^
+||diag.meethue.com^
 ||ecoflow.com/cdn/shop/t/49/assets/email^
 ||eu-mobile.events.data.microsoft.com^
 ||gstatic.com/eureka^
 ||klaviyo.com^
+||marketingcloudapis.com^
 ||modules4u.biz^
 ||pg.dpgmedia.*^
 ||plus.unsplash.com^
+||qualtrics.com^
+||revenuecat.com^
 ||scorecardresearch.com^
 ||spotify.dev^
+||ws.chatgpt.com^
 !
 ! Axios npm Supply Chain Attack C2 Communication IPs
 ||sfrclak.com^

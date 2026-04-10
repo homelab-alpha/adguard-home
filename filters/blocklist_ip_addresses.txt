@@ -1,0 +1,17 @@
+!
+! Title: Blocklist IP Addresses
+! Description: Filter composed of several other filters and specifically simplified to be more compatible with ad blocking at the DNS level.
+! Homepage: https://github.com/homelab-alpha/adguard-home
+! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
+! Last modified: 2026-04-10T12:05:18+0200+02:00
+!
+! Compiled by @homelab-alpha/adguard-home
+!
+!
+! Source name: Blocklist IP Addresses
+! Source: https://raw.githubusercontent.com/homelab-alpha/adguard-home/main/filters/blocklist_ip_addresses.txt
+! Version: v0.107.73-Alpha
+! Expires: 90 days (update frequency)
+!
+!
+fe80::7a45:58ff:fef9:b1b

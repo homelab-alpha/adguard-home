@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-04-02T21:28:45+02:00
+! Last modified: 2026-04-11T08:27:59+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -37,6 +37,7 @@
 *outletshop2021.ru^
 *sa.com^
 *shopsoutlet2021.ru^
+*sissyboyshopnl.com^
 *spynaray.com^
 *vcwhoutgranulaat.com^
 *vip-outlet.com^
@@ -819,6 +820,7 @@
 ||elektraenaccu.nl^
 ||elektra-markt.nl^
 ||elektricienbakker.nl^
+||elektrischefiets.is^
 ||elektrobedrijf-jacobs.nl^
 ||elektroheiz.com^
 ||elektrokaufenmarkt.com^
@@ -1521,6 +1523,7 @@
 ||kredietadviseursnederland.com^
 ||kredietnl.com^
 ||kredit-univers-group.com^
+||kreppo.nl^
 ||kriebeldeals.com^
 ||kriebeldeals.shop^
 ||krijgjevoorraad.com^
@@ -2023,6 +2026,7 @@
 ||nlmeubelwinkel.com^
 ||nl-pierone.com^
 ||nl-russellcyclone.com^
+||nl.sissyboyshopnl.com^
 ||nlstore.bottles-airup.shop^
 ||nltoysy.nl^
 ||nltranspellets.com^

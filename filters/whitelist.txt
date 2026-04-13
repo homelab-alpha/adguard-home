@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a DNS whitelist that allows authorized domain names.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-04-13T08:38:21+0200+02:00
+! Last modified: 2026-04-13T08:49:03+0200+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -16,6 +16,7 @@
 !
 @@/blogger/
 @@||amazon.com^$client='Amazon Kindle Paperwhite 12th Gen'
+@@||audio4-fa.scdn.co^
 @@||bitwarden.com^
 @@||consent.google.com^
 @@||consent.youtube.com^

@@ -76,7 +76,6 @@
 /(?i)smartad/
 /(?i)sponsored/
 /(?i)sponsoredproducts/
-/(?i)storyboard/
 /(?i)streamgate/
 /(?i)talpanetwork-privacy/
 /(?i)telemetry/

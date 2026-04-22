@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-04-20T15:00:06+02:00
+! Last modified: 2026-04-22T13:00:01+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1285,6 +1285,7 @@
 ||houtverwarmers.com^
 ||hout-warm.com^
 ||hqcosmeticabv.com^
+||hqwqnrtm.shop^
 ||hub-online.eu^
 ||hudsonbays-outlet.nl^
 ||huestudios.nl^
@@ -1577,6 +1578,7 @@
 ||leavora.nl^
 ||lebilo.nl^
 ||ledovo.nl^
+||leenbakkernlofficial.com^
 ||legranulecomtois.com^
 ||lemaros.nl^
 ||lemsnederland.com^
@@ -1746,6 +1748,7 @@
 ||mambobaby-float.nl^
 ||mammutoutletsnederland.com^
 ||mamorae.nl^
+||manfield-official.com^
 ||maniamedia.nl^
 ||manosamsterdam.com^
 ||manosamsterdam.nl^
@@ -1796,6 +1799,7 @@
 ||medicijnen-kopen.com^
 ||medicijnenonline.com^
 ||medicijnen-snel-bestellen.com^
+||medicijnhuis.com^
 ||medipromas.com^
 ||meesterelektro.com^
 ||meesterpellets.shop^
@@ -1990,6 +1994,7 @@
 ||nedertrends.com^
 ||nelmaart.com^
 ||nembutal.club^
+||nembutalgroup.com^
 ||ne-neoelectronics.com^
 ||neo-electro.com^
 ||neomartshop.com^

@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-04-29T06:49:36+02:00
+! Last modified: 2026-05-01T07:27:28+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -929,6 +929,7 @@
 ||fatbike-factory.nl^
 ||fatbikefanaat.online^
 ||fatbikefreak.nl^
+||fatbikegarant.nl^
 ||fatbike-magazijn.com^
 ||fatbikeoutlet.nl^
 ||fatbikeshopmaashorst.nl^
@@ -1482,6 +1483,7 @@
 ||koffie365.com^
 ||koffiecompleet.com^
 ||koffiegiganti.nl^
+||koffiehenk.com^
 ||koffie-huis.com^
 ||koffiekameraad.nl^
 ||koffiekansen.nl^
@@ -2225,6 +2227,7 @@
 ||pme-legendnl.shop^
 ||pme-legendo.shop^
 ||pme-legend.xyz^
+||pocketheroes.online^
 ||poioshirtsverkoop.com^
 ||pokedealzshop.nl^
 ||pokemon-world.nl^
@@ -2906,6 +2909,7 @@
 ||valleiautos.com^
 ||valora-shop.com^
 ||vanbeekmode.com^
+||vanberkelrijwielhuis.com^
 ||vandalefashion.nl^
 ||vandam-studio.nl^
 ||vandebergmode.nl^

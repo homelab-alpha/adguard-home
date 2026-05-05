@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-05-02T07:48:03+02:00
+! Last modified: 2026-05-04T16:00:01+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -956,6 +956,7 @@
 ||fietsstore.com^
 ||fietsstore.net^
 ||fietsstoreonline.net^
+||fietsvoorraad.is^
 ||fietswinkeljanssen.online^
 ||figliasoccer.nl^
 ||fikay.webshopapp.com^
@@ -1401,6 +1402,7 @@
 ||juhanzo.store^
 ||juisteplaats.com^
 ||juisthout.com^
+||juliabrown.shop^
 ||julia-mode.nl^
 ||juliaoutlet.nl^
 ||junafit.nl^
@@ -2229,6 +2231,7 @@
 ||pme-legendo.shop^
 ||pme-legend.xyz^
 ||pocketheroes.online^
+||pocketlegends.store^
 ||poioshirtsverkoop.com^
 ||pokedealzshop.nl^
 ||pokemon-world.nl^
@@ -2346,6 +2349,7 @@
 ||rnbconsultancy.nl^
 ||robahout.com^
 ||robdebouwer.com^
+||robertmoser.shop^
 ||roccis.nl^
 ||rocketcards.nl^
 ||roermonddeal.com^

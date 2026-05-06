@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-05-04T16:00:01+02:00
+! Last modified: 2026-05-06T13:37:55+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -424,6 +424,7 @@
 ||brick-world.nl^
 ||bridalshoesshop.com^
 ||brightboutiquestore.com^
+||brinkmanfietsspecialist.com^
 ||brisbywinkel.com^
 ||brookshardloopschoenensale.com^
 ||brooksnetherland.com^
@@ -1011,6 +1012,7 @@
 ||folder-aanbiedingen.com^
 ||folder-deals.com^
 ||folderdeals.com^
+||fonqofficialstore.com^
 ||fontinose.com^
 ||foonwinkelshop.com^
 ||footflick.nl^

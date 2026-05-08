@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-05-06T13:37:55+02:00
+! Last modified: 2026-05-08T06:10:39+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1484,6 +1484,7 @@
 ||kmcheck.de^
 ||knitwear-sales.com^
 ||kodaser.com^
+||koffie24.com^
 ||koffie365.com^
 ||koffiecompleet.com^
 ||koffiegiganti.nl^
@@ -1980,6 +1981,7 @@
 ||myhomegoodies.nl^
 ||myjewelerynl.com^
 ||my.jewellerysale.sbs^
+||myjewlleriynl.com^
 ||myleaflight.com^
 ||mymercadoamsterdam.nl^
 ||myonlyclothing.com^
@@ -1998,6 +2000,7 @@
 ||navis-mode.com^
 ||navonturen.nl^
 ||neatic.nl^
+||nederix.eu^
 ||nederlandaanbieding.com^
 ||nederlandsedrugsmarkt.com^
 ||nedertrends.com^
@@ -2286,6 +2289,7 @@
 ||puntocore.us^
 ||puplydeals.com^
 ||qewaro.nl^
+||qjkwvlsr.shop^
 ||qlimates.nl^
 ||qolasam.com^
 ||qorvez.nl^
@@ -2503,6 +2507,7 @@
 ||shoesme-nl.shop^
 ||shoesmeonline.sa.com^
 ||shoesme.sa.com^
+||shoesmesale.com^
 ||shoex.nl^
 ||shopbeliva.nl^
 ||shopboostx.com^

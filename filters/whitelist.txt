@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a DNS whitelist that allows authorized domain names.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-04-13T08:49:03+0200+02:00
+! Last modified: 2026-05-10T07:27:37+0200
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -21,6 +21,7 @@
 @@||consent.google.com^
 @@||consent.youtube.com^
 @@||crontab.guru^
+@@||feed.itsfoss.com^
 @@||i.scdn.co^
 @@||i2o.scdn.co^
 @@||lineup-images.scdn.co^
@@ -32,8 +33,5 @@
 @@||newjams-images.scdn.co^
 @@||ovh.nl^
 @@||ovhcloud.com^
+@@||redirect.feedpress.me^
 @@||tv.scdn.co^
-@@||v.vrv.co^$client='Apple iPhone 17 Pro Max'
-@@||v.vrv.co^$client='Chromecast with Google TV'
-@@||v.vrv.co^$client='Google TV Streamer'
-@@||v.vrv.co^$client='Hisense 55U7NQ'

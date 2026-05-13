@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-05-12T10:00:01+02:00
+! Last modified: 2026-05-13T09:23:31+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -114,6 +114,7 @@
 ||alahtuh.com^
 ||a-laptops.info^
 ||albertinemode.com^
+||aldi-budget.com^
 ||aldi-deal.com^
 ||aldi-voordeel.com^
 ||aldi-voordeelshop.com^
@@ -318,6 +319,7 @@
 ||beterbedbe.com^
 ||beterbednl.com^
 ||beverlyparenti.com^
+||beversale-nl.com^
 ||bevesta.nl^
 ||bewegen-online.nl^
 ||bibiosaa.com^
@@ -1311,6 +1313,7 @@
 ||huismeubilair.com^
 ||huis-vangaard.com^
 ||huis-verwarming.com^
+||huisvoordeel.nl^
 ||huizenmarktoptima.nl^
 ||huizenstede.com^
 ||hunnyhouse.nl^
@@ -2568,6 +2571,7 @@
 ||smartphonespz.nl^
 ||smartselektronik.com^
 ||smartwatchesnl24.com^
+||smatixo.eu^
 ||smcg.shop^
 ||smegnederland.com^
 ||smiletogo-fi.com^
@@ -2752,8 +2756,10 @@
 ||techmagazijn.com^
 ||tech-mania.nl^
 ||techno-fitness24.com^
+||techoutletnl.eu^
 ||techpuls-vector.com^
 ||techsello.com^
+||techstopnl.org^
 ||tecno-x.de^
 ||tedbakernederland.co.nl^
 ||tedbakernederlandwinkel.com^

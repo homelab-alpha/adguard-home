@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-05-13T09:23:31+02:00
+! Last modified: 2026-05-14T07:00:00+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1472,6 +1472,7 @@
 ||kledingwinkelen.nl^
 ||kledingworldamsterdam.com^
 ||kleertjeskids-nl.shop^
+||kleertjesnl.com^
 ||kleertjesnl-deal.shop^
 ||kleertjesnl.molo-sale.shop^
 ||kleertjesnl-off.shop^
@@ -2787,6 +2788,7 @@
 ||teresa-fashion.nl^
 ||terstal-nl.shop^
 ||terstalshop.com^
+||terstals.shop^
 ||tess-amsterdam.com^
 ||tess-amsterdam.nl^
 ||testament.myshopify.com^

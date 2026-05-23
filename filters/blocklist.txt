@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters and specifically simplified to be more compatible with ad blocking at the DNS level.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-05-10T07:25:13+0200
+! Last modified: 2026-05-23T08:23:59+0200
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -17,8 +17,6 @@
 ||2mdn.net^
 ||ab.chatgpt.com^
 ||acsbapp.com^
-||atc.spotify.map.fastly.net^
-||audio4-ak.spotifycdn.com^
 ||cdn.consentmanager.net^
 ||cxense.com^
 ||diag.meethue.com^
@@ -33,7 +31,6 @@
 ||revenuecat.com^
 ||scorecardresearch.com^
 ||sensorsdata.com^
-||spotify.dev^
 ||ws.chatgpt.com^
 !
 ! Axios npm Supply Chain Attack C2 Communication IPs

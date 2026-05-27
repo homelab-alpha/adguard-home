@@ -82,3 +82,6 @@
 /(?i)temptationtrackingid/
 /(?i)tracking-module/
 /(?i)videoadd/
+!
+! Experimental
+/(?i)spf.vflset/

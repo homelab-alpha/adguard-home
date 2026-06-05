@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-06-05T08:25:40+02:00
+! Last modified: 2026-06-05T14:04:05+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -3021,6 +3021,8 @@
 ||vejaventuri.nl^
 ||veldageschaft.com^
 ||vellore-amsterdam.nl^
+||velmart-amsterdam.co^
+||velmart-amsterdam.com^
 ||velours24.nl^
 ||velur-nl.com^
 ||velvetnederland.com^

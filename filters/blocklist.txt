@@ -3,14 +3,14 @@
 ! Description: Filter composed of several other filters and specifically simplified to be more compatible with ad blocking at the DNS level.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-05-23T08:23:59+0200
+! Last modified: 2026-06-12T09:44:00+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
 !
 ! Source name: Blocklist
 ! Source: https://raw.githubusercontent.com/homelab-alpha/adguard-home/main/filters/blocklist.txt
-! Version: v0.107.73-Alpha
+! Version: v0.107.77-Alpha
 ! Expires: 90 days (update frequency)
 !
 !

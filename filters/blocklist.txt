@@ -29,7 +29,6 @@
 ||qualtrics.com^
 ||recommend-ui-eu.vidaahub.com^
 ||revenuecat.com^
-||scorecardresearch.com^
 ||sensorsdata.com^
 ||ws.chatgpt.com^
 !

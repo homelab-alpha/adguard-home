@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-06-16T06:05:00+02:00
+! Last modified: 2026-06-17T06:57:27+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -391,6 +391,7 @@
 ||bonvina.nl^
 ||boofashions.com^
 ||boombrandhout.com^
+||boomstammen-ribere.com^
 ||bootsie.nl^
 ||bordspellenverkoop.com^
 ||bordspelwereld.com^
@@ -663,6 +664,7 @@
 ||deloods5.com^
 ||deloods5-service.nl^
 ||deloox.outlcoa.com^
+||deloox.store^
 ||delorio.nl^
 ||deluxautos.nl^
 ||deluxe-nl.com^
@@ -2691,6 +2693,8 @@
 ||sskinse.nl^
 ||sskins.nl^
 ||ssvobase.shop^
+||stamhout-boischaut.com^
+||stammholz-ribere.com^
 ||stapbeter.nl^
 ||stardrones.nl^
 ||starona.nl^
@@ -3128,6 +3132,7 @@
 ||voleur.nl^
 ||voliva.nl^
 ||volona.store^
+||voltwinkel.com^
 ||vomilas.com^
 ||vondistore.nl^
 ||vonivo.shop^

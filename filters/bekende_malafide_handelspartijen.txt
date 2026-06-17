@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-06-17T06:57:27+02:00
+! Last modified: 2026-06-17T12:27:17+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -36,6 +36,7 @@
 *outlcoa.com^
 *outletshop2021.ru^
 *sa.com^
+*saleseuoutlet.com^
 *shopsoutlet2021.ru^
 *sissyboyshopnl.com^
 *sitedish.shop^
@@ -2288,6 +2289,7 @@
 ||premiumsummervillas.com^
 ||premiumverwarming.com^
 ||prenatal-aanbieding.shop^
+||prenatal.saleseuoutlet.com^
 ||prenatal-sane.shop^
 ||prestigeplazanl.com^
 ||prijsjagers.com^
@@ -2569,8 +2571,10 @@
 ||sissyboyhome.shop^
 ||sissyboynl.shop^
 ||sissyboy-nl.top^
+||sissy-boyofficial.com^
 ||sissyboyonline.shop^
 ||sissy-boysell.top^
+||sissy-boys.shop^
 ||sissyboystore.shop^
 ||site-ticketswap.nl^
 ||sitimaoutlet.com^

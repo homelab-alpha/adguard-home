@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-06-19T06:50:22+02:00
+! Last modified: 2026-06-19T14:55:27+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -2724,6 +2724,7 @@
 ||strants-rotterdam.nl^
 ||stravilius.com^
 ||strijkwonder.nl^
+||studiolavino.com^
 ||studio-westwood.nl^
 ||stuntdeals.store^
 ||stuntweken.com^

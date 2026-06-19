@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-06-17T12:27:17+02:00
+! Last modified: 2026-06-19T06:50:22+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -59,6 +59,7 @@
 ||24fatbike.nl^
 ||35shop-electro.com^
 ||4b9r9t-ui.myshopify.com^
+||50styleoutlet.shop^
 ||834953-d2.myshopify.com^
 ||aanbiedingmagazijn.nl^
 ||aanbieding-vandaag.com^
@@ -216,6 +217,7 @@
 ||aurastrips.nl^
 ||authentic-dienst.com^
 ||authentiekeparfumerie.com^
+||autohaus-plg.de^
 ||autoparksupport.nl^
 ||autotheorie.nl^
 ||ava-groningen.shop^
@@ -1607,6 +1609,7 @@
 ||lavinca-nl.com^
 ||lavindo.nl^
 ||lawnfertilizernl.com^
+||lcmslguj.shop^
 ||leavara.nl^
 ||leavora.nl^
 ||lebilo.nl^
@@ -2573,6 +2576,7 @@
 ||sissyboy-nl.top^
 ||sissy-boyofficial.com^
 ||sissyboyonline.shop^
+||sissy-boyoutlet.shop^
 ||sissy-boysell.top^
 ||sissy-boys.shop^
 ||sissyboystore.shop^

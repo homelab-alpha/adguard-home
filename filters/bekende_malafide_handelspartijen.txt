@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-07-07T10:00:02+02:00
+! Last modified: 2026-07-07T13:00:01+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -29,6 +29,7 @@
 *molo-sale.shop^
 *mvips.shop^
 *myecomstore.net^
+*nlverkoop.com^
 *onlinece.shop^
 *onlinefactory2021.ru^
 *onlineoutlet2021.ru^
@@ -530,6 +531,7 @@
 ||cleaningmachineshop.com^
 ||clearanceroster.com^
 ||clockeanl.com^
+||cloverdtrade.com^
 ||clyroclothing.com^
 ||coachbagsnederland.com^
 ||coachoutletnetherlands.cc^
@@ -1681,6 +1683,7 @@
 ||little-dutch-euro.app^
 ||little-dutch.it.com^
 ||little-dutch-it.uk^
+||little-dutch.nlverkoop.com^
 ||little-dutch.store^
 ||little-dutch.toys^
 ||littlenestbaby.com^
@@ -2691,6 +2694,7 @@
 ||souxan.com^
 ||sovashoes.nl^
 ||spamotion.nl^
+||sparkwardrobe.com^
 ||speaker-world.nl^
 ||speelgoed-outlet.com^
 ||speelmeer-teck.com^

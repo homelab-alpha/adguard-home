@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-07-08T07:16:01+02:00
+! Last modified: 2026-07-08T13:00:00+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -2307,6 +2307,7 @@
 ||prenatal-aanbieding.shop^
 ||prenatal.saleseuoutlet.com^
 ||prenatal-sane.shop^
+||prenatals.saleseuoutlet.com^
 ||prestigeplazanl.com^
 ||prijsjagers.com^
 ||prijsmarkt.com^

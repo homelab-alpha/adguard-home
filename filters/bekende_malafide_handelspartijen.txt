@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-07-14T10:25:39+02:00
+! Last modified: 2026-07-14T16:00:00+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1129,6 +1129,7 @@
 ||gereedschapheelal.nl^
 ||gereedschaponline.net^
 ||gereedschapshop.net^
+||gereedschapswinkel.is^
 ||gereedschapte.ch^
 ||gereedschap-winkel.com^
 ||getjeugdcenter.com^
@@ -2833,6 +2834,7 @@
 ||ted-baker-netherlands.com^
 ||tedbakernloutlet.com^
 ||tefalkeuken.com^
+||tekmarkt.shop^
 ||tektit.eu^
 ||telecommeester.nl^
 ||telefonie-sales.com^
@@ -2945,6 +2947,7 @@
 ||tt-gynmastics.nl^
 ||tuinen-kamp.com^
 ||tuinen-kamp.nl^
+||tuingigant.is^
 ||tuininnovatiewebshop.com^
 ||tuinio.nl^
 ||tuinmeubelentrends.com^

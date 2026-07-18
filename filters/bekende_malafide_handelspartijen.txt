@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-07-17T12:36:16+02:00
+! Last modified: 2026-07-18T08:04:08+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -2606,6 +2606,7 @@
 ||sissyboyonline.shop^
 ||sissy-boyoutlet.shop^
 ||sissyboy-sale.top^
+||sissyboysale.top^
 ||sissy-boysell.top^
 ||sissy-boys.shop^
 ||sissyboystore.shop^

@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-07-18T08:04:08+02:00
+! Last modified: 2026-07-22T11:14:47+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1042,6 +1042,7 @@
 ||folder-aanbiedingen.com^
 ||folder-deals.com^
 ||folderdeals.com^
+||fonq-official.com^
 ||fonqofficial.com^
 ||fonqofficialstore.com^
 ||fontinose.com^
@@ -3027,6 +3028,7 @@
 ||vandijkwonen.shop^
 ||vandongenmode.com^
 ||van-ecobois.com^
+||vanelzen-outlet.nl^
 ||vanero.nl^
 ||vangils-mode.nl^
 ||vanharen-co.com^
@@ -3149,6 +3151,7 @@
 ||vindenly.com^
 ||vindeny.com^
 ||vingino-nl.top^
+||vingino-sale.top^
 ||vingino.top^
 ||vink-vogue.com^
 ||vinterforsyning.com^

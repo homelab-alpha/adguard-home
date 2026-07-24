@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-07-23T08:19:01+02:00
+! Last modified: 2026-07-24T09:14:19+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -2894,6 +2894,7 @@
 ||tielboutique.net^
 ||tieleman-zoetermeer.nl^
 ||tiletrendsnow.com^
+||tishahome.com^
 ||toiletrybagssale.com^
 ||tombakkers.com^
 ||tommyhilfigernl.pw^
@@ -3284,6 +3285,7 @@
 ||winterwinkelen.nl^
 ||winthout.com^
 ||winthout-store.com^
+||wiredesignproducten.com^
 ||wisdomi.myecomstore.net^
 ||wisdominl.net^
 ||wisdomtech.online^

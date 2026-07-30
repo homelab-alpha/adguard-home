@@ -1,0 +1,17 @@
+!
+! Title: Cosmetic
+! Description: Filter consisting of a list that hide ads, sponsored content, and other unwanted page elements.
+! Homepage: https://github.com/homelab-alpha/adguard-home
+! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
+! Last modified: 2026-07-30T07:55:11+0200
+!
+! Compiled by @homelab-alpha/adguard-home
+!
+! Source name: Cosmetic
+! Source: https://raw.githubusercontent.com/homelab-alpha/adguard-home/main/filters/cosmetic.txt
+! Version: v0.107.78-Alpha
+! Expires: 90 days (update frequency)
+!
+!
+ecosia.org##.main-nav, .sidebar, .layout__footer
+tweakers.net##.sponsored-actions, .promotions

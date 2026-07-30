@@ -35,6 +35,6 @@
 ! example.com#$#div.ad:has([data-testid="advertisement-disclaimer-icon"]) { outline: 3px solid red !important; }
 !
 !
-bol.com##mainContent > * > *:has([data-testid="advertisement-disclaimer-icon"])
+bol.com###mainContent > * > *:has([data-testid="advertisement-disclaimer-icon"])
 ecosia.org##.main-nav, .sidebar, .layout__footer
 tweakers.net##.sponsored-actions, .promotions

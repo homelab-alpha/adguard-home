@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list that hide ads, sponsored content, and other unwanted page elements.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-07-30T07:55:11+0200
+! Last modified: 2026-07-30T09:59:16+0200
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -13,5 +13,29 @@
 ! Expires: 90 days (update frequency)
 !
 !
+! --------------------------------------------------------------------
+! Testing
+! --------------------------------------------------------------------
+! To verify that a cosmetic selector matches the correct element,
+! temporarily replace the cosmetic filter with a JavaScript injection
+! rule that draws a red outline.
+!
+! Examples:
+!
+! Hide an element by class:
+! example.com##div.ad
+!
+! Highlight the same element:
+! example.com#$#div.ad { outline: 3px solid red !important; }
+!
+! Hide a parent element containing a specific child:
+! example.com##div.ad:has([data-testid="advertisement-disclaimer-icon"])
+!
+! Highlight the same parent element:
+! example.com#$#div.ad:has([data-testid="advertisement-disclaimer-icon"]) { outline: 3px solid red !important; }
+!
+!
+bol.com##div.grid.row-start-1.row-end-1.w-full:has([data-testid="advertisement-disclaimer-icon"])
+bol.com##div.relative.grid:has([data-testid="advertisement-disclaimer-icon"])
 ecosia.org##.main-nav, .sidebar, .layout__footer
 tweakers.net##.sponsored-actions, .promotions

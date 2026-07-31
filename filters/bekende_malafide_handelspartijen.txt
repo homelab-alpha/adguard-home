@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-07-29T08:02:08+02:00
+! Last modified: 2026-07-31T09:09:37+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -105,6 +105,7 @@
 ||ahbeautebv.com^
 ||ah-voordeel.com^
 ||aiglenederland.com^
+||airco-koning.com^
 ||airco-zomerdeal.nl^
 ||airforce1officieel.nl^
 ||airforceofficieel.nl^
@@ -553,6 +554,7 @@
 ||compleet-duurzaam.nl^
 ||concerttix.nl^
 ||condooms-shop.com^
+||condormediabv.com^
 ||condormedia.nl^
 ||confidently.top^
 ||congrill.nl^
@@ -829,6 +831,7 @@
 ||ekorafit.com^
 ||elaxo.nl^
 ||elec4you.nl^
+||electivo.shop^
 ||electras.de^
 ||electriccruisebikes.com^
 ||electrofast.nl^
@@ -1526,6 +1529,7 @@
 ||kmcheck.de^
 ||knitwear-sales.com^
 ||kodaser.com^
+||koffani.com^
 ||koffie24.com^
 ||koffie365.com^
 ||koffiecompleet.com^
@@ -2205,6 +2209,7 @@
 ||outlet-sneaker.shop^
 ||outlets-nl.com^
 ||outleturtieri.co^
+||outletzeeman.shop^
 ||owala-nederland.com^
 ||owalanetherlands.com^
 ||owalas-nederland.com^

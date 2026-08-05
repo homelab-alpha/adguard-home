@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list that blocks ads and ad tracking using regular expression syntax.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-07-14T10:25:39+02:00
+! Last modified: 2026-08-05T09:05:07+0200
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -82,6 +82,3 @@
 /(?i)temptationtrackingid/
 /(?i)tracking-module/
 /(?i)videoadd/
-!
-! Experimental
-/(?i)spf.vflset/

@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-08-11T07:39:41+02:00
+! Last modified: 2026-08-12T07:12:48+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -887,6 +887,7 @@
 ||enerci-boisdechauffage.com^
 ||energypelletsonline.nl^
 ||enfllexa.com^
+||enginestransmissiontan.nl^
 ||enkelgamen.nl^
 ||enviro-dekoration.com^
 ||enviro-wohnbereich.com^
@@ -1180,6 +1181,7 @@
 ||grandeurgala.com^
 ||graszadennl.com^
 ||greatdealsvibe.com^
+||greenboatengines.nl^
 ||greeneggoutlet.nl^
 ||grill-jack.nl^
 ||grillscloud.com^

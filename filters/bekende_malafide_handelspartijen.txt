@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-08-12T07:12:48+02:00
+! Last modified: 2026-08-13T07:12:45+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1225,6 +1225,7 @@
 ||hanna-mode.com^
 ||hansmanamsterdam.nl^
 ||hanwagschoenenaanbieding.com^
+||happiesushi-almelo.nl^
 ||happyfeetz.com^
 ||happyfloors.nl^
 ||harmanli-eu.shop^
@@ -2158,6 +2159,7 @@
 ||obozschoenen.com^
 ||ocean-bliss.shop^
 ||ochabloom.shop^
+||ochoeats-raalte.nl^
 ||offcut.nl^
 ||offerinsins.com^
 ||officialfitfeelers.nl^
@@ -2844,6 +2846,7 @@
 ||techdeluxe.eu^
 ||techmagazijn.com^
 ||tech-mania.nl^
+||technelo.com^
 ||techno-fitness24.com^
 ||techoutletnl.eu^
 ||techpuls-vector.com^

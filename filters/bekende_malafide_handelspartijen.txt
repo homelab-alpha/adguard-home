@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-08-19T05:38:55+02:00
+! Last modified: 2026-08-21T08:42:52+0200
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -42,6 +42,7 @@
 *sissyboyshopnl.com^
 *sitedish.shop^
 *spynaray.com^
+*sumupstore.com^
 *vcwhoutgranulaat.com^
 *vip-outlet.com^
 *vipssoutlet.shop^
@@ -741,6 +742,7 @@
 ||distinqo.nl^
 ||distopia-shop.com^
 ||distribution-eu.com^
+||districtbike.com^
 ||ditzijndeals.shop^
 ||divaeleganza.com^
 ||divingshop.nl^
@@ -1385,6 +1387,7 @@
 ||ilyamsterdam.com^
 ||imperialsteps.nl^
 ||incotecc.nl^
+||indianjunction-uithoorn.nl^
 ||inerdealshozt.com^
 ||injectec.de^
 ||injectec.net^
@@ -1654,6 +1657,7 @@
 ||lente-outlet.shop^
 ||leora-shop.nl^
 ||lerava.nl^
+||lesushiandmorealkmaar.nl^
 ||letfatburnin.store^
 ||levilles.com^
 ||lexosaa.nl^
@@ -1782,6 +1786,7 @@
 ||luxevit.com^
 ||luxevit.nl^
 ||luxiva-brand.com^
+||luxnltabakshop.sumupstore.com^
 ||luxovo.nl^
 ||luxunova.nl^
 ||luxziaa.nl^
@@ -2278,6 +2283,7 @@
 ||pinksneakers.nl^
 ||pipstudioutlet.com^
 ||pirri.blog^
+||pizzeriaefes-groenlo.nl^
 ||pkaianselam.com^
 ||plantdak-landbouw.com^
 ||plantenkoning.nl^
@@ -2894,6 +2900,7 @@
 ||theathletsfoot.com^
 ||thebbqgrill.nl^
 ||thebestsneaker.com^
+||theblessedfood-hoofddorp.nl^
 ||thechronoswiss.com^
 ||thedesignlamp.nl^
 ||thefootshop.nl^
@@ -3144,6 +3151,7 @@
 ||vermisboutiquenl.com^
 ||vernica.nl^
 ||verova-amsterdam.nl^
+||versteegenergie.com^
 ||vervoort-amsterdam.com^
 ||verzorgingbeste.com^
 ||vessinederland.com^

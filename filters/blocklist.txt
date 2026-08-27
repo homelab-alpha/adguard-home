@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters and specifically simplified to be more compatible with ad blocking at the DNS level.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-08-27T06:57:05+0200
+! Last modified: 2026-08-27T07:35:28+0200
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -17,10 +17,13 @@
 ||2mdn.net^
 ||ab.chatgpt.com^
 ||acsbapp.com^
+||cdn-ster-nl.akamaized.net^
 ||cdn.consentmanager.net^
 ||cxense.com^
 ||diag.meethue.com^
 ||eu-mobile.events.data.microsoft.com^
+||external-content.duckduckgo.com^
+||iculture.nl/consent^
 ||klaviyo.com^
 ||marketingcloudapis.com^
 ||modules4u.biz^
@@ -30,13 +33,11 @@
 ||recommend-ui-eu.vidaahub.com^
 ||revenuecat.com^
 ||sensorsdata.com^
-||tweakers.*/campagne/*
+||t9c2h6b1q8w6.azurewebsites.net^
+||ter-jrnl-eu.vidaahub.com^
+||tweakers.*/campagne/*^
 ||tweakers.*/info/acties-en-evenementen^
 ||ws.chatgpt.com^
-||external-content.duckduckgo.com^$important
-||ter-jrnl-eu.vidaahub.com^$important
-||cdn-ster-nl.akamaized.net^$important
-||t9c2h6b1q8w6.azurewebsites.net^$important
 !
 ! Axios npm Supply Chain Attack C2 Communication IPs
 ||sfrclak.com^

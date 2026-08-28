@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list that hide ads, sponsored content, and other unwanted page elements.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-08-28T07:55:17+02:00
+! Last modified: 2026-08-28T08:01:24+0200
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -39,7 +39,8 @@
 bol.com###mainContent > * > *:has([data-testid="advertisement-disclaimer-icon"])
 ecosia.org##.main-nav, .sidebar, .layout__footer
 iculture.nl###content-start > aside.sidebar.hidden
-nrc.nl##[class^="paywall, dmt-login-modal"]
+nrc.nl##[class^="dmt-login-modal"]
+nrc.nl##[class^="paywall"]
 tweakers.net##.sponsored-actions, .promotions
 tweakers.net##twk-alert-bar[campaign-name]
 tweakers.net##twk-sidebar

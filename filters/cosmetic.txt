@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list that hide ads, sponsored content, and other unwanted page elements.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-08-28T07:45:07+0200
+! Last modified: 2026-08-28T07:52:29+0200
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -45,6 +45,7 @@ tweakers.net##twk-alert-bar[campaign-name]
 tweakers.net##twk-sidebar
 unsplash.com##figure:has(a[href^="/plus?"])
 unsplash.com##figure:has(a[href="/advertise"])
+woonkeus-stedendriehoek.nl##[class^="tooltipster"]
 woonkeus-stedendriehoek.nl###main-content > div.content.frame-default.frame-type-text.frame-list-type-.frame-layout-0.frame-space-before-default.frame-space-after-default.zds-bg-accent-03-subtle.zds-color-accent-03-subtle-foreground.zds-color-accent-03-subtle-foreground-headline:nth-child(2) > div.zds-container-fluid
 !
 !Testing

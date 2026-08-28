@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of compliance advice for internet access providers on EU sanctions.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-08-28T07:55:17+02:00
+! Last modified: 2026-08-28T08:26:21+0200
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -201,6 +201,7 @@
 ||ren.tv^
 ||rg.ru^
 ||ria.ru^
+||riaru.online^
 ||rossia1.online^
 ||rossiya1.com^
 ||rossiyasegodnya.com^
@@ -238,6 +239,7 @@
 ||rtnewsde.tech^
 ||rtr-planeta.com^
 ||rtr-planeta.ru^
+||rtr-vesti.ru^
 ||ru1.su^
 ||rubaltic.ru^
 ||rus24tv.net^
@@ -262,6 +264,7 @@
 ||sputnik-georgia.com^
 ||sputnik-ossetia.com^
 ||sputnik-tj.com^
+||sputnik.af^
 ||sputnik.az^
 ||sputnik.by^
 ||sputnik.kg^
@@ -278,8 +281,10 @@
 ||sputniknews.in^
 ||sputniknews.jp^
 ||sputniknews.kz^
+||sputniknews.lat^
 ||sputniknews.lt^
 ||sputniknews.ru^
+||sputniknewsbr.com.br^
 ||sputniknewslv.com^
 ||sputnikportal.rs^
 ||stavropolye.tv^

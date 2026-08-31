@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list that blocks ads and ad tracking using regular expression syntax.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-08-28T07:55:17+02:00
+! Last modified: 2026-08-31T08:41:17+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -19,8 +19,7 @@
 /(?i)adhese/
 /(?i)adlocal/
 /(?i)ads-frontend/
-/(?i)ads-services/
-/(?i)ads(api|s(container|dk|identity|bygoogle)?|services?)/
+/(?i)ads(api|container|sdk|identity|bygoogle)/
 /(?i)ads[_-]?(banner|event|interest|placement|server|service|studio|system|target(type)?|video)/
 /(?i)ads[_-]?choices/
 /(?i)adsense/
@@ -28,7 +27,6 @@
 /(?i)advalue/
 /(?i)adverteren/
 /(?i)advertiser/
-/(?i)advertising-module/
 /(?i)advertising/
 /(?i)advertorial/
 /(?i)advision/
@@ -42,20 +40,16 @@
 /(?i)branded/
 /(?i)campagne/
 /(?i)consent/
-/(?i)cookie-consents/
 /(?i)cookiebar/
 /(?i)cookiebot/
 /(?i)cookiename/
 /(?i)cookies/
-/(?i)copilot-telemetry/
 /(?i)crashlyticsreports/
 /(?i)debuginfo/
 /(?i)didomi/
 /(?i)displayad/
-/(?i)eligibility-panelresearch/
 /(?i)feedback/
 /(?i)fwmrm/
-/(?i)generate_204/
 /(?i)gesponsord/
 /(?i)googleads/
 /(?i)iad/
@@ -64,21 +58,14 @@
 /(?i)logger/
 /(?i)measurementdata/
 /(?i)metrics/
-/(?i)myprivacy-static/
 /(?i)pagead/
-/(?i)paywall-api/
 /(?i)paywall/
-/(?i)privacy-gate/
 /(?i)recaptcha/
 /(?i)searchads/
 /(?i)sentry/
 /(?i)smartad/
 /(?i)sponsored/
-/(?i)sponsoredproducts/
 /(?i)streamgate/
-/(?i)talpanetwork-privacy/
 /(?i)telemetry/
-/(?i)temptation/
-/(?i)temptationtrackingid/
-/(?i)tracking-module/
+/(?i)tracking/
 /(?i)videoadd/

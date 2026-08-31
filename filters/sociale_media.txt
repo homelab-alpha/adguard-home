@@ -3,7 +3,7 @@
 ! Description:  Filter consisting of a list that blocks social media websites.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-08-28T07:55:17+02:00
+! Last modified: 2026-08-31T08:41:17+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -34,7 +34,7 @@
 ||deviantart.com^
 ||dianping.com^
 ||diasporafoundation.org^
-||discord.com^
+@@||discord.com^
 ||douban.com^
 ||douyin.com^
 ||dribbble.com^

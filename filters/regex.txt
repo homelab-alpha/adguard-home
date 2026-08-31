@@ -39,7 +39,6 @@
 /(?i)bigspark/
 /(?i)branded/
 /(?i)campagne/
-/(?i)challenges/
 /(?i)consent/
 /(?i)cookiebar/
 /(?i)cookiebot/

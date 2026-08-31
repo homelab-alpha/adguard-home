@@ -68,5 +68,7 @@
 /(?i)sponsored/
 /(?i)streamgate/
 /(?i)telemetry/
+/(?i)temptation/
+/(?i)temptations/
 /(?i)tracking/
 /(?i)videoadd/

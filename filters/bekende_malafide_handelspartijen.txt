@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-09-01T11:52:21+02:00
+! Last modified: 2026-09-03T08:49:22+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -3393,6 +3393,7 @@
 ||zandstra-amsterdam.com^
 ||zanzoo.nl^
 ||zappestore.com^
+||zaqtkka.shop^
 ||zarane.nl^
 ||zariva.nl^
 ||zaurias.com^

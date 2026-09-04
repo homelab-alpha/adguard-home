@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters and specifically simplified to be more compatible with ad blocking at the DNS level.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-08-31T08:41:17+02:00
+! Last modified: 2026-09-04T01:56:08+0200
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -16,9 +16,13 @@
 !
 ||cdn-ster-nl.akamaized.net^
 ||diag.meethue.com^
+||iculture.*/consent^
 ||recommend-ui-eu.vidaahub.com^
 ||revenuecat.com^
 ||sensorsdata.com^
+||sp.dpgmedia.*^
+||t.destentor.*^
+||temptation.destentor.*/temptation^
 ||ter-jrnl-eu.vidaahub.com^
 !
 ! Axios npm Supply Chain Attack C2 Communication IPs

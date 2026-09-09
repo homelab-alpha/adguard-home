@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list that hide ads, sponsored content, and other unwanted page elements.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-09-04T01:56:08+0200
+! Last modified: 2026-09-09T09:42:36+0200
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -35,8 +35,12 @@
 ! example.com#$#div.ad:has([data-testid="advertisement-disclaimer-icon"]) { outline: 3px solid red !important; }
 !
 !
+9to5linux.com##[id^="block-2"]
+9to5linux.com##[id^="text-22"]
 9to5mac.com##[class^="featured-posts-banner-container container"]
+9to5mac.com##[class^="sidebar container xs"]
 bol.com###mainContent > * > *:has([data-testid="advertisement-disclaimer-icon"])
+distrowatch.com##[class^="News"]
 ecosia.org##.main-nav, .sidebar, .layout__footer
 icreatemagazine.nl##[class^="b-block  b-form-segmentation"]
 icreatemagazine.nl##[class^="b-block  b-magazine-header  "]
@@ -52,6 +56,8 @@ iculture.nl###content-start > aside.sidebar.hidden
 nrc.nl##[class^="dmt-login-modal"]
 nrc.nl##[class^="paywall"]
 tweakers.net##.sponsored-actions, .promotions
+tweakers.net##[class^="relevancyColumn responsiveHideColumn"]
+tweakers.net##[role^="tabpanel"]
 tweakers.net##twk-alert-bar[campaign-name]
 tweakers.net##twk-sidebar
 unsplash.com##figure:has(a[href^="/plus?"])

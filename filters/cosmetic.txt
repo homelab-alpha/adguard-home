@@ -40,8 +40,10 @@
 9to5mac.com##[class^="featured-posts-banner-container container"]
 9to5mac.com##[class^="sidebar container xs"]
 bol.com###mainContent > * > *:has([data-testid="advertisement-disclaimer-icon"])
-bright.nl##[class^="optional-external-snippet"]
-bright.nl##[class^="ad^"]
+bright.nl##[aria-label^="Videospeler"]
+bright.nl##[class^="NewsList_injection"]
+bright.nl##[class^="VideoCarousel"]
+bright.nl##[data-testid^="article-block-external-snippet-block"]
 ecosia.org##.main-nav, .sidebar, .layout__footer
 icreatemagazine.nl##[class^="b-block  b-form-segmentation"]
 icreatemagazine.nl##[class^="b-block  b-magazine-header  "]

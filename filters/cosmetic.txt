@@ -41,6 +41,7 @@
 9to5mac.com##[class^="sidebar container xs"]
 bol.com###mainContent > * > *:has([data-testid="advertisement-disclaimer-icon"])
 bright.nl##[class^="optional-external-snippet"]
+bright.nl##[class^="ad ExternalSnippet"]
 ecosia.org##.main-nav, .sidebar, .layout__footer
 icreatemagazine.nl##[class^="b-block  b-form-segmentation"]
 icreatemagazine.nl##[class^="b-block  b-magazine-header  "]

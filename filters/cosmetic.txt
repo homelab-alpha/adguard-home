@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list that hide ads, sponsored content, and other unwanted page elements.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-09-09T09:50:00+0200
+! Last modified: 2026-09-10T11:12:21+0200
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -13,37 +13,18 @@
 ! Expires: 90 days (update frequency)
 !
 !
-! --------------------------------------------------------------------
-! Testing
-! --------------------------------------------------------------------
-! To verify that a cosmetic selector matches the correct element,
-! temporarily replace the cosmetic filter with a JavaScript injection
-! rule that draws a red outline.
-!
-! Examples:
-!
-! Hide an element by class:
-! example.com##div.ad
-!
-! Highlight the same element:
-! example.com#$#div.ad { outline: 3px solid red !important; }
-!
-! Hide a parent element containing a specific child:
-! example.com##div.ad:has([data-testid="advertisement-disclaimer-icon"])
-!
-! Highlight the same parent element:
-! example.com#$#div.ad:has([data-testid="advertisement-disclaimer-icon"]) { outline: 3px solid red !important; }
-!
-!
+||youtube.com^$removeparam=/^(themeRefresh|experimental|captions)=/
 9to5linux.com##[id^="block-2"]
 9to5linux.com##[id^="text-22"]
 9to5mac.com##[class^="featured-posts-banner-container container"]
 9to5mac.com##[class^="sidebar container xs"]
 bol.com###mainContent > * > *:has([data-testid="advertisement-disclaimer-icon"])
 bright.nl##[aria-label^="Videospeler"]
+bright.nl##[class^="BrandedHeading_BrandedHeading__zMvM_ BrandedHeading_BrandedHeading--variant-border-bottom__Cq0YO NewsFooter_video-heading__c5C8n"]
 bright.nl##[class^="NewsList_injection"]
 bright.nl##[class^="VideoCarousel"]
 bright.nl##[data-testid^="article-block-external-snippet-block"]
+bright.nl##[data-testid^="youtube-video"]
 ecosia.org##.main-nav, .sidebar, .layout__footer
 icreatemagazine.nl##[class^="b-block  b-form-segmentation"]
 icreatemagazine.nl##[class^="b-block  b-magazine-header  "]
@@ -67,6 +48,3 @@ unsplash.com##figure:has(a[href^="/plus?"])
 unsplash.com##figure:has(a[href="/advertise"])
 woonkeus-stedendriehoek.nl##[class^="tooltipster"]
 woonkeus-stedendriehoek.nl###main-content > div.content.frame-default.frame-type-text.frame-list-type-.frame-layout-0.frame-space-before-default.frame-space-after-default.zds-bg-accent-03-subtle.zds-color-accent-03-subtle-foreground.zds-color-accent-03-subtle-foreground-headline:nth-child(2) > div.zds-container-fluid
-!
-!Testing
-||youtube.com^$removeparam=/^(themeRefresh|experimental|captions)=/

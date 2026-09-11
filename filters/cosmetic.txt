@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list that hide ads, sponsored content, and other unwanted page elements.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-09-11T08:28:46+0200
+! Last modified: 2026-09-10T11:12:21+0200
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -19,6 +19,12 @@
 9to5mac.com##[class^="featured-posts-banner-container container"]
 9to5mac.com##[class^="sidebar container xs"]
 bol.com###mainContent > * > *:has([data-testid="advertisement-disclaimer-icon"])
+bright.nl##[aria-label^="Videospeler"]
+bright.nl##[class^="BrandedHeading_BrandedHeading__zMvM_ BrandedHeading_BrandedHeading--variant-border-bottom__Cq0YO NewsFooter_video-heading__c5C8n"]
+bright.nl##[class^="NewsList_injection"]
+bright.nl##[class^="VideoCarousel"]
+bright.nl##[data-testid^="article-block-external-snippet-block"]
+bright.nl##[data-testid^="youtube-video"]
 ecosia.org##.main-nav, .sidebar, .layout__footer
 icreatemagazine.nl##[class^="b-block  b-form-segmentation"]
 icreatemagazine.nl##[class^="b-block  b-magazine-header  "]

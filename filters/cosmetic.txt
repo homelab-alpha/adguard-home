@@ -18,7 +18,7 @@
 9to5linux.com##[id^="text-22"]
 9to5mac.com##[class^="featured-posts-banner-container container"]
 9to5mac.com##[class^="sidebar container xs"]
-bol.com###mainContent > * > *:has([data-testid="advertisement-disclaimer-icon"])
+!bol.com###mainContent > * > *:has([data-testid="advertisement-disclaimer-icon"])
 bright.nl##[aria-label^="Videospeler"]
 bright.nl##[class^="BrandedHeading_BrandedHeading__zMvM_ BrandedHeading_BrandedHeading--variant-border-bottom__Cq0YO NewsFooter_video-heading__c5C8n"]
 bright.nl##[class^="NewsList_injection"]

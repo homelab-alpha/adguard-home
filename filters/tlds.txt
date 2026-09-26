@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list that blocks Top Level Domains.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-08-28T07:55:17+02:00
+! Last modified: 2026-09-26T09:16:23+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -19,6 +19,7 @@
 ||ads^
 ||bet^
 ||bingo^
+||biz^
 ||bot^
 ||by^
 ||casino^

@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-09-23T09:02:33+02:00
+! Last modified: 2026-09-25T09:21:03+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -351,6 +351,7 @@
 ||bikevibez.com^
 ||bikevibez.nl^
 ||bikewinkel.com^
+||billetvia.com^
 ||bio-houtpellets.store^
 ||biologischeplantenbescherming.com^
 ||bironl.com^
@@ -1052,6 +1053,7 @@
 ||flowzi.nl^
 ||flumbodeals.com^
 ||fmcg-excellence.eu^
+||fmminicars.com^
 ||fogellas.com^
 ||folder-aanbiedingen.com^
 ||folder-deals.com^
@@ -2878,11 +2880,14 @@
 ||tcgmarket24.com^
 ||tcgmastershop.com^
 ||tcg-paradijs.nl^
+||tcgtokimon.nl^
 ||tcgtopia.nl^
 ||tcgtrainers.nl^
+||tcgwereld.nl^
 ||tcg-world.nl^
 ||team-visma.za.com^
 ||techdeluxe.eu^
+||techkoning.nl^
 ||techmagazijn.com^
 ||tech-mania.nl^
 ||technelo.com^

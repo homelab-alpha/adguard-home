@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-09-25T09:21:03+02:00
+! Last modified: 2026-10-03T08:09:14+0200
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -25,6 +25,7 @@
 *holdius.com^
 *jewellerysale.sbs^
 *kruidvat-discount.shop^
+*lovable.app^
 *majestic-amsterdam.nl^
 *molo-sale.shop^
 *mvips.shop^
@@ -306,6 +307,7 @@
 ||bennanivastgoed.nl^
 ||benoitbois.com^
 ||bentetour.com^
+||bentofield.com^
 ||bentora-nl.com^
 ||benuapotheekonline.com^
 ||benzodiazepinen.nl^
@@ -1836,6 +1838,7 @@
 ||maisonhoek.com^
 ||maisons-amstelveen.nl^
 ||maison-vallon.com^
+||makkelijke.lovable.app^
 ||malego.nl^
 ||mall-discounts.com^
 ||maluxa.nl^
@@ -2416,6 +2419,7 @@
 ||rdwservice.nl^
 ||realhout-nl.com^
 ||realprojectpro.store^
+||rebehout.com^
 ||recovlex.nl^
 ||redash.nl^
 ||redema-buiten.nl^
@@ -2584,6 +2588,7 @@
 ||search-planeet.com^
 ||season-bikes.nl^
 ||seasonkinderwagen.com^
+||seatoria.com^
 ||seatseak.com^
 ||sebago-nederland.com^
 ||sediaxlwinkel.com^
@@ -2964,6 +2969,7 @@
 ||tonyskoperss.com^
 ||toolscomplex.nl^
 ||toolsforbulls.nl^
+||toolsmagazijn.com^
 ||tool-station.nl^
 ||tools-voordelig.com^
 ||tophome-nl.com^
@@ -3358,6 +3364,7 @@
 ||wisdominl.net^
 ||wisdomtech.online^
 ||witgoedhandel-dezwaan.nl^
+||witgoednu.nl^
 ||witgoedvandaag.nl^
 ||wizholzshops.de^
 ||woerdencreditsunion.com^

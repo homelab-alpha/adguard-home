@@ -51,7 +51,7 @@ tweakers.net##[id^="b_tb"]
 tweakers.net##[role^="tabpanel"]
 tweakers.net##twk-alert-bar[campaign-name]
 tweakers.net##twk-sidebar
-tweakers.net##[class^="NbCmZYrrp"]
+tweakers.net##[id^="mwcVOAvMnn"]
 unsplash.com##figure:has(a[href^="/plus?"])
 unsplash.com##figure:has(a[href="/advertise"])
 woonkeus-stedendriehoek.nl##[class^="tooltipster"]

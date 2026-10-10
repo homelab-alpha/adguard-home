@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-10-03T08:09:14+0200
+! Last modified: 2026-10-10T09:34:29+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -991,6 +991,7 @@
 ||ferella.nl^
 ||fidal-nl.com^
 ||fietsbronwater.com^
+||fietsencentrum.is^
 ||fietsengarant.nl^
 ||fietsenland.com^
 ||fietsen-markt.com^
@@ -1170,6 +1171,7 @@
 ||gigantik.nl^
 ||gimmono.com^
 ||girohout.nl^
+||gla-containers.nl^
 ||glamou.nl^
 ||global-sneaker.shop^
 ||glowstudios.nl^
@@ -1828,6 +1830,7 @@
 ||mabslive.com^
 ||machinekist.nl^
 ||madalenia.myshopify.com^
+||madeforgaming.com^
 ||madison-maastricht.com^
 ||madurro.nl^
 ||maesh.nl^
@@ -2591,6 +2594,7 @@
 ||seatoria.com^
 ||seatseak.com^
 ||sebago-nederland.com^
+||secondlight.nl^
 ||sediaxlwinkel.com^
 ||seizoensmode.nl^
 ||sekswerkerinformatie.nl^
@@ -2969,6 +2973,7 @@
 ||tonyskoperss.com^
 ||toolscomplex.nl^
 ||toolsforbulls.nl^
+||toolshuis.com^
 ||toolsmagazijn.com^
 ||tool-station.nl^
 ||tools-voordelig.com^

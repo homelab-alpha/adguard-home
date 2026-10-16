@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-10-10T09:34:29+02:00
+! Last modified: 2026-10-16T15:44:25+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -312,6 +312,7 @@
 ||benuapotheekonline.com^
 ||benzodiazepinen.nl^
 ||berendbud.com^
+||beri-vita.com^
 ||berksteijn.nl^
 ||berlin-modehaus.com^
 ||berry-bois.com^
@@ -451,6 +452,7 @@
 ||brunowinkel.nl^
 ||bubbelbadennederland.nl^
 ||buddlebed.com^
+||buddyfiets.nl^
 ||budgethardware.net^
 ||budgetplanet.nl^
 ||buitenmeubel.com^
@@ -946,6 +948,7 @@
 ||expertoutlet.nl^
 ||expert-outlets.nl^
 ||expertoutlets.nl^
+||expert-voordeel.com^
 ||expertwonen.nl^
 ||expo-agencyy.com^
 ||expressbois.com^
@@ -1141,6 +1144,7 @@
 ||geleend.eu^
 ||gellynederland.nl^
 ||geluksdag.co^
+||gemhunt.nl^
 ||gems-amsterdam.nl^
 ||genoptage.com^
 ||genteau-amsterdam.nl^
@@ -1354,6 +1358,7 @@
 ||houtpellets-wood.com^
 ||houtpellett.com^
 ||houtpellet-winkel.com^
+||hout-plus.com^
 ||houtverwarmers.com^
 ||hout-warm.com^
 ||hqcosmeticabv.com^
@@ -1361,6 +1366,7 @@
 ||hub-online.eu^
 ||hudsonbays-outlet.nl^
 ||huestudios.nl^
+||huisblossom.com^
 ||huisdecoratie-nl.com^
 ||huisdiergeluk.com^
 ||huisdierlief.com^
@@ -1624,6 +1630,7 @@
 ||krijgjevoorraad.com^
 ||krobona.com^
 ||krobona.nl^
+||kroonmarkt.com^
 ||kruidvat.dealsse.shop^
 ||krultangensaleshop.com^
 ||ks-bauma.de^
@@ -2272,6 +2279,7 @@
 ||panamajack-belgie.com^
 ||panamajacknl.com^
 ||pannen-shop.com^
+||paradijs-tcg.nl^
 ||parelmeer.nl^
 ||parfumdiscounters.nl^
 ||parfumgenot.com^

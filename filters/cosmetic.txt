@@ -52,6 +52,8 @@ tweakers.net##[role^="tabpanel"]
 tweakers.net##twk-alert-bar[campaign-name]
 tweakers.net##twk-sidebar
 tweakers.net##[id^="mwcVOAvMnn"]
+tweakers.net##[id^="naVwwnCRO"]
+tweakers.net##[class^="UTzAquUth "]
 tweakers.net##[class^="category-bar"]
 unsplash.com##figure:has(a[href^="/plus?"])
 unsplash.com##figure:has(a[href="/advertise"])

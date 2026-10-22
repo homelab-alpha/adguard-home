@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-10-16T15:44:25+02:00
+! Last modified: 2026-10-22T06:13:51+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -533,6 +533,7 @@
 ||cigkoftemhaarlem.nl^
 ||cimorra.com^
 ||citexenergy.nl^
+||citimarkt.com^
 ||cizanofashion.nl^
 ||clara-sneakers.shop^
 ||clarksschoenen.com^
@@ -582,6 +583,7 @@
 ||corneril.com^
 ||corvynna.com^
 ||cosmeticgiftset.com^
+||costumsolutions.com^
 ||cotopaxigoods.shop^
 ||cotopaximarket.shop^
 ||couponcabin-nl.com^
@@ -727,6 +729,7 @@
 ||devries-mode.nl^
 ||devuurgenoten.com^
 ||dewoningzoeker.nu^
+||de-woon-collectie.nl^
 ||dexamfetamine-kopen.nl^
 ||dezigna.nl^
 ||dgpmediatools.com^
@@ -3143,6 +3146,7 @@
 ||vansouh.com^
 ||vantilburg-online.nl^
 ||vanveldemode.nl^
+||vanvelzensneakers.nl^
 ||van-vlietmode.nl^
 ||vanwesten-mode.nl^
 ||vanwillems.com^

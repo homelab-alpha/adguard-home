@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
-! Last modified: 2026-10-22T06:13:51+02:00
+! Last modified: 2026-10-27T06:36:16+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -426,6 +426,7 @@
 ||brandhout-markt.com^
 ||brandhoutmarkt.com^
 ||brandhout-nl.com^
+||brandhoutpuype.com^
 ||brandhoutweertvof.nl^
 ||brandi-amsterdam.nl^
 ||branelys.com^
@@ -813,6 +814,7 @@
 ||dutchsneakers.com^
 ||dutchsneakervault.nl^
 ||dutchsport.net^
+||dwellvector.com^
 ||dyalifestyle.com^
 ||dylawear.com^
 ||dyson-benelux.com^
@@ -984,6 +986,7 @@
 ||fatbikeoutlet.nl^
 ||fatbikeshopmaashorst.nl^
 ||fatbikesz.nl^
+||fatbikeszz.com^
 ||fatbikeszz.nl^
 ||faugets.nl^
 ||feestdagendeals.nl^
@@ -1349,6 +1352,7 @@
 ||houtmans.com^
 ||houtmarkten.com^
 ||houtpallet.com^
+||houtparket.com^
 ||houtpelletsbrandhout.nl^
 ||houtpelletsenergie.com^
 ||houtpellets-markt.com^
@@ -2313,6 +2317,7 @@
 ||pharma-punt.nl^
 ||pharmapunt.nl^
 ||philipppleinoutletnederland.com^
+||phiren-brandhout.com^
 ||phonemarket24.nl^
 ||pijnstillersapotheek.nl^
 ||pikamarkt.eu^

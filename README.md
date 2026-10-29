@@ -172,4 +172,4 @@ See the [LICENSE] file for more details.
 [security report]: https://github.com/homelab-alpha/adguard-home/issues/new?assignees=homelab-alpha&labels=security&projects=&template=security_report.yml
 [give feedback]: https://github.com/homelab-alpha/adguard-home/discussions/categories/feedback
 [feature request]: https://github.com/homelab-alpha/adguard-home/discussions/categories/feature-request
-[LICENSE]: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
+[LICENSE]: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE

@@ -2,7 +2,7 @@
 ! Title: Sociale Media
 ! Description:  Filter consisting of a list that blocks social media websites.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
-! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
+! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE
 ! Last modified: 2026-08-31T08:41:17+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home

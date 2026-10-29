@@ -2,7 +2,7 @@
 ! Title: DNS type
 ! Description: Filter consisting of a list that analyzes what type of DNS requests they are and then determines whether they should be locked using a rule in a DNS block list.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
-! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
+! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE
 ! Last modified: 2026-08-28T07:55:17+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home

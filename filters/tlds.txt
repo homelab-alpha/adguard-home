@@ -2,7 +2,7 @@
 ! Title: TLDs
 ! Description: Filter consisting of a list that blocks Top Level Domains.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
-! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
+! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE
 ! Last modified: 2026-09-26T09:16:23+02:00
 !
 ! Compiled by @homelab-alpha/adguard-home

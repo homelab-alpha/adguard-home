@@ -2,7 +2,7 @@
 ! Title: Whitelist
 ! Description: Filter consisting of a DNS whitelist that allows authorized domain names.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
-! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
+! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE
 ! Last modified: 2026-09-06T09:02:13+0200
 !
 ! Compiled by @homelab-alpha/adguard-home

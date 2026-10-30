@@ -2,7 +2,7 @@
 ! Title: Cosmetic
 ! Description: Filter consisting of a list that hide ads, sponsored content, and other unwanted page elements.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
-! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE.md
+! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE
 ! Last modified: 2026-10-12T08:06:22+0200
 !
 ! Compiled by @homelab-alpha/adguard-home

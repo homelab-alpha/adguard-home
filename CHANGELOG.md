@@ -11,6 +11,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- Run the known malicious trading parties workflow every 8 hours instead of
+  every 3 hours
+
 ### Deprecated
 
 ### Removed

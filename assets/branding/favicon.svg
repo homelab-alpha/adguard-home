@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>adguard-home</title>
+  <style>
+    .line { stroke: #1D1D1F; }
+    .dot { fill: #FF9500; }
+    @media (prefers-color-scheme: dark) {
+      .line { stroke: #F5F5F7; }
+      .dot { fill: #FF9F0A; }
+    }
+  </style>
+  <path class="line" d="M10 16 H54 M10 32 H26 M10 48 H46" fill="none" stroke-width="7"
+    stroke-linecap="round" stroke-linejoin="round"/>
+  <circle class="dot" cx="42" cy="32" r="8"/>
+</svg>

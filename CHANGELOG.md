@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Add a link to the documentation site to `README.md`
 - Add a brand guide and branding files in `assets/branding/` (logo, icons,
   favicon, and social preview), and show the logo at the top of `README.md`
 - Add the `badges.yml` workflow and `scripts/generate_badges.py` to render the

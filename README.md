@@ -64,6 +64,9 @@ allowlists for services that must keep working.
 The list of known fraudulent trading parties is updated automatically on a
 schedule by the `bekende_malafide_handelspartijen.yml` workflow.
 
+More documentation is on the
+[Homelab-Alpha documentation site](https://homelab-alpha.nl/adguard-home/).
+
 ## Features
 
 - **19 filter lists** in `filters/`, each with a title and description in its

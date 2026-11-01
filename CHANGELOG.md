@@ -34,6 +34,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ignore `notes.md`, `super_linter.log`, and Python cache files in `.gitignore`
 - Run the known malicious trading parties workflow every 8 hours instead of
   every 3 hours
+- Replace the deprecated `deny-licenses` option in `dependency_review.yml` with
+  an `allow-licenses` list of permissive licenses and CC BY-NC-SA 4.0, so GPL
+  and LGPL stay blocked
+- Check development dependencies too in `dependency_review.yml`, by setting
+  `fail-on-scopes` to `runtime, development`
 
 ### Deprecated
 

@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters and specifically simplified to be more compatible with ad blocking at the DNS level.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE
-! Last modified: 2026-09-11T08:34:44+0200
+! Last modified: 2026-10-3T10:02:44+0100
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -14,18 +14,21 @@
 ! Expires: 90 days (update frequency)
 !
 !
+||adsdk.microsoft.com^
 ||advertising-cdn.dpgmedia.*^
 ||cdn-ster-nl.akamaized.net^
 ||diag.meethue.com^
 ||iculture.*/consent^
 ||mychannels.video^
 ||myprivacy-static.dpgmedia.*^
+||optoutadvertising.com^
 ||recommend-ui-eu.vidaahub.com^
 ||revenuecat.com^
 ||sensorsdata.com^
 ||sp.dpgmedia.*^
 ||t.destentor.*^
 ||temptation.destentor.*/temptation^
+||tentacles.smartocto.com^
 ||ter-jrnl-eu.vidaahub.com^
 ||tweakers.net/x/build/privacyGate^
 !

@@ -3,14 +3,14 @@
 ! Description: Filter consisting of a list of compliance advice for internet access providers on EU sanctions.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE
-! Last modified: 2026-08-28T08:26:21+0200
+! Last modified: 2026-11-04T13:21:54+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
 !
 ! Source name: NLconnect Reference List
 ! Source: https://raw.githubusercontent.com/homelab-alpha/adguard-home/main/filters/nlconnect_reference_list.txt
-! Version: v0.107.79-Alpha
+! Version: v0.107.80-Alpha
 ! Expires: 90 days (update frequency)
 !
 !

@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list that hide ads, sponsored content, and other unwanted page elements.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE
-! Last modified: 2026-10-12T08:06:22+0200
+! Last modified: 2026-11-04T11:26:22+0100
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -18,7 +18,6 @@
 9to5linux.com##[id^="text-22"]
 9to5mac.com##[class^="featured-posts-banner-container container"]
 9to5mac.com##[class^="sidebar container xs"]
-!bol.com###mainContent > * > *:has([data-testid="advertisement-disclaimer-icon"])
 bright.nl##[aria-label^="Videospeler"]
 bright.nl##[class^="BrandedHeading_BrandedHeading__zMvM_ BrandedHeading_BrandedHeading--variant-border-bottom__Cq0YO NewsFooter_video-heading__c5C8n"]
 bright.nl##[class^="NewsList_injection"]
@@ -35,7 +34,12 @@ icreatemagazine.nl##[class^="c-buytip in-content"]
 icreatemagazine.nl##[class^="c-buytip-header feat-head"]
 icreatemagazine.nl##[class^="c-latest-magazine-header"]
 icreatemagazine.nl##[class^="t-single-sidebar__item--read-more"]
+iculture.nl##[data-name^="ad-in-"]
+iculture.nl##[data-name^="ad-native-"]
 iculture.nl##[data-name^="block-newsletter-form"]
+iculture.nl##[id^="fh-placeholder"]
+iculture.nl##[id^="gpt-ad-"]
+iculture.nl##[id^="ia-placeholder"]
 iculture.nl###content-start > aside.sidebar.hidden
 nrc.nl##[class^="dmt-login-modal"]
 nrc.nl##[class^="paywall"]
@@ -43,20 +47,22 @@ tweakers.net##.sponsored-actions, .promotions
 tweakers.net##[class^="alert-bar-close"]
 tweakers.net##[class^="ankeiler-stream"]
 tweakers.net##[class^="border-box-container"]
+tweakers.net##[class^="category-bar"]
 tweakers.net##[class^="community-block"]
+tweakers.net##[class^="m-popup"]
+tweakers.net##[class^="popup__container"]
 tweakers.net##[class^="relevancyColumn responsiveHideColumn"]
+tweakers.net##[class^="SDBAUNNCk "]
 tweakers.net##[class^="sidebar"]
 tweakers.net##[class^="skip-to-main"]
+tweakers.net##[class^="UTzAquUth "]
 tweakers.net##[id^="b_tb"]
-tweakers.net##[role^="tabpanel"]
-tweakers.net##twk-alert-bar[campaign-name]
-tweakers.net##twk-sidebar
 tweakers.net##[id^="mwcVOAvMnn"]
 tweakers.net##[id^="naVwwnCRO"]
 tweakers.net##[id^="SwOafReQB"]
-tweakers.net##[class^="SDBAUNNCk "]
-tweakers.net##[class^="UTzAquUth "]
-tweakers.net##[class^="category-bar"]
+tweakers.net##[role^="tabpanel"]
+tweakers.net##twk-alert-bar[campaign-name]
+tweakers.net##twk-sidebar
 unsplash.com##figure:has(a[href^="/plus?"])
 unsplash.com##figure:has(a[href="/advertise"])
 woonkeus-stedendriehoek.nl##[class^="tooltipster"]

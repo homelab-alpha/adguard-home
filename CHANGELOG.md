@@ -53,6 +53,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - chore(cosmetic): update list [ee148bc](https://github.com/homelab-alpha/adguard-home/commit/ee148bcc570dd28a985ce1f5990297b457fc2e49) by [@homelab-alpha](https://github.com/homelab-alpha)
 - chore(blocklist): update list [82cc552](https://github.com/homelab-alpha/adguard-home/commit/82cc55261ff60e3f1c442227bb85e78ce69a3f3f) by [@homelab-alpha](https://github.com/homelab-alpha)
 - chore(blueprint): sync with the blueprint [589797e](https://github.com/homelab-alpha/adguard-home/commit/589797e693ab7564429eac83c3b1041d20500420) by [@homelab-alpha](https://github.com/homelab-alpha)
+- ci(workflows): use pull_request_body.py [ad7f95b](https://github.com/homelab-alpha/adguard-home/commit/ad7f95b9bcd221acab3ff5a4d3871d984e083ea1) by [@homelab-alpha](https://github.com/homelab-alpha)
+- ci(workflows): request a reviewer on bot PRs [8e89bb1](https://github.com/homelab-alpha/adguard-home/commit/8e89bb1ecc7632b15d2912a107e8873b86da8939) by [@homelab-alpha](https://github.com/homelab-alpha)
+- chore(github): sync Hugo and Dart Sass rules [0f746c8](https://github.com/homelab-alpha/adguard-home/commit/0f746c843f2ae15875d1db22f089a1f21226e20e) by [@homelab-alpha](https://github.com/homelab-alpha)
+- chore(github): sync runners, Renovate, and linters [d4ba0dc](https://github.com/homelab-alpha/adguard-home/commit/d4ba0dca93e75d7af4f4f2ffd4d804851cea6c78) by [@homelab-alpha](https://github.com/homelab-alpha)
 
 ### Deprecated
 

@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE
-! Last modified: 2026-11-04T13:21:54+01:00
+! Last modified: 2026-11-09T16:04:24+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -373,6 +373,7 @@
 ||bleufashion.nl^
 ||blingomedia.com^
 ||blokjeskopen.com^
+||blokken-hoek.nl^
 ||blokkerdeals.com^
 ||bltonlc.nl^
 ||bluebol.nl^
@@ -1863,6 +1864,7 @@
 ||mall-discounts.com^
 ||maluxa.nl^
 ||maluxe.nl^
+||mamablijheid.com^
 ||mambobaby-float.nl^
 ||mammafina.nl^
 ||mammutoutletsnederland.com^

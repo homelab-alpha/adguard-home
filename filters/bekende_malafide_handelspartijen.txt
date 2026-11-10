@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE
-! Last modified: 2026-11-09T16:04:24+01:00
+! Last modified: 2026-11-10T16:56:39+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -2233,6 +2233,7 @@
 ||onderweg-shop.com^
 ||onehypermarkets.com^
 ||oneillsale.shop^
+||oniramarket.com^
 ||online-droomhuis.com^
 ||onlinemedicatiebestellen.com^
 ||onlinemedicatiekopen.nl^
@@ -3157,6 +3158,7 @@
 ||vansouh.com^
 ||vantilburg-online.nl^
 ||vanveldemode.nl^
+||vanveldensneakers.com^
 ||vanvelzensneakers.nl^
 ||van-vlietmode.nl^
 ||vanwesten-mode.nl^

@@ -60,6 +60,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - ci(workflows): run workflows for bots [e206338](https://github.com/homelab-alpha/adguard-home/commit/e206338d482f2659e184fbaa10dee0d251aeccb0) by [@homelab-alpha](https://github.com/homelab-alpha)
 - ci(workflows): allow BlueOak-1.0.0 license [659326d](https://github.com/homelab-alpha/adguard-home/commit/659326dad9a9a0db491e30ffe47c2b435fe058b8) by [@homelab-alpha](https://github.com/homelab-alpha)
 - chore(labels): add dependency update labels [e58cc67](https://github.com/homelab-alpha/adguard-home/commit/e58cc67e7069895fa5c457e402c3682d109f13c8) by [@homelab-alpha](https://github.com/homelab-alpha)
+- chore(renovate): remove default assignees [feb5017](https://github.com/homelab-alpha/adguard-home/commit/feb5017ab5b563c35fbb20893dc4f19f0b3afb2a) by [@homelab-alpha](https://github.com/homelab-alpha)
 
 ### Deprecated
 

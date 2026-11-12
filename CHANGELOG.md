@@ -61,6 +61,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - ci(workflows): allow BlueOak-1.0.0 license [659326d](https://github.com/homelab-alpha/adguard-home/commit/659326dad9a9a0db491e30ffe47c2b435fe058b8) by [@homelab-alpha](https://github.com/homelab-alpha)
 - chore(labels): add dependency update labels [e58cc67](https://github.com/homelab-alpha/adguard-home/commit/e58cc67e7069895fa5c457e402c3682d109f13c8) by [@homelab-alpha](https://github.com/homelab-alpha)
 - chore(renovate): remove default assignees [feb5017](https://github.com/homelab-alpha/adguard-home/commit/feb5017ab5b563c35fbb20893dc4f19f0b3afb2a) by [@homelab-alpha](https://github.com/homelab-alpha)
+- chore(renovate): group and automerge updates [387f114](https://github.com/homelab-alpha/adguard-home/commit/387f114d173577bdd4a3f3714755ec8735e0882c) by [@homelab-alpha](https://github.com/homelab-alpha)
 
 ### Deprecated
 
@@ -76,6 +77,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - fix(docs): fix the TOC link to the first heading [0c88e24](https://github.com/homelab-alpha/adguard-home/commit/0c88e245e976264c632afebae116132548cda412) by [@homelab-alpha](https://github.com/homelab-alpha)
 - fix(changelog): remove the date from Unreleased [dfea888](https://github.com/homelab-alpha/adguard-home/commit/dfea888125ea7d779ed9c1cd4a726586deeb28f6) by [@homelab-alpha](https://github.com/homelab-alpha)
 - fix(changelog): remove the Unreleased link [813e7d1](https://github.com/homelab-alpha/adguard-home/commit/813e7d18173f165f790f568cb550fb1bce5597c8) by [@homelab-alpha](https://github.com/homelab-alpha)
+- fix(workflow): do not draft Renovate PRs [3b34729](https://github.com/homelab-alpha/adguard-home/commit/3b3472971a0e90f51297e55715273a9715b7b946) by [@homelab-alpha](https://github.com/homelab-alpha)
 
 ### Security
 

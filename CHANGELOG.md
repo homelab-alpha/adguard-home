@@ -62,6 +62,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - chore(labels): add dependency update labels [e58cc67](https://github.com/homelab-alpha/adguard-home/commit/e58cc67e7069895fa5c457e402c3682d109f13c8) by [@homelab-alpha](https://github.com/homelab-alpha)
 - chore(renovate): remove default assignees [feb5017](https://github.com/homelab-alpha/adguard-home/commit/feb5017ab5b563c35fbb20893dc4f19f0b3afb2a) by [@homelab-alpha](https://github.com/homelab-alpha)
 - chore(renovate): group and automerge updates [387f114](https://github.com/homelab-alpha/adguard-home/commit/387f114d173577bdd4a3f3714755ec8735e0882c) by [@homelab-alpha](https://github.com/homelab-alpha)
+- chore(sync): sync shared files with blueprint [65b8425](https://github.com/homelab-alpha/adguard-home/commit/65b84250c7be9af1dd388f0f509378303a39114f) by [@homelab-alpha](https://github.com/homelab-alpha)
 
 ### Deprecated
 

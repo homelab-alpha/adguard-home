@@ -355,12 +355,18 @@ jobs:
 
       - name: 📊 Generate job summary
         if: always()
+        env:
+          EXTRACT_COUNT: ${{ steps.extract.outputs.count || 0 }}
+          PROCESS_ADDED: ${{ steps.process.outputs.added || 0 }}
+          PROCESS_TOTAL: ${{ steps.process.outputs.total || 0 }}
+          PUBLISH_OUTPUT: ${{ steps.publish.outputs.result || 'not required' }}
+          PUBLISH_PR_URL: ${{ steps.publish.outputs.pr_url || 'none' }}
         run: |
           echo "::group::📊 Generating Summary Report"
 
           OVERALL_STATUS="${{ job.status == 'success' && '✅ Success' || '❌ Failed' }}"
           PROCESS_STATUS="${{ steps.process.outcome == 'success' && '✅ Success' || '❌ Failed' }}"
-          PUBLISH_RESULT="${{ steps.publish.outputs.result || 'not required' }}"
+          PUBLISH_RESULT="$PUBLISH_OUTPUT"
 
           cat <<EOF >>"$GITHUB_STEP_SUMMARY"
           ## 🛡️ Bekende Malafide Handelspartijen Summary
@@ -372,10 +378,10 @@ jobs:
 
           | Task | Result |
           | :--- | :--- |
-          | 🔍 Extracted URLs | ${{ steps.extract.outputs.count || 0 }} |
+          | 🔍 Extracted URLs | $EXTRACT_COUNT |
           | 🔄 Processing | $PROCESS_STATUS |
-          | ➕ New entries | ${{ steps.process.outputs.added || 0 }} |
-          | 📚 Total entries | ${{ steps.process.outputs.total || 0 }} |
+          | ➕ New entries | $PROCESS_ADDED |
+          | 📚 Total entries | $PROCESS_TOTAL |
           | 🚀 Publication | $PUBLISH_RESULT |
 
           ### ⚙️ Runtime Configuration
@@ -388,7 +394,7 @@ jobs:
           ### 🧩 Context
 
           - **Repository:** $REPO
-          - **Pull Request:** ${{ steps.publish.outputs.pr_url || 'none' }}
+          - **Pull Request:** $PUBLISH_PR_URL
           - **Workflow Run:** [View Details]($GITHUB_SERVER_URL/$REPO/actions/runs/$GITHUB_RUN_ID)
           EOF
 

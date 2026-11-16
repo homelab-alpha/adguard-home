@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE
-! Last modified: 2026-11-11T18:55:04+01:00
+! Last modified: 2026-11-16T12:05:42+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -1109,6 +1109,7 @@
 ||fueloutlets.com^
 ||fullyclassy.com^
 ||furbisher.nl^
+||furniabode.com^
 ||furnituremall.top^
 ||furniturre.nl^
 ||futanspace.com^
@@ -1938,6 +1939,7 @@
 ||megastunterstore.myshopify.com^
 ||megatoro.nl^
 ||mega-uitverkoop.com^
+||megaverkoopbtxnl.shop^
 ||megaweken.com^
 ||mehedani.com^
 ||meijer-mode.com^
@@ -3011,6 +3013,7 @@
 ||toprijzen.com^
 ||torea.nl^
 ||totaal-duurzaam.com^
+||tote-mo.nl^
 ||touelpellets.com^
 ||tousnl.net^
 ||tousvosbois.com^

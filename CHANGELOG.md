@@ -67,6 +67,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - chore: sync files with the blueprint [bff04c6](https://github.com/homelab-alpha/adguard-home/commit/bff04c62b87c01ae1c34ce4793e6123316079cfd) by [@homelab-alpha](https://github.com/homelab-alpha)
 - chore(workflows): allow the PSF-2.0 license [e009fe7](https://github.com/homelab-alpha/adguard-home/commit/e009fe7fe4ff6fe91db9a567b94bae7b5050d959) by [@homelab-alpha](https://github.com/homelab-alpha)
 - chore(workflows): allow more MIT-like licenses [60f0a27](https://github.com/homelab-alpha/adguard-home/commit/60f0a271b119caf76d2ea76e60ecae48e3926391) by [@homelab-alpha](https://github.com/homelab-alpha)
+- chore(renovate): group npm updates in one pr [1934864](https://github.com/homelab-alpha/adguard-home/commit/19348642269846a980ff9032aff1e26bec384556) by [@homelab-alpha](https://github.com/homelab-alpha)
 
 ### Deprecated
 

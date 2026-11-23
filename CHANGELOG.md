@@ -70,6 +70,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - chore(renovate): group npm updates in one pr [1934864](https://github.com/homelab-alpha/adguard-home/commit/19348642269846a980ff9032aff1e26bec384556) by [@homelab-alpha](https://github.com/homelab-alpha)
 - chore(renovate): group docker compose images [e22bc5a](https://github.com/homelab-alpha/adguard-home/commit/e22bc5abad665fa1a6dc8f699a8b6d673f735148) by [@homelab-alpha](https://github.com/homelab-alpha)
 - chore(labels): add renovate dependency labels [f2ce30e](https://github.com/homelab-alpha/adguard-home/commit/f2ce30e75d0aaeb485cf4dc453d3f887b9161ef6) by [@homelab-alpha](https://github.com/homelab-alpha)
+- docs: add conventional commits cheatsheet [1dceac8](https://github.com/homelab-alpha/adguard-home/commit/1dceac85432d21589dc80cdcc90ab419595510e2) by [@homelab-alpha](https://github.com/homelab-alpha)
 
 ### Deprecated
 

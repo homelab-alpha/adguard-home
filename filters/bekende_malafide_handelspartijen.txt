@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE
-! Last modified: 2026-11-23T20:40:06+01:00
+! Last modified: 2026-11-24T20:12:35+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -422,6 +422,7 @@
 ||bouwinradiatoren.nl^
 ||bouwkraam.nl^
 ||bouwmarkt-korting.com^
+||bouwstore-ov.com^
 ||brandfactorystore.shop^
 ||brandhout32.com^
 ||brandhoutenpellets.nl^
@@ -556,6 +557,7 @@
 ||cocoschile.com^
 ||codamer.nl^
 ||colda.nl^
+||coldcultureworldwideoutletseu.com^
 ||colio.nl^
 ||colutech.com^
 ||comane.nl^
@@ -1833,6 +1835,7 @@
 ||luxenoir.nl^
 ||luxens-nl.com^
 ||luxepassage.nl^
+||luxepsourliving.com^
 ||luxepsourlivings.com^
 ||luxesence.nl^
 ||luxesence.shop^
@@ -2479,6 +2482,7 @@
 ||resellr-warehouse.com^
 ||resolubois.com^
 ||restaurantpeter-doetinchem.nl^
+||retaeu.online^
 ||retail-merwede.nl^
 ||retro-jurken.nl^
 ||reviewpunt.nl^
@@ -2903,6 +2907,8 @@
 ||suprnederland.com^
 ||surround-sound.nl^
 ||sushibreakhoofddorp.nl^
+||suspiciousantwerp-eu.top^
+||suvene.nl^
 ||svvwebshop.nl^
 ||swastorecs.shop^
 ||swatchdealer.com^
@@ -2922,6 +2928,7 @@
 ||tavalio.com^
 ||taylorgents.nl^
 ||tcgdepot.nl^
+||tcg-hebels.nl^
 ||tcgmarket24.com^
 ||tcgmastershop.com^
 ||tcg-paradijs.nl^
@@ -3172,6 +3179,7 @@
 ||vanrosmalen-nijmegen.nl^
 ||vansouh.com^
 ||vantilburg-online.nl^
+||vanullsasdsanl.com^
 ||vanveldemode.nl^
 ||vanveldensneakers.com^
 ||vanvelzensneakers.nl^
@@ -3414,6 +3422,7 @@
 ||witgoedvandaag.nl^
 ||wizholzshops.de^
 ||woerdencreditsunion.com^
+||wohnstilform.com^
 ||wolkyfabrikverkauf.de^
 ||wolkyonline.shop^
 ||wolkyschoenenverkooppunten.com^

@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE
-! Last modified: 2026-11-24T20:12:35+01:00
+! Last modified: 2026-11-25T19:16:52+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -603,6 +603,7 @@
 ||cressi-shop.nl^
 ||crktyhyc.shop^
 ||cronuszen.nl^
+||cross-rider.nl^
 ||crypto-werk.nl^
 ||culture-28.com^
 ||culturedept.nl^
@@ -1880,6 +1881,7 @@
 ||mamablijheid.com^
 ||mambobaby-float.nl^
 ||mammafina.nl^
+||mammafina.store^
 ||mammutoutletsnederland.com^
 ||mamorae.nl^
 ||manfield-official.com^
@@ -3083,6 +3085,7 @@
 ||tuin-specialist.nl^
 ||tulipascents.com^
 ||turbolidlcraft.com^
+||twinbusch-bv.nl^
 ||twistbell.nl^
 ||twr-store.nl^
 ||twrstore-nl.com^

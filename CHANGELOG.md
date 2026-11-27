@@ -17,6 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   branch
 - feat(workflows): add bekende malafide handelspartijen update workflow [5bbb89b](https://github.com/homelab-alpha/adguard-home/commit/5bbb89b2163f51026de11e6170a2c01ae81d8080) by [@homelab-alpha](https://github.com/homelab-alpha)
 - feat(metadata): synchronize version with AdGuard Home main version [1f36d2a](https://github.com/homelab-alpha/adguard-home/commit/1f36d2ae52f68523ca3d85dc93f136b1df397bce) by [@homelab-alpha](https://github.com/homelab-alpha)
+- feat(github): add accessibility checks [f5fcf42](https://github.com/homelab-alpha/adguard-home/commit/f5fcf422334cfa65c7287aad99d69243a53ebc52) by [@homelab-alpha](https://github.com/homelab-alpha)
 
 ### Changed
 
@@ -71,6 +72,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - chore(renovate): group docker compose images [e22bc5a](https://github.com/homelab-alpha/adguard-home/commit/e22bc5abad665fa1a6dc8f699a8b6d673f735148) by [@homelab-alpha](https://github.com/homelab-alpha)
 - chore(labels): add renovate dependency labels [f2ce30e](https://github.com/homelab-alpha/adguard-home/commit/f2ce30e75d0aaeb485cf4dc453d3f887b9161ef6) by [@homelab-alpha](https://github.com/homelab-alpha)
 - docs: add conventional commits cheatsheet [1dceac8](https://github.com/homelab-alpha/adguard-home/commit/1dceac85432d21589dc80cdcc90ab419595510e2) by [@homelab-alpha](https://github.com/homelab-alpha)
+- docs(readme): add values to badge alt text [628771f](https://github.com/homelab-alpha/adguard-home/commit/628771f050e4ae8988505061465db9edce0cc3c0) by [@homelab-alpha](https://github.com/homelab-alpha)
+- docs: add accessibility statement [31cfe96](https://github.com/homelab-alpha/adguard-home/commit/31cfe966cb140a014730957b718cae65ac07c1c8) by [@homelab-alpha](https://github.com/homelab-alpha)
+- docs: link the accessibility statement [807814c](https://github.com/homelab-alpha/adguard-home/commit/807814c1241ef200f5057dac86286f5e7c38f7b9) by [@homelab-alpha](https://github.com/homelab-alpha)
+- docs: document NO_COLOR support [a729609](https://github.com/homelab-alpha/adguard-home/commit/a7296091a0f07afc3d73128cf1c0ab280fd6700b) by [@homelab-alpha](https://github.com/homelab-alpha)
+- docs: update the accessibility statement [98d897a](https://github.com/homelab-alpha/adguard-home/commit/98d897ae35c3589a310c322169c4f5561705d2cc) by [@homelab-alpha](https://github.com/homelab-alpha)
 
 ### Deprecated
 

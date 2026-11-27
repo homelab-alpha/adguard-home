@@ -3,7 +3,7 @@
 ! Description: Filter consisting of a list of trading parties (sellers and traders) known to the Dutch National Police to be fraudulent.
 ! Homepage: https://github.com/homelab-alpha/adguard-home
 ! License: https://github.com/homelab-alpha/adguard-home/blob/main/LICENSE
-! Last modified: 2026-11-26T18:58:24+01:00
+! Last modified: 2026-11-27T18:43:40+01:00
 !
 ! Compiled by @homelab-alpha/adguard-home
 !
@@ -239,6 +239,7 @@
 ||b54e8d.myshopify.com^
 ||babescandal.nl^
 ||babescandalshop.nl^
+||babykledingonline.com^
 ||babypark.saleseuoutlet.com^
 ||babyverkoop.com^
 ||badkamermeubelsetsshop.com^
@@ -1677,6 +1678,7 @@
 ||langstra.com^
 ||lantaarnfestival.com^
 ||lanzonia.com^
+||lapecora.nl^
 ||lapella.nl^
 ||laptopdiscount.net^
 ||laptopdiscount.nl^
@@ -2240,6 +2242,7 @@
 ||official-pangeae.nl^
 ||offthecut.nl^
 ||ohclothes.nl^
+||ohpollynederland.com^
 ||oils-natural.eu^
 ||oldertveenstraautos.com^
 ||oliveandella.nl^
@@ -3494,6 +3497,7 @@
 ||zariva.nl^
 ||zaurias.com^
 ||zazaroom-nl.com^
+||zdrbgowie.shop^
 ||zedora.nl^
 ||zedorawinkel.nl^
 ||zeemanstyle.com^

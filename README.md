@@ -265,6 +265,7 @@ adguard-home/
 ├── .pre-commit-config.yaml                       # Local pre-commit hooks (mirrors CI)
 ├── .prettierignore                               # Files excluded from Prettier formatting
 ├── .prettierrc                                   # Prettier configuration file
+├── ACCESSIBILITY.md                              # Accessibility statement
 ├── CHANGELOG.md                                  # Project change history
 ├── CLAUDE.md                                     # Project rules for Claude Code
 ├── CODE_OF_CONDUCT.md                            # Contributor Covenant Code of Conduct

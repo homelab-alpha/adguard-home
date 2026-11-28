@@ -77,6 +77,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - docs: link the accessibility statement [807814c](https://github.com/homelab-alpha/adguard-home/commit/807814c1241ef200f5057dac86286f5e7c38f7b9) by [@homelab-alpha](https://github.com/homelab-alpha)
 - docs: document NO_COLOR support [a729609](https://github.com/homelab-alpha/adguard-home/commit/a7296091a0f07afc3d73128cf1c0ab280fd6700b) by [@homelab-alpha](https://github.com/homelab-alpha)
 - docs: update the accessibility statement [98d897a](https://github.com/homelab-alpha/adguard-home/commit/98d897ae35c3589a310c322169c4f5561705d2cc) by [@homelab-alpha](https://github.com/homelab-alpha)
+- chore(renovate): ignore bot and owner commits [f146b32](https://github.com/homelab-alpha/adguard-home/commit/f146b320e2d735e46332e7a1a5ee99486e6d1bf9) by [@homelab-alpha](https://github.com/homelab-alpha)
+- ci(release): tag version commit, fix mentions [b19ea91](https://github.com/homelab-alpha/adguard-home/commit/b19ea91ca9d7587f3571eabc9413d28689d90de0) by [@homelab-alpha](https://github.com/homelab-alpha)
+- docs(policy): fix timeout-minutes indentation [512ac6c](https://github.com/homelab-alpha/adguard-home/commit/512ac6cedf62538b9af075aa019ebc5a63d4ce68) by [@homelab-alpha](https://github.com/homelab-alpha)
 
 ### Deprecated
 
